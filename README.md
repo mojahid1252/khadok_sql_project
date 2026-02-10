@@ -82,7 +82,8 @@ REFERENCES riders(rider_id)
 - **Before performing analysis, I ensured that the data was clean and free from null values where necessary. For instance:**
 ``` sql
 UPDATE orders
-SET total_amount = COALESCE(total_amount, 0); ```
+SET total_amount = COALESCE(total_amount, 0);
+  ```                                            `
 
 
 
