@@ -44,6 +44,16 @@ order_time time ,
 order_status varchar (20),
 total_amount NUMERIC(10,2)
 );
+-- adding fk constraint
+alter table orders
+Add constraint fk_customers
+foreign key(customer_id)
+references customers(customer_id);
+
+alter table orders
+add constraint fk_restaurant
+foreign key(restaurant_id)
+references restaurants(restaurant_id);
 
 create table riders(
 rider_id int primary key,
@@ -56,6 +66,16 @@ delivery_id INT PRIMARY KEY,
 order_id INT,        
 delivery_status VARCHAR(20),
 delivery_time TIME,
-rider_id INT,   ```
+rider_id INT,
+
+CONSTRAINT fk_orders
+FOREIGN KEY (order_id)
+REFERENCES orders(order_id),
+
+CONSTRAINT fk_riders
+FOREIGN KEY (rider_id)
+REFERENCES riders(rider_id)
+);
+  ```
 
 
