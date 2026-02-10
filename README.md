@@ -99,7 +99,8 @@ group by 1,2,3
 order by total_order desc) as t1
 where rank<=5;
 ```
-**2.Popular Time Slots based on 2-hour intervals.**
+## **2.Popular Time Slots based on 2-hour intervals.**
+**Approach 1**
 ``` sql
 SELECT
 FLOOR (extract (hour from order_time)/2)*2 as start_time,
