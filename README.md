@@ -99,3 +99,13 @@ group by 1,2,3
 order by total_order desc) as t1
 where rank<=5;
 ```
+**2.Popular Time Slots based on 2-hour intervals.**
+``` sql
+SELECT
+FLOOR (extract (hour from order_time)/2)*2 as start_time,
+FLOOR (extract (hour from order_time)/2)*2 +2 as end_time,
+count(*)as total_order
+from orders
+group by 1,2
+order by 3 desc;
+```
