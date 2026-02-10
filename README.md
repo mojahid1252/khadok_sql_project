@@ -134,3 +134,4 @@ GROUP BY time_slot
 )t2
 ORDER BY order_count DESC;
 ```
+** Q3. Find average order value of customers who placed more than 60 orders. **
