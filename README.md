@@ -12,7 +12,7 @@ SQL queries and analysis on a food delivery database. Includes customer behavior
 CREATE DATABASE khadok_db;
 ```
 ### 1. Dropping Existing Table
-```
+```sql
 DROP TABLE IF EXISTS customers;
 DROP TABLE IF EXISTS restaurants;
 DROP TABLE IF EXISTS orders;
