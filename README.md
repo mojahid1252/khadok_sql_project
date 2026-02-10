@@ -85,7 +85,7 @@ UPDATE orders
 SET total_amount = COALESCE(total_amount, 0); 
 ```
 ### Business Problems solved
-**1.find the top 5 most frequently ordered dishes by customer called "Ayaan Rahman" in the last 1 year 2 month.**
+**1.Find the top 5 most frequently ordered dishes by customer called "Ayaan Rahman" in the last 1 year 2 month.**
 ``` sql
 select * from
 (select c.customer_id,c.customer_name,o.order_item as dishes,count(*) as total_order,
@@ -99,7 +99,7 @@ group by 1,2,3
 order by total_order desc) as t1
 where rank<=5;
 ```
-## **2.Popular Time Slots based on 2-hour intervals.**
+**2.Popular Time Slots based on 2-hour intervals.**
 **Approach 1**
 ``` sql
 SELECT
