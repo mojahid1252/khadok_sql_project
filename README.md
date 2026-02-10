@@ -19,7 +19,7 @@ DROP TABLE IF EXISTS orders;
 DROP TABLE IF EXISTS riders;
 DROP TABLE IF EXISTS deliveries;
 ```
---**creating Table**
+--**Creating Table**
 ```sql
 create table customers(
 customer_id int primary key,
@@ -86,4 +86,16 @@ SET total_amount = COALESCE(total_amount, 0);
 ```
 ### Business Problems solved
 **1.find the top 5 most frequently ordered dishes by customer called "Ayaan Rahman" in the last 1 year 2 month.**
-
+``` sql
+select * from
+(select c.customer_id,c.customer_name,o.order_item as dishes,count(*) as total_order,
+DENSE_RANK() OVER (order by count(*) desc) as rank
+from customers as c
+join orders as o
+on c.customer_id= o.customer_id
+where c.customer_name='Ayaan Rahman'
+and o.order_date >= CURRENT_DATE - INTERVAL '1 year 2 month'
+group by 1,2,3 
+order by total_order desc) as t1
+where rank<=5;
+```
