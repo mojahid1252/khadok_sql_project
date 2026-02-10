@@ -134,4 +134,39 @@ GROUP BY time_slot
 )t2
 ORDER BY order_count DESC;
 ```
-** Q3. Find average order value of customers who placed more than 60 orders. **
+
+**Q3. Find average order value of customers who placed more than 60 orders.**
+
+**Q4. Find customers whose total spending is more than 25,000.**
+
+**Q5. Find restaurant-wise number of not delivered orders with city.**
+
+**Q6. Rank restaurants by total revenue (last year) within each city.**
+
+**Q7. Find the most popular dish in each city.**
+
+**Q8. Find customers who ordered in Jan–Mar 2025 but not in April 1–5, 2025.**
+
+**Q9. Compare restaurant-wise cancellation rate for January and February.**
+
+**Q10. Find each rider’s average delivery time.**
+
+**Q11. Calculate monthly delivered-order growth ratio for each restaurant.**
+
+**Q12. Segment customers into Gold and Silver and show total orders and revenue per segment.**
+
+**Q13. Calculate each rider’s monthly earnings (8% of order amount).**
+
+**Q14. Count 5-star, 4-star and 3-star ratings for each rider based on delivery time.**
+
+**Q15. Find the peak order day of the week for each restaurant.**
+
+**Q16. Calculate customer lifetime value (total revenue per customer).**
+
+**Q17. Compare monthly sales with previous month and calculate growth rate.**
+
+**Q18. Find fastest and slowest riders based on average delivery time.**
+
+**Q19. Track monthly popularity of order items and identify demand trends.**
+
+**Q20. Rank each city by total revenue for the year 2023.**
