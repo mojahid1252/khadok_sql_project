@@ -83,7 +83,3 @@ REFERENCES riders(rider_id)
 ``` sql
 UPDATE orders
 SET total_amount = COALESCE(total_amount, 0);
-                                              
-
-
-
