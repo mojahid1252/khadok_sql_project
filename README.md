@@ -19,5 +19,43 @@ DROP TABLE IF EXISTS orders;
 DROP TABLE IF EXISTS riders;
 DROP TABLE IF EXISTS deliveries;
 ```
-- creating Table
+--**creating Table**
+```sql
+create table customers(
+customer_id int primary key,
+customer_name varchar(30),
+reg_date date
+);
+
+create table restaurants(
+restaurant_id int primary key,
+restaurant_name varchar (50),
+city	varchar (20),
+opening_hours varchar (55)
+);
+
+create table orders(
+order_id int primary key,	
+customer_id	int ,
+restaurant_id int ,
+order_item varchar ( 50),
+order_date date,	
+order_time time ,
+order_status varchar (20),
+total_amount NUMERIC(10,2)
+);
+
+create table riders(
+rider_id int primary key,
+rider_name varchar ( 40),
+sign_up date
+);
+
+CREATE TABLE deliveries (
+delivery_id INT PRIMARY KEY,
+order_id INT,        
+delivery_status VARCHAR(20),
+delivery_time TIME,
+rider_id INT,   ```
+
 
