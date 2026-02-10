@@ -85,5 +85,5 @@ UPDATE orders
 SET total_amount = COALESCE(total_amount, 0); 
 ```
 ### Business Problems solved
-## - ** 1.find the top 5 most frequently ordered dishes by customer called "Ayaan Rahman" in the last 1 year 2 month.**
+**1.find the top 5 most frequently ordered dishes by customer called "Ayaan Rahman" in the last 1 year 2 month.**
 
