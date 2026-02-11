@@ -392,7 +392,7 @@ where order_status in ('Completed', 'Pending')
 group by 1,2
 order by 1,3 desc;
 ```
-**Q20. Rank each city by total revenue for the year 2023.**
+**Q20. Rank each city by total revenue for the year.**
 ``` sql
 SELECT
     r.city,
