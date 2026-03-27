@@ -133,9 +133,14 @@ group by 1,2,3
 order by total_order desc) as t1
 where rank<=5;
 ```
+```
 Insight: Helps marketing send personalized offers to high-value customers based on their strongest food preferences.
-
+```
 ## 2.Popular Time Slots based on 2-hour intervals.
+```
+Objective: Identify the most popular ordering time slots using 2-hour intervals to understand demand peaks.
+Insight: Supports staffing, rider allocation, and time-based promotions (optimize peak operations and boost off-peak demand).
+```
 **Approach 1**
 ``` sql
 SELECT
@@ -170,10 +175,13 @@ GROUP BY time_slot
 )t2
 ORDER BY order_count DESC;
 ```
+```
 Insight: Identifies peak and off-peak hours to optimize rider staffing and run time-based promotions.
-
+```
 **Q3. Find average order value of customers who placed more than 60 orders.**
+```
 Objective: Calculate the average order value for customers who placed more than 60 orders to evaluate high-frequency customer value.
+```
 ``` sql
 SELECT c.customer_name,COUNT(*) AS total_order,
 AVG(o.total_amount) AS avg_order_amount
@@ -184,10 +192,13 @@ GROUP BY c.customer_name
 HAVING COUNT(*) >= 60
 ORDER BY avg_order_amount DESC;
 ```
+```
 Insight: Shows spending behavior of high-frequency customers, helping design loyalty and upsell strategies.
-
+```
 **Q4. Find customers whose total spending is more than 25,000.**
+```
 Objective: Calculate the average order value for customers who placed more than 60 orders to evaluate high-frequency customer value.
+```
 ``` sql
 SELECT c.customer_name,COUNT(o.order_id) AS total_order,SUM(*) AS total_order_amount
 FROM customers AS c
@@ -197,10 +208,13 @@ GROUP BY c.customer_name
 HAVING sum(o.total_amount)>=25000
 ORDER BY total_order_amount DESC;
 ```
+```
 Insight: Identifies premium customers for VIP retention, personalized rewards, and churn prevention.
-
+```
 **Q5. Find restaurant-wise number of not delivered orders with city.**
+```
 Objective: Find restaurant-wise count of “Not Delivered” orders along with city to spot fulfillment issues.
+```
 ``` sql
 SELECT r.restaurant_name,r.city,COUNT(*) AS not_delivered
 FROM orders AS o
@@ -212,10 +226,13 @@ WHERE d.delivery_status = 'Not Delivered'
 GROUP BY 1,2
 ORDER BY r.city DESC,not_delivered DESC;
 ```
+```
 Insight: Highlights restaurants/cities with delivery failures so operations can fix issues and improve reliability.
-
+```
 **Q6. Rank restaurants by total revenue (last year) within each city.**
+```
 Objective: Find restaurant-wise count of “Not Delivered” orders along with city to spot fulfillment issues.
+```
 ``` sql
 select city,restaurant_name,total_revenue,ranking from
 (select r.restaurant_name,r.city,sum(o.total_amount) as total_revenue,
@@ -228,10 +245,13 @@ group by 1,2
 order by city desc,total_revenue desc, ranking desc) as t6
 where ranking=1;
 ```
+```
 Insight: Reveals top revenue-generating restaurants per city for partnerships, featuring, and targeted campaigns.
-
+```
 **Q7. Find the most popular dish in each city.**
+```
 Objective: Identify the most popular dish in each city to understand local customer preferences.
+```
 ``` sql
 with popular_table AS
 (select r.city,o.order_item,count(*)AS total_order,
@@ -245,10 +265,13 @@ order by city,total_order desc)
 select * from popular_table
 where rank_in_city=1;
 ```
+```
 Insight: Captures city-wise taste preferences to support geo-targeted marketing and menu planning.
-
+```
 **Q8. Find customers who ordered in Jan–Mar 2025 but not in April 1–5, 2025.**
+```
 Objective: Identify customers who ordered in Jan–Mar 2025 but did not order in Apr 1–5, 2025 to detect early churn.
+```
 ``` sql
 SELECT DISTINCT c.customer_name
 FROM customers c
@@ -261,10 +284,13 @@ FROM orders
 WHERE order_date BETWEEN '2025-04-01' AND '2025-04-5'
 );
 ```
+```
 Insight: Finds likely churn customers early, enabling win-back campaigns (coupons, targeted messages).
-
+```
 **Q9. Compare restaurant-wise cancellation rate for January and February.**
+```
 Objective: Compare restaurant-wise cancellation rates for January and February to monitor changes in service quality.
+```
 ``` sql
 WITH monthly_orders AS 
 (select r.restaurant_name, DATE_TRUNC('month', o.order_date) AS order_month,
@@ -288,7 +314,9 @@ ORDER BY restaurant_name;
 Insight: Detects restaurants with worsening cancellation trends, signaling service/stock/prep issues.
 
 **Q10. Find each rider’s average delivery time.**
+```
 Objective: Calculate each rider’s average delivery time to evaluate delivery efficiency.
+```
 ``` sql
 WITH riders_average_delivery_time AS 
 
@@ -311,7 +339,9 @@ group by rider_name;
 Insight: Ranks rider efficiency to reward top riders and improve slow riders via training/route optimization.
 
 **Q11. Calculate monthly delivered-order growth ratio for each restaurant.**
+```
 Objective: Calculate monthly delivered-order growth ratio for each restaurant to track performance trends over time.
+```
 ``` sql
 WITH growth_ratio AS
 (SELECT
@@ -336,10 +366,13 @@ SELECT
     as growth_ratio
 FROM growth_ratio 
 ```
+```
 Insight: Tracks restaurant growth/decline over months to guide promotion and operational support decisions.
-
+```
 **Q12. Segment customers into Gold and Silver and show total orders and revenue per segment.**
+```
 Objective: Segment customers into Gold and Silver based on order value to support targeted marketing.
+```
 ``` sql
 WITH Customer_Segmentation AS
 (select c.customer_name,count(order_id) as total_order,avg(o.total_amount) as average_order_value
@@ -354,10 +387,13 @@ CASE WHEN ROUND(average_order_value, 2)>=ROUND(AVG(average_order_value) OVER (),
 FROM customer_segmentation
 ; 
 ```
+```
 Insight: Provides month-wise rider earnings for payroll planning and cost monitoring.
-
+```
 **Q13. Calculate each rider’s monthly earnings (8% of order amount).**
+```
 Objective: Calculate each rider’s monthly earnings (8% of delivered order amount) for compensation tracking.
+```
 ``` sql
 SELECT r.rider_name,TO_CHAR(o.order_date,'YYYY-MM') AS Month,
 SUM(o.total_amount) AS revenue,SUM(o.total_amount) * 0.08 AS monthly_earning
@@ -370,10 +406,13 @@ WHERE d.delivery_status = 'Delivered'
 GROUP BY r.rider_name,TO_CHAR(o.order_date, 'YYYY-MM')
 ORDER BY r.rider_name,Month;
 ```
+```
 Insight: Provides month-wise rider earnings for payroll planning and cost monitoring.
-
+```
 **Q14. Count 5-star, 4-star and 3-star ratings for each rider based on delivery time.**
+```
 Objective: Classify deliveries into rating buckets (5-star/4-star/3-star) based on delivery time and count ratings per rider.
+```
 ``` sql
 SELECT rider_id,rider_rating,count(rider_rating)as total_rating
 from
@@ -394,10 +433,13 @@ t1
 group by 1,2
 order by 1,2 desc
 ```
+```
 Insight: Shows rider service quality distribution (based on delivery speed) to support incentives and performance management.
-
+```
 **Q15. Find the peak order day of the week for each restaurant.**
+```
 Objective: Identify the peak order day of the week for each restaurant to understand weekly demand patterns.
+```
 ``` sql
 SELECT * FROM (
 SELECT r.restaurant_name,TO_CHAR(o.order_date, 'Day'), COUNT(o.order_id) AS total,
@@ -410,10 +452,13 @@ ORDER BY 1, 3 DESC
 )AS t1
 WHERE rank = 1;
 ```
+```
 Insight: Helps restaurants plan staffing and inventory on their busiest weekday; supports day-specific promotions.
-
+```
 **Q16. Calculate customer lifetime value (total revenue per customer).**
+```
 Objective: Calculate customer lifetime value (CLV) as total revenue per customer.
+```
 ``` sql
 select c.customer_id,c.customer_name,sum(o.total_amount) as CLV 
 from customers as c
@@ -423,10 +468,13 @@ WHERE o.order_status IN ('Completed', 'Pending')
 group by 1,2
 order by 3 desc;
 ```
+```
 Insight: Identifies high-CLV customers to prioritize retention and personalize engagement.
-
+```
 **Q17. Compare monthly sales with previous month and calculate growth rate.**
+```
 Objective: Compare monthly sales with the previous month and calculate growth rate to monitor business performance.
+```
 ``` sql
 WITH monthly_sales AS (
 SELECT
@@ -443,10 +491,13 @@ ROUND((total_sales - LAG(total_sales) OVER (ORDER BY year, month))
 FROM monthly_sales
 ORDER BY year, month;
 ```
+```
 Insight: Monitors business health through month-over-month sales changes and flags periods needing investigation.
-
+```
 **Q18. Find fastest and slowest riders based on average delivery time.**
+```
 Objective: Identify the fastest and slowest riders based on average delivery time to benchmark performance extremes.
+```
 ``` sql
 with Rider_Efficiency as
 (SELECT d.rider_id, o.order_id,o.order_time,d.delivery_time,
@@ -468,7 +519,9 @@ from rider_time;
 Insight: Quantifies performance gap between fastest and slowest riders to drive targeted improvements.
 
 **Q19. Track monthly popularity of order items and identify demand trends.**
+```
 Objective: Track monthly popularity of order items to identify demand trends over time.
+```
 ``` sql
 select order_item,to_char(order_date,'month') as month,count(*)as total_order
 from orders
@@ -476,10 +529,13 @@ where order_status in ('Completed', 'Pending')
 group by 1,2
 order by 1,3 desc;
 ```
+```
 Insight: Reveals item-level demand trends to support forecasting, menu decisions, and seasonal promotions.
-
+```
 **Q20. Rank each city by total revenue for the year.**
+```
 Objective: Rank each city by total annual revenue to identify top and underperforming markets.
+```
 ``` sql
 SELECT
     r.city,
