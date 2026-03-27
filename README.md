@@ -1,5 +1,5 @@
 # Khadok Food Delivery SQL Data Analysis Project
-<https://github.com/mojahid1252/khadok_sql_project/blob/main/Screenshot%202026-02-09%20192256.png?raw=true/>
+![image alt](https://github.com/mojahid1252/khadok_sql_project/blob/main/Screenshot%202026-02-09%20192256.png?raw=true)
 
 
 
