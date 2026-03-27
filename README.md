@@ -1,4 +1,4 @@
-# 🍔 Khadok Food Delivery — SQL Data Analysis Project
+# 🍔 Khadok Food Delivery SQL Data Analysis Project
 
 ##  Project Overview
 **Khadok** is a food delivery platform (inspired by Foodpanda/Pathao Food) 
@@ -112,9 +112,12 @@ SELECT order_id, COUNT(*)
 FROM orders 
 GROUP BY order_id 
 HAVING COUNT(*) > 1;
+``` 
 
 ### Business Problems solved
 **1.Find the top 5 most frequently ordered dishes by customer called "Ayaan Rahman" in the last 1 year 2 month.**
+Objective: Identify the favorite dishes of a specific customer for
+personalized marketing.
 ``` sql
 select * from
 (select c.customer_id,c.customer_name,o.order_item as dishes,count(*) as total_order,
