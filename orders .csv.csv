@@ -1,0 +1,2001 @@
+order_id,customer_id,restaurant_id,order_item,order_date,order_time,order_status,total_amount
+6001,8,2,Seekh Kebab,2025-02-05,14:14:08,Completed,439.00
+6002,6,38,Pizza Margherita,2025-01-05,07:05:13,Completed,634.00
+6003,2,36,Grilled Steak,2025-04-02,20:14:28,Completed,611.00
+6004,11,45,Pizza Margherita,2025-02-13,15:09:13,Cancelled,566.00
+6005,7,6,Pasta Alfredo,2025-01-13,18:54:22,Completed,291.00
+6006,30,35,Paneer Butter Masala,2025-04-29,19:05:35,Completed,450.00
+6007,24,37,Grilled Steak,2025-04-01,09:02:42,Completed,684.00
+6008,6,15,Paneer Butter Masala,2025-02-18,15:29:40,Pending,331.00
+6009,24,23,Grilled Steak,2025-03-27,15:44:59,Completed,628.00
+6010,11,35,Seekh Kebab,2025-02-01,12:29:24,Completed,442.00
+6011,15,44,Ramen Bowl,2025-04-18,08:14:52,Completed,520.00
+6012,26,18,Masala Dosa,2025-01-28,17:13:41,Completed,297.00
+6013,10,17,Chicken Shawarma,2025-02-01,15:47:37,Completed,379.00
+6014,26,24,Fish Fry,2025-01-18,23:31:05,Completed,508.00
+6015,10,41,Cheese Burger,2025-04-12,20:38:04,Completed,372.00
+6016,30,34,Chicken Momos,2025-03-12,07:43:46,Completed,337.00
+6017,18,50,Thai Fried Rice,2025-02-13,10:18:27,Completed,230.00
+6018,17,33,Hakka Noodles,2025-01-23,23:58:06,Pending,296.00
+6019,33,39,Grilled Steak,2025-01-20,18:48:10,Completed,745.00
+6020,1,39,Ramen Bowl,2025-03-04,07:07:59,Completed,518.00
+6021,16,4,Fish Fry,2025-04-23,09:05:46,Completed,497.00
+6022,9,9,Donut Box,2025-03-02,12:16:33,Pending,318.00
+6023,14,35,Hakka Noodles,2025-04-04,13:45:19,Completed,315.00
+6024,29,34,Hot Pot Combo,2025-01-16,14:14:04,Completed,810.00
+6025,15,38,Fish Fry,2025-01-01,09:45:40,Completed,497.00
+6026,3,22,Masala Dosa,2025-03-07,14:17:42,Completed,318.00
+6027,9,47,BBQ Chicken Platter,2025-03-15,22:15:50,Completed,554.00
+6028,13,7,Paneer Butter Masala,2025-03-26,20:22:27,Completed,303.00
+6029,7,4,Pasta Alfredo,2025-04-04,17:51:55,Completed,329.00
+6030,13,35,Hot Pot Combo,2025-01-18,20:11:17,Completed,679.00
+6031,29,36,Paneer Butter Masala,2025-01-07,07:05:59,Completed,350.00
+6032,11,27,Cappuccino,2025-03-03,13:55:25,Cancelled,192.00
+6033,25,1,Pasta Alfredo,2025-02-03,21:18:27,Completed,422.00
+6034,32,10,Grilled Steak,2025-02-07,13:03:37,Completed,625.00
+6035,21,4,Mutton Biryani,2025-03-16,22:32:58,Pending,420.00
+6036,4,33,Masala Dosa,2025-04-19,12:04:38,Completed,240.00
+6037,26,8,BBQ Chicken Platter,2025-02-01,08:39:05,Completed,599.00
+6038,34,21,Chicken Momos,2025-01-27,17:15:16,Completed,276.00
+6039,30,21,Hakka Noodles,2025-04-30,09:00:29,Completed,364.00
+6040,7,5,Falafel Wrap,2025-01-28,23:16:08,Cancelled,217.00
+6041,16,24,Pad Thai,2025-01-21,21:53:34,Completed,456.00
+6042,34,1,Donut Box,2025-04-15,16:59:42,Completed,244.00
+6043,17,8,Paneer Butter Masala,2025-04-06,11:17:18,Completed,377.00
+6044,14,44,Thai Fried Rice,2025-04-20,15:32:31,Completed,243.00
+6045,6,41,Pizza Margherita,2025-04-17,15:02:00,Completed,513.00
+6046,17,11,Seekh Kebab,2025-02-26,20:35:00,Completed,338.00
+6047,3,24,BBQ Chicken Platter,2025-03-12,11:27:08,Completed,543.00
+6048,3,23,Grilled Steak,2025-03-29,14:42:06,Completed,753.00
+6049,27,40,Seekh Kebab,2025-01-20,14:55:10,Cancelled,345.00
+6050,27,2,Cheese Burger,2025-04-05,17:50:59,Completed,283.00
+6051,18,11,Butter Chicken,2025-01-14,19:55:02,Pending,406.00
+6052,13,30,Veg Chowmein,2025-02-09,14:14:01,Completed,312.00
+6053,22,18,Masala Dosa,2025-04-09,15:22:41,Completed,317.00
+6054,22,2,Paneer Butter Masala,2025-04-23,15:11:37,Cancelled,357.00
+6055,3,7,Avocado Salad,2025-02-25,18:46:50,Completed,345.00
+6056,33,8,Pasta Alfredo,2025-04-26,13:16:02,Completed,280.00
+6057,34,35,Donut Box,2025-04-03,13:23:27,Completed,294.00
+6058,21,43,Paneer Butter Masala,2025-04-03,16:32:19,Completed,373.00
+6059,26,45,Pad Thai,2025-03-12,11:12:26,Completed,397.00
+6060,12,40,BBQ Chicken Platter,2025-02-08,19:35:53,Completed,523.00
+6061,14,28,BBQ Chicken Platter,2025-03-19,17:29:28,Completed,504.00
+6062,33,31,Seekh Kebab,2025-01-22,09:18:32,Completed,458.00
+6063,22,6,Hakka Noodles,2025-01-31,16:14:51,Completed,226.00
+6064,3,16,Cappuccino,2025-03-20,09:29:26,Pending,297.00
+6065,13,46,Butter Chicken,2025-02-19,22:25:15,Completed,351.00
+6066,7,50,Pizza Margherita,2025-01-29,12:51:44,Completed,492.00
+6067,16,8,Hot Pot Combo,2025-01-18,21:42:33,Cancelled,812.00
+6068,21,49,Hot Pot Combo,2025-03-20,23:27:53,Cancelled,774.00
+6069,11,48,Cappuccino,2025-02-27,15:48:15,Pending,220.00
+6070,34,32,Thai Fried Rice,2025-01-31,15:28:04,Completed,290.00
+6071,18,22,Ramen Bowl,2025-04-25,09:08:09,Completed,479.00
+6072,14,5,Pizza Margherita,2025-02-22,17:34:29,Completed,532.00
+6073,27,25,Hakka Noodles,2025-03-16,07:54:56,Completed,317.00
+6074,31,1,Veg Chowmein,2025-02-08,19:54:57,Cancelled,317.00
+6075,15,32,Fish Fry,2025-02-04,20:31:01,Completed,583.00
+6076,11,30,Chicken Shawarma,2025-03-21,07:58:25,Completed,236.00
+6077,6,42,Pizza Margherita,2025-01-18,21:11:03,Completed,563.00
+6078,14,30,Ramen Bowl,2025-02-13,19:17:48,Cancelled,547.00
+6079,17,6,Cappuccino,2025-01-03,08:22:14,Completed,160.00
+6080,2,16,Grilled Steak,2025-04-18,07:39:09,Completed,731.00
+6081,8,37,Grilled Steak,2025-03-01,15:49:23,Completed,765.00
+6082,8,50,Cheese Burger,2025-02-09,10:37:01,Cancelled,367.00
+6083,25,26,Butter Chicken,2025-01-26,09:37:44,Pending,412.00
+6084,7,45,Hakka Noodles,2025-02-08,10:50:36,Completed,308.00
+6085,28,43,Veg Chowmein,2025-01-09,23:41:21,Completed,317.00
+6086,32,7,Pizza Margherita,2025-02-16,21:45:09,Completed,613.00
+6087,18,40,Falafel Wrap,2025-04-10,22:29:27,Pending,351.00
+6088,18,21,Fish Fry,2025-04-17,09:17:56,Completed,598.00
+6089,25,22,Chicken Biryani,2025-03-05,17:11:31,Completed,406.00
+6090,22,18,Avocado Salad,2025-03-31,15:35:00,Completed,238.00
+6091,6,16,Seekh Kebab,2025-02-22,22:35:48,Completed,421.00
+6092,32,29,Chicken Biryani,2025-01-12,16:14:25,Completed,418.00
+6093,24,31,Falafel Wrap,2025-03-09,18:27:47,Completed,290.00
+6094,30,18,Pad Thai,2025-02-02,14:07:46,Completed,330.00
+6095,12,13,Grilled Steak,2025-04-05,22:17:46,Completed,744.00
+6096,19,7,Grilled Steak,2025-02-07,14:23:11,Completed,746.00
+6097,9,18,Mutton Biryani,2025-01-07,16:44:08,Completed,505.00
+6098,7,1,BBQ Chicken Platter,2025-02-06,22:30:28,Completed,463.00
+6099,17,31,Paneer Butter Masala,2025-04-16,09:25:31,Completed,303.00
+6100,10,10,BBQ Chicken Platter,2025-02-08,09:15:07,Completed,556.00
+6101,15,50,Chocolate Sundae,2025-02-18,21:58:28,Completed,270.00
+6102,28,20,BBQ Chicken Platter,2025-03-21,08:39:47,Completed,503.00
+6103,14,17,Donut Box,2025-01-11,12:15:11,Completed,250.00
+6104,1,27,Hot Pot Combo,2025-03-30,22:18:02,Completed,732.00
+6105,30,5,Donut Box,2025-01-30,15:50:50,Completed,260.00
+6106,28,8,Falafel Wrap,2025-01-29,11:58:17,Pending,218.00
+6107,4,11,Pad Thai,2025-03-18,16:28:07,Completed,377.00
+6108,26,18,Chocolate Sundae,2025-03-11,22:28:05,Completed,230.00
+6109,21,39,Chicken Momos,2025-01-04,09:14:43,Pending,347.00
+6110,2,49,Donut Box,2025-04-16,15:36:02,Completed,254.00
+6111,31,34,Thai Fried Rice,2025-02-26,15:11:37,Completed,355.00
+6112,6,31,Veg Chowmein,2025-02-22,17:20:42,Completed,251.00
+6113,22,27,Butter Chicken,2025-03-05,16:42:25,Pending,490.00
+6114,3,30,Masala Dosa,2025-02-10,15:20:07,Cancelled,283.00
+6115,33,1,Donut Box,2025-04-22,21:26:03,Completed,302.00
+6116,32,41,Hot Pot Combo,2025-04-08,08:13:17,Completed,733.00
+6117,29,45,Cappuccino,2025-01-16,07:40:38,Completed,190.00
+6118,20,36,Chicken Biryani,2025-03-12,20:05:14,Cancelled,369.00
+6119,30,8,Thai Fried Rice,2025-04-17,11:31:59,Completed,360.00
+6120,18,27,Cappuccino,2025-03-02,14:29:35,Completed,198.00
+6121,33,48,Chicken Shawarma,2025-04-21,09:17:49,Completed,336.00
+6122,22,33,Chicken Momos,2025-04-16,07:18:46,Completed,350.00
+6123,32,10,Hot Pot Combo,2025-03-10,22:22:21,Completed,799.00
+6124,25,30,Ramen Bowl,2025-04-22,13:44:15,Completed,499.00
+6125,27,3,Ramen Bowl,2025-04-06,22:45:58,Pending,538.00
+6126,10,32,Mutton Biryani,2025-01-17,23:37:21,Pending,492.00
+6127,7,34,Hot Pot Combo,2025-01-02,11:26:55,Completed,699.00
+6128,5,31,Chicken Momos,2025-02-13,19:41:05,Pending,336.00
+6129,25,21,Thai Fried Rice,2025-04-02,22:55:34,Completed,247.00
+6130,16,41,Donut Box,2025-04-28,16:14:47,Completed,235.00
+6131,7,29,Cheese Burger,2025-03-30,16:57:01,Completed,234.00
+6132,19,23,Veg Chowmein,2025-02-25,11:15:33,Completed,256.00
+6133,11,12,Masala Dosa,2025-03-20,19:39:43,Completed,329.00
+6134,10,15,Hot Pot Combo,2025-03-23,15:29:16,Completed,779.00
+6135,19,44,Falafel Wrap,2025-01-21,09:28:22,Cancelled,276.00
+6136,28,45,Chicken Momos,2025-02-28,16:12:24,Pending,227.00
+6137,16,25,BBQ Chicken Platter,2025-02-15,16:44:18,Completed,551.00
+6138,18,1,BBQ Chicken Platter,2025-04-21,08:58:38,Completed,523.00
+6139,15,39,Veg Chowmein,2025-01-29,13:39:16,Completed,245.00
+6140,7,41,Thai Fried Rice,2025-01-06,16:50:28,Completed,323.00
+6141,9,6,Pad Thai,2025-02-11,20:11:12,Completed,438.00
+6142,24,34,Chocolate Sundae,2025-04-27,15:53:10,Completed,243.00
+6143,19,48,Ramen Bowl,2025-04-13,10:29:04,Completed,497.00
+6144,26,36,Veg Chowmein,2025-01-12,19:00:16,Completed,326.00
+6145,24,44,Seekh Kebab,2025-03-28,15:37:24,Pending,395.00
+6146,7,44,Fish Fry,2025-03-02,07:39:56,Cancelled,563.00
+6147,15,42,Masala Dosa,2025-03-23,21:58:44,Completed,284.00
+6148,8,9,Mutton Biryani,2025-01-05,16:31:07,Completed,517.00
+6149,9,25,Hot Pot Combo,2025-02-17,20:37:47,Completed,766.00
+6150,7,32,Avocado Salad,2025-02-22,15:02:44,Completed,303.00
+6151,29,16,Veg Chowmein,2025-01-13,18:34:57,Cancelled,301.00
+6152,4,26,Chicken Momos,2025-01-25,10:54:52,Completed,254.00
+6153,2,4,Ramen Bowl,2025-02-01,11:50:36,Completed,581.00
+6154,14,38,Grilled Steak,2025-04-15,14:21:49,Completed,762.00
+6155,1,18,Chicken Shawarma,2025-01-17,15:51:11,Completed,236.00
+6156,9,1,Veg Chowmein,2025-04-12,14:37:20,Completed,277.00
+6157,4,9,Seekh Kebab,2025-02-23,23:07:47,Completed,414.00
+6158,24,33,BBQ Chicken Platter,2025-01-14,21:32:14,Cancelled,461.00
+6159,34,20,Hot Pot Combo,2025-03-24,07:03:30,Pending,769.00
+6160,7,32,Butter Chicken,2025-04-27,21:04:57,Completed,505.00
+6161,10,5,Chicken Shawarma,2025-02-05,17:24:38,Completed,346.00
+6162,33,39,Pizza Margherita,2025-01-13,10:54:41,Completed,621.00
+6163,14,28,Hot Pot Combo,2025-04-24,14:26:21,Pending,762.00
+6164,27,47,Paneer Butter Masala,2025-02-10,20:20:42,Completed,329.00
+6165,31,5,Masala Dosa,2025-04-17,09:05:27,Completed,275.00
+6166,9,36,Mutton Biryani,2025-03-17,17:42:07,Completed,488.00
+6167,4,19,Avocado Salad,2025-02-09,18:06:36,Completed,229.00
+6168,31,15,Paneer Butter Masala,2025-02-14,18:07:48,Completed,347.00
+6169,28,36,Hakka Noodles,2025-04-15,07:38:59,Completed,288.00
+6170,2,12,Chicken Momos,2025-03-31,16:58:21,Completed,246.00
+6171,10,37,Donut Box,2025-02-21,09:09:47,Completed,217.00
+6172,6,48,Chocolate Sundae,2025-01-28,19:26:29,Completed,214.00
+6173,20,47,Ramen Bowl,2025-04-10,09:56:03,Completed,598.00
+6174,4,44,Masala Dosa,2025-02-04,21:42:27,Completed,293.00
+6175,27,18,Grilled Steak,2025-04-07,23:07:22,Completed,682.00
+6176,32,34,Donut Box,2025-02-09,08:14:25,Cancelled,224.00
+6177,1,14,Pad Thai,2025-01-28,11:48:16,Completed,330.00
+6178,1,32,Seekh Kebab,2025-02-25,12:08:24,Completed,358.00
+6179,33,36,Donut Box,2025-04-14,18:04:25,Pending,220.00
+6180,28,2,Hot Pot Combo,2025-04-28,09:55:20,Completed,806.00
+6181,26,46,Thai Fried Rice,2025-02-23,16:07:25,Completed,313.00
+6182,11,40,Hot Pot Combo,2025-04-17,18:05:27,Pending,722.00
+6183,28,38,Pasta Alfredo,2025-03-09,09:25:55,Completed,366.00
+6184,15,22,Hakka Noodles,2025-01-22,09:32:40,Completed,350.00
+6185,13,50,Veg Chowmein,2025-02-14,11:15:06,Completed,260.00
+6186,12,39,Chicken Shawarma,2025-04-08,09:11:49,Completed,348.00
+6187,29,44,BBQ Chicken Platter,2025-03-24,17:55:40,Completed,562.00
+6188,5,31,Hot Pot Combo,2025-03-22,16:50:17,Completed,750.00
+6189,33,5,Pad Thai,2025-03-01,21:02:03,Completed,373.00
+6190,5,42,Masala Dosa,2025-03-20,23:24:29,Completed,190.00
+6191,29,37,Thai Fried Rice,2025-01-25,17:38:30,Completed,245.00
+6192,29,7,Ramen Bowl,2025-04-02,09:32:41,Completed,503.00
+6193,29,29,Chocolate Sundae,2025-03-08,12:23:23,Cancelled,219.00
+6194,27,50,Ramen Bowl,2025-03-28,08:50:40,Completed,456.00
+6195,22,7,Falafel Wrap,2025-03-28,19:18:16,Completed,354.00
+6196,10,22,Masala Dosa,2025-03-16,11:58:22,Completed,280.00
+6197,9,39,Butter Chicken,2025-01-11,16:35:24,Completed,434.00
+6198,9,43,Butter Chicken,2025-04-17,23:05:41,Completed,480.00
+6199,24,2,Veg Chowmein,2025-02-09,12:13:21,Cancelled,334.00
+6200,13,15,Chicken Shawarma,2025-01-20,09:18:54,Completed,359.00
+6201,34,3,Donut Box,2025-02-13,11:38:24,Completed,256.00
+6202,11,47,Hot Pot Combo,2025-01-06,20:23:43,Completed,773.00
+6203,19,49,Seekh Kebab,2025-04-11,21:14:34,Completed,420.00
+6204,13,24,Donut Box,2025-03-15,21:29:49,Completed,307.00
+6205,33,34,Pizza Margherita,2025-01-21,13:51:38,Completed,544.00
+6206,4,42,Cappuccino,2025-04-22,18:35:59,Completed,282.00
+6207,8,19,Masala Dosa,2025-04-08,12:17:28,Cancelled,217.00
+6208,28,6,Fish Fry,2025-04-15,21:56:22,Cancelled,586.00
+6209,4,26,Chocolate Sundae,2025-02-17,14:24:05,Completed,127.00
+6210,21,7,Butter Chicken,2025-03-25,17:50:09,Completed,423.00
+6211,31,45,Chicken Shawarma,2025-04-08,22:28:39,Completed,250.00
+6212,2,17,Grilled Steak,2025-04-17,11:35:46,Completed,718.00
+6213,8,50,Pad Thai,2025-01-31,16:07:03,Completed,459.00
+6214,30,5,Paneer Butter Masala,2025-04-18,22:38:34,Completed,421.00
+6215,16,46,Chicken Shawarma,2025-02-07,20:00:39,Completed,376.00
+6216,27,12,Donut Box,2025-03-27,09:33:23,Completed,344.00
+6217,33,33,Falafel Wrap,2025-01-03,19:55:30,Completed,299.00
+6218,24,17,Seekh Kebab,2025-01-03,18:50:04,Completed,460.00
+6219,7,50,BBQ Chicken Platter,2025-04-05,17:08:02,Completed,536.00
+6220,12,50,Donut Box,2025-03-01,22:40:11,Pending,226.00
+6221,30,3,Pad Thai,2025-01-26,08:50:12,Pending,380.00
+6222,20,33,Pasta Alfredo,2025-04-15,22:16:02,Completed,328.00
+6223,19,23,Hakka Noodles,2025-01-07,17:17:07,Completed,331.00
+6224,26,48,Hot Pot Combo,2025-04-25,19:21:11,Completed,787.00
+6225,24,34,Chicken Momos,2025-04-13,09:46:27,Completed,354.00
+6226,12,35,Pad Thai,2025-02-11,10:05:20,Completed,378.00
+6227,29,39,Butter Chicken,2025-02-24,12:44:28,Completed,360.00
+6228,23,40,Pizza Margherita,2025-02-05,08:04:42,Completed,573.00
+6229,33,48,Donut Box,2025-01-21,07:09:54,Completed,322.00
+6230,3,9,Masala Dosa,2025-01-31,18:23:24,Cancelled,188.00
+6231,10,44,Hot Pot Combo,2025-02-17,18:28:48,Completed,695.00
+6232,34,24,Pasta Alfredo,2025-02-10,15:15:07,Completed,327.00
+6233,32,34,Pasta Alfredo,2025-04-27,10:16:49,Completed,394.00
+6234,14,40,Pad Thai,2025-03-30,22:12:07,Completed,318.00
+6235,29,12,Butter Chicken,2025-02-26,09:51:43,Cancelled,431.00
+6236,23,46,Masala Dosa,2025-03-12,16:57:19,Pending,224.00
+6237,24,33,Fish Fry,2025-01-16,13:50:08,Completed,606.00
+6238,2,24,Falafel Wrap,2025-03-15,18:29:51,Cancelled,233.00
+6239,6,5,Pad Thai,2025-02-20,22:33:26,Completed,447.00
+6240,5,9,Ramen Bowl,2025-03-24,09:28:29,Completed,528.00
+6241,9,50,Falafel Wrap,2025-03-23,12:49:08,Completed,214.00
+6242,8,34,Chicken Shawarma,2025-02-08,12:10:20,Cancelled,287.00
+6243,23,34,Pad Thai,2025-04-19,09:16:12,Completed,441.00
+6244,18,9,Thai Fried Rice,2025-02-08,09:32:41,Completed,378.00
+6245,10,11,Donut Box,2025-03-21,17:53:59,Completed,217.00
+6246,6,3,Thai Fried Rice,2025-04-09,15:41:13,Completed,336.00
+6247,2,32,Thai Fried Rice,2025-03-11,16:41:19,Completed,333.00
+6248,20,30,Masala Dosa,2025-03-30,08:10:28,Completed,298.00
+6249,14,22,Avocado Salad,2025-01-19,17:55:45,Completed,278.00
+6250,26,9,Hakka Noodles,2025-02-17,23:35:06,Completed,339.00
+6251,8,18,Hot Pot Combo,2025-02-01,11:06:03,Completed,758.00
+6252,27,16,Cheese Burger,2025-04-15,17:59:36,Completed,268.00
+6253,11,32,Chocolate Sundae,2025-03-01,22:56:19,Completed,143.00
+6254,26,33,Hot Pot Combo,2025-01-31,13:37:22,Completed,732.00
+6255,32,39,Thai Fried Rice,2025-03-28,22:18:34,Completed,257.00
+6256,28,9,Chicken Momos,2025-04-04,18:48:25,Completed,302.00
+6257,4,37,Falafel Wrap,2025-01-25,18:35:18,Completed,329.00
+6258,29,49,Falafel Wrap,2025-02-05,10:08:06,Completed,286.00
+6259,24,49,Chicken Shawarma,2025-01-26,23:25:32,Completed,239.00
+6260,9,46,Ramen Bowl,2025-04-13,22:33:29,Completed,571.00
+6261,9,21,Avocado Salad,2025-02-10,12:25:39,Completed,266.00
+6262,22,33,Chocolate Sundae,2025-03-10,22:45:36,Completed,124.00
+6263,24,22,Donut Box,2025-01-15,20:37:19,Completed,216.00
+6264,31,17,Thai Fried Rice,2025-04-11,14:46:03,Completed,273.00
+6265,34,41,Seekh Kebab,2025-03-21,19:09:52,Completed,308.00
+6266,8,13,Chicken Biryani,2025-02-26,17:26:09,Completed,392.00
+6267,27,33,Hakka Noodles,2025-03-20,22:55:54,Completed,235.00
+6268,9,34,Grilled Steak,2025-03-13,17:42:30,Completed,690.00
+6269,12,30,Falafel Wrap,2025-02-13,18:43:49,Pending,267.00
+6270,31,13,Fish Fry,2025-02-05,16:14:19,Completed,533.00
+6271,32,21,Cappuccino,2025-02-14,15:18:07,Completed,289.00
+6272,25,26,Veg Chowmein,2025-04-09,11:18:02,Completed,230.00
+6273,23,29,Thai Fried Rice,2025-02-02,22:13:12,Pending,299.00
+6274,18,9,Paneer Butter Masala,2025-03-20,14:15:03,Completed,425.00
+6275,15,41,Fish Fry,2025-01-07,10:26:21,Completed,505.00
+6276,9,1,Falafel Wrap,2025-04-29,12:26:41,Cancelled,321.00
+6277,31,42,Grilled Steak,2025-04-07,16:20:18,Completed,632.00
+6278,15,35,Seekh Kebab,2025-04-03,08:58:58,Completed,345.00
+6279,3,26,Cappuccino,2025-01-24,16:56:02,Completed,295.00
+6280,7,22,Pad Thai,2025-02-28,23:31:56,Cancelled,429.00
+6281,30,18,Grilled Steak,2025-04-14,10:21:10,Completed,675.00
+6282,12,1,Seekh Kebab,2025-02-13,16:36:43,Completed,344.00
+6283,26,28,Chocolate Sundae,2025-02-11,09:25:42,Completed,155.00
+6284,31,21,Fish Fry,2025-01-01,15:24:15,Completed,548.00
+6285,22,20,BBQ Chicken Platter,2025-04-03,07:16:41,Completed,510.00
+6286,4,43,Paneer Butter Masala,2025-03-01,16:10:25,Completed,369.00
+6287,8,41,Pad Thai,2025-02-17,14:14:08,Completed,416.00
+6288,24,27,Butter Chicken,2025-03-12,22:48:34,Pending,405.00
+6289,16,44,Hakka Noodles,2025-03-18,09:33:28,Completed,312.00
+6290,5,37,Paneer Butter Masala,2025-01-08,23:12:36,Completed,332.00
+6291,21,34,Hot Pot Combo,2025-01-15,13:45:37,Completed,790.00
+6292,29,4,Hot Pot Combo,2025-01-17,23:26:29,Completed,803.00
+6293,30,44,Pad Thai,2025-04-03,07:25:16,Pending,355.00
+6294,5,3,Pizza Margherita,2025-02-14,09:34:03,Cancelled,497.00
+6295,31,3,Pad Thai,2025-02-22,12:49:08,Completed,407.00
+6296,24,25,Hot Pot Combo,2025-04-22,19:24:05,Completed,798.00
+6297,9,42,Veg Chowmein,2025-01-16,12:34:25,Completed,267.00
+6298,1,49,Chicken Biryani,2025-02-08,21:43:46,Completed,476.00
+6299,25,15,Fish Fry,2025-02-28,18:09:17,Completed,508.00
+6300,3,43,Pizza Margherita,2025-03-20,07:15:13,Completed,632.00
+6301,3,29,Avocado Salad,2025-03-28,08:15:47,Completed,302.00
+6302,15,35,Grilled Steak,2025-04-07,08:08:32,Cancelled,669.00
+6303,21,37,Avocado Salad,2025-04-09,17:15:19,Pending,323.00
+6304,15,27,Pad Thai,2025-02-05,08:35:37,Pending,344.00
+6305,28,36,Cappuccino,2025-01-07,18:41:42,Completed,284.00
+6306,21,45,Pizza Margherita,2025-02-22,11:19:24,Completed,617.00
+6307,31,16,Fish Fry,2025-02-08,11:51:29,Cancelled,623.00
+6308,27,27,Falafel Wrap,2025-03-09,11:24:15,Completed,284.00
+6309,6,29,Veg Chowmein,2025-01-12,13:03:17,Completed,364.00
+6310,3,5,Grilled Steak,2025-04-13,13:30:13,Pending,695.00
+6311,20,1,Grilled Steak,2025-04-30,13:47:07,Completed,732.00
+6312,16,45,Avocado Salad,2025-04-01,13:25:58,Completed,272.00
+6313,19,25,Hot Pot Combo,2025-03-10,18:19:16,Completed,787.00
+6314,30,7,Seekh Kebab,2025-03-02,17:58:13,Completed,405.00
+6315,3,37,Fish Fry,2025-04-05,11:01:16,Completed,629.00
+6316,27,19,Chicken Shawarma,2025-01-26,17:14:24,Completed,292.00
+6317,32,36,Thai Fried Rice,2025-03-29,17:16:48,Pending,355.00
+6318,30,11,Seekh Kebab,2025-04-12,18:10:08,Completed,425.00
+6319,12,35,Thai Fried Rice,2025-01-08,23:02:53,Pending,242.00
+6320,1,27,Chicken Shawarma,2025-04-18,14:04:45,Completed,285.00
+6321,33,30,Veg Chowmein,2025-01-08,22:42:31,Completed,346.00
+6322,27,1,Chicken Biryani,2025-03-09,15:34:18,Completed,450.00
+6323,12,7,Paneer Butter Masala,2025-03-09,11:15:12,Completed,354.00
+6324,23,18,Pasta Alfredo,2025-01-11,18:25:29,Completed,337.00
+6325,20,44,Masala Dosa,2025-03-25,08:05:25,Completed,321.00
+6326,31,4,Thai Fried Rice,2025-01-02,12:05:31,Pending,314.00
+6327,7,34,Mutton Biryani,2025-01-30,13:57:55,Completed,525.00
+6328,31,18,Mutton Biryani,2025-04-29,09:43:59,Completed,519.00
+6329,3,12,Ramen Bowl,2025-01-03,13:37:09,Completed,541.00
+6330,5,20,Cheese Burger,2025-03-14,14:36:53,Pending,358.00
+6331,22,25,Hakka Noodles,2025-04-05,11:50:44,Completed,348.00
+6332,23,4,Paneer Butter Masala,2025-02-25,14:53:04,Completed,447.00
+6333,26,50,Ramen Bowl,2025-01-04,15:50:28,Completed,531.00
+6334,25,28,Cheese Burger,2025-03-29,19:05:49,Completed,283.00
+6335,5,6,Chicken Momos,2025-01-20,19:45:50,Completed,299.00
+6336,21,24,Paneer Butter Masala,2025-01-12,07:19:28,Completed,359.00
+6337,7,9,Masala Dosa,2025-01-24,20:28:35,Completed,284.00
+6338,7,2,Masala Dosa,2025-02-15,09:38:38,Completed,278.00
+6339,1,19,Pizza Margherita,2025-02-19,09:46:57,Completed,542.00
+6340,34,11,Donut Box,2025-02-18,12:08:17,Completed,336.00
+6341,10,5,Cheese Burger,2025-02-25,15:26:19,Completed,239.00
+6342,24,17,Fish Fry,2025-04-03,22:38:39,Completed,507.00
+6343,9,20,Chicken Biryani,2025-02-20,17:53:39,Completed,424.00
+6344,29,22,Pizza Margherita,2025-04-15,11:19:20,Completed,531.00
+6345,31,21,Cheese Burger,2025-02-20,17:18:47,Completed,345.00
+6346,16,21,Pasta Alfredo,2025-02-05,19:23:07,Cancelled,331.00
+6347,12,44,Hakka Noodles,2025-03-12,07:46:29,Cancelled,273.00
+6348,29,19,Butter Chicken,2025-01-09,20:43:31,Completed,427.00
+6349,16,17,Donut Box,2025-01-20,20:50:24,Completed,363.00
+6350,31,38,Pasta Alfredo,2025-03-10,23:59:58,Pending,387.00
+6351,3,24,Butter Chicken,2025-04-25,09:06:49,Completed,440.00
+6352,11,42,Avocado Salad,2025-01-06,19:48:21,Cancelled,300.00
+6353,7,1,Paneer Butter Masala,2025-02-03,14:32:47,Completed,438.00
+6354,15,29,Veg Chowmein,2025-02-20,21:49:43,Completed,338.00
+6355,10,23,Chicken Biryani,2025-03-03,10:18:26,Cancelled,361.00
+6356,8,47,Chicken Shawarma,2025-02-14,16:21:29,Completed,363.00
+6357,31,23,Cappuccino,2025-01-13,21:46:44,Completed,167.00
+6358,20,3,Butter Chicken,2025-01-15,07:54:21,Completed,392.00
+6359,16,34,Cheese Burger,2025-03-12,12:21:35,Completed,338.00
+6360,15,26,Thai Fried Rice,2025-01-24,12:40:42,Completed,237.00
+6361,13,29,BBQ Chicken Platter,2025-02-24,19:00:45,Completed,521.00
+6362,5,37,Paneer Butter Masala,2025-04-13,12:23:20,Completed,319.00
+6363,17,43,Cappuccino,2025-03-09,17:38:24,Completed,300.00
+6364,8,23,Veg Chowmein,2025-04-19,21:39:11,Pending,286.00
+6365,6,44,Chicken Shawarma,2025-02-10,10:15:19,Completed,325.00
+6366,10,33,Pasta Alfredo,2025-02-23,11:36:24,Completed,404.00
+6367,12,36,Cheese Burger,2025-03-04,16:08:11,Completed,335.00
+6368,4,23,Chicken Biryani,2025-03-04,11:12:52,Completed,483.00
+6369,33,42,Cappuccino,2025-02-22,22:26:45,Pending,275.00
+6370,11,6,BBQ Chicken Platter,2025-01-04,14:18:02,Completed,587.00
+6371,19,11,Hakka Noodles,2025-02-28,22:35:32,Completed,249.00
+6372,18,50,Falafel Wrap,2025-04-16,18:34:52,Completed,312.00
+6373,14,28,Paneer Butter Masala,2025-04-05,14:19:55,Cancelled,405.00
+6374,17,23,Masala Dosa,2025-02-26,10:49:51,Completed,330.00
+6375,23,46,Avocado Salad,2025-03-22,20:10:39,Completed,242.00
+6376,14,4,BBQ Chicken Platter,2025-02-14,15:38:34,Completed,524.00
+6377,19,37,Chicken Momos,2025-04-20,23:57:43,Pending,234.00
+6378,27,4,Chicken Momos,2025-04-21,11:44:55,Completed,237.00
+6379,21,16,Hakka Noodles,2025-04-18,19:31:09,Completed,288.00
+6380,27,25,Hot Pot Combo,2025-01-10,09:25:32,Completed,754.00
+6381,30,32,Ramen Bowl,2025-03-16,07:55:49,Pending,463.00
+6382,30,41,Donut Box,2025-03-31,18:54:04,Completed,311.00
+6383,14,28,Grilled Steak,2025-03-05,15:20:53,Completed,750.00
+6384,9,37,Cappuccino,2025-04-11,17:57:43,Completed,161.00
+6385,7,41,Hot Pot Combo,2025-01-03,10:59:54,Completed,776.00
+6386,1,28,Grilled Steak,2025-03-30,11:56:41,Completed,680.00
+6387,6,42,Veg Chowmein,2025-02-02,09:23:42,Cancelled,252.00
+6388,4,26,Thai Fried Rice,2025-02-09,14:27:41,Completed,254.00
+6389,1,14,Cappuccino,2025-01-10,11:37:14,Completed,263.00
+6390,1,1,Butter Chicken,2025-02-13,10:55:27,Completed,472.00
+6391,5,15,Pasta Alfredo,2025-01-12,10:06:20,Completed,356.00
+6392,9,25,Hakka Noodles,2025-04-15,11:41:43,Completed,355.00
+6393,1,40,Thai Fried Rice,2025-01-22,21:22:46,Completed,268.00
+6394,27,40,Donut Box,2025-02-26,13:05:57,Completed,241.00
+6395,25,23,Pizza Margherita,2025-02-10,11:15:17,Completed,543.00
+6396,19,50,Butter Chicken,2025-01-04,16:13:33,Completed,398.00
+6397,26,19,Thai Fried Rice,2025-01-07,14:31:24,Completed,357.00
+6398,5,34,Chicken Biryani,2025-02-16,17:08:24,Pending,485.00
+6399,27,24,Falafel Wrap,2025-03-29,12:48:30,Cancelled,218.00
+6400,2,38,Masala Dosa,2025-01-02,15:13:02,Cancelled,281.00
+6401,33,19,Thai Fried Rice,2025-04-02,23:49:26,Completed,332.00
+6402,6,41,Falafel Wrap,2025-03-10,11:17:05,Completed,330.00
+6403,14,10,Falafel Wrap,2025-02-11,19:37:40,Completed,216.00
+6404,20,45,Pizza Margherita,2025-04-04,14:03:15,Completed,591.00
+6405,8,30,Avocado Salad,2025-03-19,08:19:42,Completed,234.00
+6406,8,1,Butter Chicken,2025-01-18,07:10:31,Cancelled,483.00
+6407,34,47,Chicken Momos,2025-01-22,18:08:47,Completed,268.00
+6408,8,50,Chicken Biryani,2025-02-12,20:17:33,Completed,487.00
+6409,5,32,Hot Pot Combo,2025-03-07,18:03:31,Pending,702.00
+6410,24,11,Chicken Momos,2025-04-09,10:57:36,Completed,229.00
+6411,15,48,Chocolate Sundae,2025-01-01,08:54:55,Completed,131.00
+6412,31,24,Pasta Alfredo,2025-04-28,11:11:59,Cancelled,289.00
+6413,27,15,Ramen Bowl,2025-02-01,20:58:46,Completed,459.00
+6414,24,8,Chocolate Sundae,2025-03-28,08:11:14,Pending,131.00
+6415,26,5,Hot Pot Combo,2025-04-21,16:49:54,Completed,682.00
+6416,30,1,Veg Chowmein,2025-01-26,16:36:50,Completed,369.00
+6417,16,30,Veg Chowmein,2025-03-17,22:49:49,Completed,349.00
+6418,16,10,Chicken Biryani,2025-04-30,20:01:14,Completed,342.00
+6419,22,1,Hakka Noodles,2025-03-26,19:54:47,Completed,246.00
+6420,14,34,Fish Fry,2025-02-23,22:03:09,Completed,503.00
+6421,3,15,Chocolate Sundae,2025-02-22,18:29:47,Completed,144.00
+6422,33,9,Thai Fried Rice,2025-04-15,19:04:37,Completed,341.00
+6423,9,16,Pad Thai,2025-02-03,17:59:51,Completed,383.00
+6424,21,29,Chicken Momos,2025-01-30,09:12:08,Completed,349.00
+6425,7,10,Paneer Butter Masala,2025-01-22,21:29:20,Completed,427.00
+6426,23,50,Grilled Steak,2025-02-27,16:29:16,Pending,633.00
+6427,11,44,Pad Thai,2025-04-16,08:13:53,Pending,337.00
+6428,6,46,Fish Fry,2025-02-15,19:32:03,Completed,546.00
+6429,12,2,Pasta Alfredo,2025-04-20,21:35:47,Completed,304.00
+6430,30,7,Chicken Shawarma,2025-01-16,07:03:53,Completed,286.00
+6431,9,13,Pasta Alfredo,2025-02-17,09:37:37,Completed,299.00
+6432,2,5,Grilled Steak,2025-04-26,21:51:08,Completed,694.00
+6433,8,3,Hot Pot Combo,2025-01-07,12:59:36,Completed,761.00
+6434,32,2,Pasta Alfredo,2025-03-29,20:11:22,Completed,327.00
+6435,18,18,Hot Pot Combo,2025-04-24,11:02:39,Completed,722.00
+6436,19,32,Pizza Margherita,2025-04-23,22:03:05,Completed,515.00
+6437,27,13,Thai Fried Rice,2025-04-24,23:15:40,Cancelled,369.00
+6438,2,25,Butter Chicken,2025-02-15,22:34:50,Completed,494.00
+6439,33,21,Pasta Alfredo,2025-02-04,12:01:20,Completed,287.00
+6440,18,4,Cappuccino,2025-03-09,18:49:37,Cancelled,190.00
+6441,7,16,Donut Box,2025-01-31,15:34:52,Completed,224.00
+6442,15,37,Pasta Alfredo,2025-02-15,12:11:15,Completed,371.00
+6443,2,46,Butter Chicken,2025-02-15,11:36:12,Pending,476.00
+6444,20,12,Cappuccino,2025-01-05,09:03:14,Completed,155.00
+6445,34,31,Chicken Biryani,2025-02-12,13:51:08,Completed,385.00
+6446,21,4,Chicken Biryani,2025-01-19,11:49:07,Pending,433.00
+6447,5,24,Butter Chicken,2025-03-26,19:37:06,Completed,432.00
+6448,9,11,Seekh Kebab,2025-02-25,22:41:20,Completed,443.00
+6449,23,15,Donut Box,2025-03-17,12:24:19,Completed,285.00
+6450,9,12,Seekh Kebab,2025-01-01,19:54:49,Cancelled,308.00
+6451,12,39,Ramen Bowl,2025-04-28,14:40:36,Completed,567.00
+6452,10,22,Seekh Kebab,2025-01-10,14:22:20,Completed,322.00
+6453,22,29,Chicken Biryani,2025-02-03,13:15:44,Completed,405.00
+6454,7,47,Chicken Biryani,2025-01-07,19:28:46,Completed,382.00
+6455,27,32,Pasta Alfredo,2025-02-14,19:06:53,Completed,427.00
+6456,15,11,Hot Pot Combo,2025-01-10,08:18:01,Completed,686.00
+6457,5,22,Cheese Burger,2025-04-24,19:10:46,Completed,243.00
+6458,22,39,Avocado Salad,2025-04-25,22:45:01,Completed,232.00
+6459,28,11,Mutton Biryani,2025-01-13,17:13:12,Completed,521.00
+6460,17,43,Pad Thai,2025-02-08,14:06:03,Completed,440.00
+6461,32,10,Mutton Biryani,2025-02-16,07:27:05,Completed,540.00
+6462,31,13,Paneer Butter Masala,2025-01-04,13:10:40,Completed,310.00
+6463,31,8,Pad Thai,2025-04-11,19:30:31,Pending,367.00
+6464,6,42,Falafel Wrap,2025-02-19,12:23:56,Completed,247.00
+6465,29,3,Chicken Momos,2025-02-26,21:16:14,Pending,344.00
+6466,4,10,Hakka Noodles,2025-03-31,10:05:42,Completed,358.00
+6467,27,49,BBQ Chicken Platter,2025-01-30,08:53:24,Pending,557.00
+6468,31,37,Fish Fry,2025-03-02,16:05:25,Cancelled,488.00
+6469,33,37,Chocolate Sundae,2025-04-13,11:07:48,Completed,162.00
+6470,14,13,Chicken Shawarma,2025-01-06,20:05:43,Completed,390.00
+6471,10,39,Chicken Momos,2025-02-10,09:05:24,Completed,341.00
+6472,21,18,Chocolate Sundae,2025-02-28,07:50:44,Completed,253.00
+6473,27,8,Pizza Margherita,2025-01-20,11:36:37,Completed,505.00
+6474,7,37,Hakka Noodles,2025-01-13,16:55:34,Pending,325.00
+6475,17,25,Thai Fried Rice,2025-03-04,22:02:11,Completed,266.00
+6476,26,3,Pasta Alfredo,2025-04-24,17:44:15,Completed,401.00
+6477,18,24,Chicken Biryani,2025-02-13,16:19:17,Pending,365.00
+6478,15,9,Pad Thai,2025-04-06,21:49:52,Completed,406.00
+6479,6,13,Hot Pot Combo,2025-01-28,20:47:31,Completed,755.00
+6480,4,33,Cheese Burger,2025-01-09,16:45:32,Completed,354.00
+6481,2,12,Grilled Steak,2025-04-23,13:53:03,Completed,726.00
+6482,4,24,Butter Chicken,2025-01-26,15:23:52,Completed,451.00
+6483,8,44,Chicken Biryani,2025-01-31,18:31:38,Completed,461.00
+6484,23,23,Cheese Burger,2025-04-18,15:47:53,Completed,292.00
+6485,2,25,Mutton Biryani,2025-01-21,13:54:14,Completed,432.00
+6486,18,42,Pizza Margherita,2025-03-07,07:55:49,Cancelled,482.00
+6487,31,9,Thai Fried Rice,2025-01-23,07:14:16,Completed,308.00
+6488,18,28,Pasta Alfredo,2025-04-20,18:29:16,Completed,357.00
+6489,34,40,Pasta Alfredo,2025-03-16,10:00:32,Cancelled,375.00
+6490,19,20,Donut Box,2025-01-14,22:04:21,Cancelled,293.00
+6491,18,17,Thai Fried Rice,2025-04-02,16:12:09,Completed,291.00
+6492,4,39,Pasta Alfredo,2025-03-26,17:43:08,Completed,407.00
+6493,19,17,Pizza Margherita,2025-02-21,19:47:02,Completed,626.00
+6494,13,22,Seekh Kebab,2025-04-02,14:43:34,Completed,421.00
+6495,23,33,Pad Thai,2025-04-19,12:53:42,Pending,346.00
+6496,19,7,Cappuccino,2025-01-17,15:46:51,Completed,196.00
+6497,22,42,Masala Dosa,2025-01-29,18:14:47,Pending,287.00
+6498,22,24,Chicken Momos,2025-03-16,16:29:54,Completed,213.00
+6499,5,31,Grilled Steak,2025-03-06,10:55:43,Completed,686.00
+6500,27,4,Chicken Shawarma,2025-01-18,13:21:26,Cancelled,347.00
+6501,10,21,Butter Chicken,2025-01-24,09:31:21,Completed,395.00
+6502,21,41,Mutton Biryani,2025-01-01,21:17:13,Completed,423.00
+6503,11,32,Hakka Noodles,2025-04-10,09:08:39,Completed,329.00
+6504,26,28,Cappuccino,2025-02-19,07:02:34,Completed,245.00
+6505,1,21,Hakka Noodles,2025-04-17,23:12:01,Completed,380.00
+6506,16,15,Butter Chicken,2025-04-23,18:19:08,Completed,478.00
+6507,20,11,Masala Dosa,2025-04-16,08:19:18,Completed,313.00
+6508,34,22,Pizza Margherita,2025-04-24,11:21:57,Completed,528.00
+6509,11,26,Chicken Biryani,2025-01-30,14:46:08,Completed,345.00
+6510,33,11,Paneer Butter Masala,2025-02-16,08:24:56,Completed,426.00
+6511,4,39,Mutton Biryani,2025-03-26,10:41:53,Completed,409.00
+6512,27,29,Pasta Alfredo,2025-01-16,15:30:44,Completed,282.00
+6513,20,27,Donut Box,2025-01-13,23:17:39,Completed,245.00
+6514,27,7,Chocolate Sundae,2025-04-03,10:18:07,Completed,247.00
+6515,13,39,Grilled Steak,2025-04-10,15:53:33,Cancelled,701.00
+6516,27,19,Cheese Burger,2025-01-06,22:58:13,Completed,343.00
+6517,22,16,Chicken Biryani,2025-01-02,09:58:07,Pending,466.00
+6518,10,6,Hakka Noodles,2025-03-07,09:46:46,Completed,285.00
+6519,15,30,Pad Thai,2025-02-03,21:03:06,Pending,310.00
+6520,19,24,Donut Box,2025-02-10,20:47:07,Completed,221.00
+6521,1,9,Donut Box,2025-03-24,12:21:22,Pending,369.00
+6522,18,47,Masala Dosa,2025-02-17,17:11:07,Completed,296.00
+6523,18,25,Butter Chicken,2025-04-19,22:51:26,Completed,392.00
+6524,8,9,Butter Chicken,2025-04-03,08:54:10,Completed,501.00
+6525,31,37,Donut Box,2025-02-26,12:39:24,Completed,366.00
+6526,2,44,Seekh Kebab,2025-04-25,11:30:58,Completed,405.00
+6527,29,3,Masala Dosa,2025-02-03,17:00:45,Pending,314.00
+6528,15,43,Ramen Bowl,2025-03-08,23:44:44,Completed,550.00
+6529,16,31,Veg Chowmein,2025-03-26,19:09:53,Pending,366.00
+6530,4,1,Thai Fried Rice,2025-04-30,12:32:54,Completed,356.00
+6531,11,5,Hakka Noodles,2025-03-04,17:15:21,Cancelled,232.00
+6532,33,15,Falafel Wrap,2025-03-24,19:25:52,Completed,317.00
+6533,29,37,Hot Pot Combo,2025-01-12,22:28:20,Completed,787.00
+6534,2,7,Pasta Alfredo,2025-02-22,08:35:35,Completed,303.00
+6535,20,33,Falafel Wrap,2025-01-27,21:21:23,Pending,257.00
+6536,30,22,Falafel Wrap,2025-04-09,22:45:42,Completed,315.00
+6537,8,7,Hakka Noodles,2025-03-26,14:00:21,Completed,294.00
+6538,34,24,Butter Chicken,2025-01-14,08:57:10,Completed,454.00
+6539,7,17,Avocado Salad,2025-01-26,13:07:59,Pending,245.00
+6540,30,13,Butter Chicken,2025-02-13,10:48:26,Completed,500.00
+6541,8,50,Hot Pot Combo,2025-02-28,23:08:31,Completed,672.00
+6542,28,38,Cappuccino,2025-04-29,23:49:58,Cancelled,298.00
+6543,12,47,Chicken Shawarma,2025-01-14,19:42:38,Completed,312.00
+6544,33,25,Pizza Margherita,2025-03-19,14:17:25,Cancelled,555.00
+6545,29,9,Chicken Shawarma,2025-02-22,23:19:53,Completed,310.00
+6546,14,13,Grilled Steak,2025-03-21,16:43:22,Cancelled,643.00
+6547,12,33,Falafel Wrap,2025-03-30,17:45:07,Completed,343.00
+6548,31,38,BBQ Chicken Platter,2025-03-27,20:43:47,Pending,586.00
+6549,19,28,Chicken Biryani,2025-03-08,10:01:24,Completed,354.00
+6550,13,18,Hakka Noodles,2025-04-11,12:18:43,Completed,235.00
+6551,19,14,Hakka Noodles,2025-03-11,08:22:52,Completed,377.00
+6552,15,48,Thai Fried Rice,2025-03-13,19:15:32,Completed,303.00
+6553,4,25,Pasta Alfredo,2025-02-23,17:35:03,Completed,344.00
+6554,13,40,Hakka Noodles,2025-04-21,21:53:14,Cancelled,314.00
+6555,13,50,Seekh Kebab,2025-01-25,16:28:11,Cancelled,319.00
+6556,12,12,Seekh Kebab,2025-03-07,10:24:02,Completed,442.00
+6557,17,9,Cheese Burger,2025-03-16,15:00:21,Completed,259.00
+6558,3,10,Ramen Bowl,2025-03-18,08:49:59,Completed,517.00
+6559,32,37,Falafel Wrap,2025-02-15,09:50:45,Completed,256.00
+6560,12,34,Masala Dosa,2025-04-11,23:10:26,Completed,283.00
+6561,6,23,Fish Fry,2025-04-24,13:42:21,Completed,555.00
+6562,14,49,Avocado Salad,2025-03-09,22:35:52,Completed,192.00
+6563,8,43,Veg Chowmein,2025-02-27,14:57:41,Completed,369.00
+6564,16,3,Donut Box,2025-04-24,17:24:58,Completed,239.00
+6565,25,17,Falafel Wrap,2025-04-03,16:01:58,Completed,295.00
+6566,33,33,Hot Pot Combo,2025-03-04,08:18:57,Completed,742.00
+6567,33,6,Paneer Butter Masala,2025-01-22,07:40:04,Completed,344.00
+6568,28,7,Grilled Steak,2025-03-10,20:41:52,Cancelled,649.00
+6569,2,30,Butter Chicken,2025-02-12,08:05:04,Completed,414.00
+6570,5,37,Fish Fry,2025-04-27,15:26:24,Completed,583.00
+6571,28,21,Chicken Biryani,2025-02-19,10:34:00,Completed,498.00
+6572,5,49,Seekh Kebab,2025-03-16,08:44:54,Completed,428.00
+6573,7,19,Donut Box,2025-02-08,09:18:48,Cancelled,307.00
+6574,26,43,Chicken Biryani,2025-03-02,12:34:14,Completed,440.00
+6575,19,41,Chicken Shawarma,2025-02-08,18:00:35,Pending,266.00
+6576,8,3,Chicken Biryani,2025-03-15,19:34:35,Cancelled,418.00
+6577,14,48,Seekh Kebab,2025-04-26,18:13:26,Cancelled,431.00
+6578,10,11,Cheese Burger,2025-01-29,15:12:07,Completed,365.00
+6579,4,49,Falafel Wrap,2025-03-01,09:18:42,Completed,225.00
+6580,13,47,BBQ Chicken Platter,2025-03-04,17:22:08,Completed,510.00
+6581,7,19,Avocado Salad,2025-01-09,13:20:31,Completed,347.00
+6582,20,45,BBQ Chicken Platter,2025-01-20,18:51:20,Cancelled,493.00
+6583,1,21,Fish Fry,2025-04-11,14:45:47,Completed,550.00
+6584,24,9,Donut Box,2025-04-04,17:56:30,Completed,301.00
+6585,20,32,Falafel Wrap,2025-01-14,12:41:38,Completed,271.00
+6586,9,35,Grilled Steak,2025-02-03,09:46:04,Pending,739.00
+6587,2,38,BBQ Chicken Platter,2025-02-21,13:58:02,Completed,589.00
+6588,31,42,Hakka Noodles,2025-01-20,18:25:14,Pending,370.00
+6589,19,9,Hot Pot Combo,2025-03-06,23:05:25,Completed,662.00
+6590,16,40,Donut Box,2025-01-22,23:08:28,Completed,354.00
+6591,10,48,Seekh Kebab,2025-03-03,18:02:14,Completed,359.00
+6592,5,17,Veg Chowmein,2025-01-30,08:42:13,Completed,302.00
+6593,25,31,Hot Pot Combo,2025-04-23,08:02:41,Completed,793.00
+6594,18,48,Chicken Momos,2025-03-16,12:24:41,Completed,350.00
+6595,5,34,Chicken Momos,2025-02-18,14:33:25,Completed,288.00
+6596,32,31,Avocado Salad,2025-01-01,23:56:08,Completed,248.00
+6597,5,33,Thai Fried Rice,2025-02-05,13:09:11,Completed,384.00
+6598,8,43,Fish Fry,2025-02-23,17:46:07,Completed,602.00
+6599,31,14,BBQ Chicken Platter,2025-01-21,20:01:15,Completed,596.00
+6600,11,9,Thai Fried Rice,2025-03-07,08:57:36,Completed,272.00
+6601,17,12,Chocolate Sundae,2025-02-21,07:56:46,Completed,192.00
+6602,6,14,Hot Pot Combo,2025-03-19,22:55:30,Completed,765.00
+6603,10,38,Hakka Noodles,2025-01-24,23:16:10,Completed,307.00
+6604,30,39,BBQ Chicken Platter,2025-01-09,14:24:24,Completed,454.00
+6605,13,34,Chocolate Sundae,2025-03-29,20:52:09,Completed,165.00
+6606,31,40,Avocado Salad,2025-01-05,23:48:07,Completed,223.00
+6607,1,50,Donut Box,2025-03-25,20:33:26,Completed,221.00
+6608,34,28,Fish Fry,2025-04-13,22:50:49,Completed,630.00
+6609,7,28,Chicken Shawarma,2025-02-02,22:49:14,Cancelled,251.00
+6610,19,39,Falafel Wrap,2025-02-22,15:12:00,Completed,201.00
+6611,34,8,Chocolate Sundae,2025-01-01,19:41:13,Completed,200.00
+6612,27,24,Paneer Butter Masala,2025-01-20,20:41:37,Completed,427.00
+6613,28,37,Veg Chowmein,2025-03-20,15:43:25,Completed,315.00
+6614,31,12,Veg Chowmein,2025-03-13,22:16:19,Completed,311.00
+6615,9,43,Paneer Butter Masala,2025-04-06,14:28:50,Completed,331.00
+6616,7,14,Chocolate Sundae,2025-02-21,17:51:35,Completed,133.00
+6617,11,25,Thai Fried Rice,2025-01-01,09:52:09,Completed,383.00
+6618,28,6,Masala Dosa,2025-02-03,14:23:05,Completed,278.00
+6619,26,40,Thai Fried Rice,2025-03-08,16:45:38,Completed,274.00
+6620,32,29,Chicken Biryani,2025-01-26,23:18:12,Completed,493.00
+6621,33,34,Butter Chicken,2025-01-30,12:43:02,Completed,350.00
+6622,11,6,Chicken Momos,2025-04-10,19:22:42,Completed,350.00
+6623,13,34,Chicken Biryani,2025-04-05,09:58:05,Completed,483.00
+6624,23,23,Chicken Momos,2025-01-29,13:29:59,Completed,201.00
+6625,17,12,Pizza Margherita,2025-03-06,10:35:04,Completed,567.00
+6626,8,33,Chicken Momos,2025-04-23,15:44:28,Cancelled,344.00
+6627,31,50,Fish Fry,2025-04-07,17:49:29,Completed,630.00
+6628,2,31,Paneer Butter Masala,2025-02-03,09:24:40,Completed,346.00
+6629,15,21,Pizza Margherita,2025-02-15,23:34:00,Completed,547.00
+6630,16,19,Masala Dosa,2025-02-21,17:04:35,Cancelled,301.00
+6631,21,23,Grilled Steak,2025-04-25,15:11:47,Completed,658.00
+6632,32,48,Grilled Steak,2025-01-31,14:55:16,Completed,661.00
+6633,16,40,Veg Chowmein,2025-01-20,10:07:58,Completed,336.00
+6634,1,49,Falafel Wrap,2025-01-06,22:23:39,Completed,347.00
+6635,18,32,Cheese Burger,2025-04-08,23:17:25,Completed,367.00
+6636,9,4,Chocolate Sundae,2025-04-13,20:30:34,Completed,208.00
+6637,26,44,Hakka Noodles,2025-01-23,21:07:44,Completed,300.00
+6638,1,1,Donut Box,2025-01-27,19:37:06,Completed,366.00
+6639,17,12,Falafel Wrap,2025-02-03,14:17:30,Cancelled,287.00
+6640,24,12,Cappuccino,2025-02-24,13:26:44,Completed,243.00
+6641,26,18,Hot Pot Combo,2025-01-24,11:36:43,Completed,685.00
+6642,18,16,Falafel Wrap,2025-02-25,19:12:09,Pending,238.00
+6643,31,1,Cheese Burger,2025-02-23,22:08:57,Pending,352.00
+6644,21,32,Pad Thai,2025-02-02,08:25:06,Completed,315.00
+6645,14,17,Cappuccino,2025-04-18,10:28:47,Completed,242.00
+6646,24,36,Falafel Wrap,2025-04-30,15:22:01,Completed,289.00
+6647,13,37,BBQ Chicken Platter,2025-03-25,12:49:18,Completed,580.00
+6648,32,50,Seekh Kebab,2025-02-27,09:24:39,Completed,337.00
+6649,11,41,Ramen Bowl,2025-02-23,19:54:58,Completed,481.00
+6650,22,15,Ramen Bowl,2025-02-10,16:45:17,Completed,541.00
+6651,18,29,Hakka Noodles,2025-04-21,18:47:37,Completed,335.00
+6652,27,11,Cheese Burger,2025-04-20,07:08:46,Completed,284.00
+6653,6,14,Cheese Burger,2025-02-20,10:06:04,Cancelled,341.00
+6654,4,2,Hakka Noodles,2025-02-20,23:48:05,Completed,378.00
+6655,10,6,Thai Fried Rice,2025-04-30,19:19:14,Completed,302.00
+6656,29,41,Chicken Shawarma,2025-01-17,23:53:10,Completed,321.00
+6657,21,31,Hot Pot Combo,2025-04-22,15:35:28,Completed,798.00
+6658,12,38,Avocado Salad,2025-02-28,20:33:40,Completed,269.00
+6659,23,31,Falafel Wrap,2025-01-30,09:28:19,Completed,266.00
+6660,10,20,Chicken Biryani,2025-01-01,23:52:48,Pending,428.00
+6661,19,31,Falafel Wrap,2025-01-02,22:48:30,Completed,310.00
+6662,19,39,Fish Fry,2025-04-12,07:35:23,Completed,623.00
+6663,28,26,Fish Fry,2025-01-21,19:53:24,Completed,500.00
+6664,28,41,Fish Fry,2025-03-08,15:18:41,Completed,548.00
+6665,27,13,Masala Dosa,2025-01-24,11:18:07,Completed,338.00
+6666,29,18,Butter Chicken,2025-03-21,22:12:20,Completed,362.00
+6667,2,12,Paneer Butter Masala,2025-02-06,15:08:45,Completed,292.00
+6668,15,6,Chicken Shawarma,2025-01-02,22:13:21,Completed,357.00
+6669,24,30,Butter Chicken,2025-04-12,08:21:05,Pending,387.00
+6670,4,18,Hakka Noodles,2025-02-20,09:34:30,Completed,284.00
+6671,25,1,Paneer Butter Masala,2025-04-09,14:24:49,Cancelled,353.00
+6672,3,13,Hot Pot Combo,2025-04-05,10:33:42,Cancelled,781.00
+6673,25,44,Pad Thai,2025-04-30,17:10:40,Completed,440.00
+6674,34,8,Chicken Momos,2025-03-03,16:12:23,Pending,255.00
+6675,8,16,Thai Fried Rice,2025-02-25,17:00:10,Completed,379.00
+6676,8,26,Fish Fry,2025-01-02,08:37:50,Completed,632.00
+6677,10,24,Hakka Noodles,2025-01-12,14:10:31,Completed,378.00
+6678,22,49,Thai Fried Rice,2025-01-08,08:22:41,Completed,367.00
+6679,7,9,Cappuccino,2025-01-30,17:35:50,Completed,238.00
+6680,29,47,Grilled Steak,2025-01-03,19:22:46,Completed,620.00
+6681,32,46,Hot Pot Combo,2025-03-13,16:34:44,Completed,805.00
+6682,12,35,Veg Chowmein,2025-02-11,21:17:55,Pending,351.00
+6683,11,5,Chocolate Sundae,2025-01-20,21:18:52,Completed,213.00
+6684,30,1,Hakka Noodles,2025-03-23,23:24:46,Completed,224.00
+6685,24,50,Avocado Salad,2025-01-31,17:46:04,Completed,327.00
+6686,25,13,Chocolate Sundae,2025-03-29,22:49:35,Completed,192.00
+6687,21,27,Thai Fried Rice,2025-02-11,10:06:33,Completed,241.00
+6688,9,12,Mutton Biryani,2025-01-26,10:31:12,Completed,526.00
+6689,25,43,Cappuccino,2025-03-09,15:03:23,Completed,168.00
+6690,1,14,Thai Fried Rice,2025-03-04,09:29:51,Completed,322.00
+6691,27,24,Butter Chicken,2025-01-08,15:33:02,Completed,427.00
+6692,5,14,Chocolate Sundae,2025-01-13,10:46:14,Completed,168.00
+6693,13,34,Donut Box,2025-02-01,12:35:47,Completed,237.00
+6694,23,44,Hot Pot Combo,2025-03-31,20:56:06,Completed,706.00
+6695,26,33,Ramen Bowl,2025-03-26,12:34:38,Completed,530.00
+6696,21,36,Ramen Bowl,2025-04-19,18:26:48,Completed,522.00
+6697,16,37,Falafel Wrap,2025-01-28,19:49:35,Cancelled,265.00
+6698,24,29,Hot Pot Combo,2025-02-20,07:46:02,Cancelled,812.00
+6699,2,34,Chicken Shawarma,2025-04-24,16:00:19,Cancelled,284.00
+6700,21,2,Hakka Noodles,2025-04-16,15:58:35,Completed,366.00
+6701,10,7,Mutton Biryani,2025-02-28,18:09:08,Completed,529.00
+6702,16,15,Chicken Momos,2025-04-14,16:05:36,Completed,255.00
+6703,5,47,Ramen Bowl,2025-04-12,22:11:31,Pending,587.00
+6704,7,39,Thai Fried Rice,2025-02-08,08:46:51,Completed,250.00
+6705,4,50,Ramen Bowl,2025-02-14,20:26:59,Pending,498.00
+6706,1,41,Hakka Noodles,2025-03-22,19:03:19,Completed,301.00
+6707,10,21,Chocolate Sundae,2025-03-31,14:09:03,Completed,220.00
+6708,29,49,Avocado Salad,2025-03-15,23:05:14,Completed,290.00
+6709,10,9,Ramen Bowl,2025-01-11,22:36:47,Completed,542.00
+6710,17,6,Pasta Alfredo,2025-03-06,20:49:44,Completed,314.00
+6711,31,36,Grilled Steak,2025-03-04,19:41:36,Completed,767.00
+6712,34,16,Fish Fry,2025-01-10,15:49:27,Completed,627.00
+6713,6,8,Donut Box,2025-02-22,20:23:22,Completed,298.00
+6714,2,50,Pad Thai,2025-01-22,18:39:52,Cancelled,413.00
+6715,10,29,Mutton Biryani,2025-04-29,14:12:43,Completed,401.00
+6716,8,48,Mutton Biryani,2025-02-01,11:55:53,Pending,383.00
+6717,22,45,Paneer Butter Masala,2025-02-09,21:30:01,Completed,427.00
+6718,14,14,Falafel Wrap,2025-03-08,15:35:30,Completed,236.00
+6719,2,25,BBQ Chicken Platter,2025-04-26,23:02:16,Completed,522.00
+6720,13,45,Avocado Salad,2025-02-04,08:29:41,Cancelled,207.00
+6721,25,43,Chicken Momos,2025-03-26,18:55:06,Completed,298.00
+6722,15,25,Chocolate Sundae,2025-04-01,10:57:20,Completed,272.00
+6723,6,12,Grilled Steak,2025-03-06,21:35:59,Completed,620.00
+6724,16,34,Pad Thai,2025-02-12,22:25:47,Completed,388.00
+6725,23,23,Thai Fried Rice,2025-02-08,14:32:17,Pending,390.00
+6726,17,25,Chicken Biryani,2025-03-13,15:14:09,Completed,440.00
+6727,9,6,Seekh Kebab,2025-02-18,23:43:39,Pending,358.00
+6728,27,16,BBQ Chicken Platter,2025-01-20,20:19:58,Completed,564.00
+6729,9,14,Thai Fried Rice,2025-01-18,13:55:08,Completed,364.00
+6730,9,28,Hakka Noodles,2025-01-19,12:20:04,Completed,250.00
+6731,12,21,Chicken Shawarma,2025-04-04,07:48:20,Pending,335.00
+6732,27,20,Hot Pot Combo,2025-04-06,15:09:49,Completed,693.00
+6733,12,2,Hakka Noodles,2025-03-20,15:38:36,Completed,372.00
+6734,15,15,Donut Box,2025-01-04,18:05:44,Completed,244.00
+6735,33,39,Cappuccino,2025-04-02,18:11:54,Completed,271.00
+6736,9,11,Grilled Steak,2025-01-29,08:26:48,Cancelled,679.00
+6737,27,15,Seekh Kebab,2025-03-27,13:48:13,Completed,412.00
+6738,32,45,Ramen Bowl,2025-04-21,21:56:15,Completed,450.00
+6739,25,47,Ramen Bowl,2025-02-20,23:41:56,Completed,449.00
+6740,34,7,Hot Pot Combo,2025-02-28,08:56:15,Completed,761.00
+6741,3,36,Pasta Alfredo,2025-03-08,08:12:18,Completed,357.00
+6742,19,30,Cheese Burger,2025-02-24,16:39:58,Completed,352.00
+6743,10,30,Thai Fried Rice,2025-02-27,09:46:32,Completed,379.00
+6744,9,26,Pizza Margherita,2025-02-11,21:01:11,Completed,531.00
+6745,30,6,Chicken Momos,2025-02-11,12:45:46,Completed,229.00
+6746,29,41,Veg Chowmein,2025-01-11,23:45:24,Completed,340.00
+6747,11,25,Falafel Wrap,2025-02-18,08:49:10,Cancelled,344.00
+6748,10,11,Chicken Shawarma,2025-01-23,08:26:19,Completed,344.00
+6749,19,41,Cheese Burger,2025-01-16,11:12:00,Completed,284.00
+6750,1,30,Cappuccino,2025-04-20,22:34:51,Completed,276.00
+6751,16,14,BBQ Chicken Platter,2025-03-26,22:29:26,Completed,603.00
+6752,1,16,Falafel Wrap,2025-02-05,13:03:11,Completed,289.00
+6753,3,10,Mutton Biryani,2025-03-27,16:21:58,Completed,407.00
+6754,27,12,Cheese Burger,2025-03-28,16:39:42,Completed,372.00
+6755,12,30,Seekh Kebab,2025-03-16,18:59:02,Completed,376.00
+6756,21,24,Pasta Alfredo,2025-04-15,09:48:27,Pending,296.00
+6757,19,31,Chicken Shawarma,2025-01-16,15:21:33,Completed,283.00
+6758,14,40,Mutton Biryani,2025-01-14,23:05:30,Completed,534.00
+6759,19,28,Avocado Salad,2025-04-19,17:16:33,Completed,349.00
+6760,23,9,Avocado Salad,2025-03-14,22:33:46,Completed,316.00
+6761,12,40,Fish Fry,2025-04-01,16:12:00,Completed,599.00
+6762,8,48,Grilled Steak,2025-04-13,20:26:02,Completed,753.00
+6763,14,1,Thai Fried Rice,2025-01-26,16:16:50,Completed,306.00
+6764,33,36,Ramen Bowl,2025-04-09,07:07:43,Completed,541.00
+6765,2,12,Grilled Steak,2025-02-12,17:59:43,Completed,731.00
+6766,3,42,Chicken Shawarma,2025-03-03,11:40:29,Pending,367.00
+6767,22,30,Pizza Margherita,2025-04-29,08:53:33,Completed,560.00
+6768,2,14,BBQ Chicken Platter,2025-03-29,17:51:58,Pending,540.00
+6769,5,10,Chicken Momos,2025-04-18,07:21:24,Completed,242.00
+6770,25,12,Avocado Salad,2025-01-15,16:45:54,Completed,198.00
+6771,18,27,Masala Dosa,2025-03-05,14:23:28,Pending,257.00
+6772,14,34,Pad Thai,2025-01-23,10:23:50,Completed,351.00
+6773,6,29,Chocolate Sundae,2025-01-04,22:57:32,Completed,207.00
+6774,31,47,Chocolate Sundae,2025-02-09,17:09:49,Pending,252.00
+6775,9,14,Seekh Kebab,2025-01-05,21:24:45,Pending,329.00
+6776,1,20,Mutton Biryani,2025-03-29,09:21:29,Pending,406.00
+6777,34,50,Donut Box,2025-04-06,16:01:36,Completed,263.00
+6778,21,13,Grilled Steak,2025-02-06,15:34:20,Completed,640.00
+6779,18,10,Cheese Burger,2025-02-05,10:00:39,Completed,246.00
+6780,14,35,Veg Chowmein,2025-03-12,17:17:09,Cancelled,282.00
+6781,16,11,Masala Dosa,2025-02-09,17:34:28,Completed,187.00
+6782,31,44,Mutton Biryani,2025-01-14,19:03:05,Completed,425.00
+6783,29,40,Veg Chowmein,2025-02-09,17:52:12,Completed,346.00
+6784,6,49,Hakka Noodles,2025-03-01,11:05:52,Pending,339.00
+6785,7,30,Pad Thai,2025-03-29,21:30:14,Cancelled,336.00
+6786,17,24,Pasta Alfredo,2025-01-24,17:50:55,Pending,396.00
+6787,32,2,Masala Dosa,2025-03-02,10:22:30,Completed,223.00
+6788,19,50,Veg Chowmein,2025-03-19,11:32:06,Completed,237.00
+6789,21,36,Thai Fried Rice,2025-01-10,16:34:29,Completed,335.00
+6790,16,40,Fish Fry,2025-03-12,12:30:24,Completed,533.00
+6791,28,28,BBQ Chicken Platter,2025-04-11,17:34:44,Completed,469.00
+6792,32,8,BBQ Chicken Platter,2025-03-18,21:20:35,Completed,563.00
+6793,12,20,Pasta Alfredo,2025-01-09,10:43:52,Completed,377.00
+6794,21,32,Thai Fried Rice,2025-03-26,08:05:13,Pending,378.00
+6795,1,49,Chicken Shawarma,2025-03-26,11:28:34,Completed,387.00
+6796,29,13,Grilled Steak,2025-03-29,17:19:36,Completed,687.00
+6797,28,46,Veg Chowmein,2025-01-12,07:39:32,Completed,242.00
+6798,19,4,Veg Chowmein,2025-04-26,08:00:45,Completed,301.00
+6799,8,19,Chicken Biryani,2025-01-31,20:44:37,Completed,421.00
+6800,25,26,Pasta Alfredo,2025-02-25,13:42:11,Completed,328.00
+6801,25,24,Pizza Margherita,2025-01-20,16:55:42,Completed,482.00
+6802,5,42,Chicken Biryani,2025-01-19,22:42:27,Cancelled,374.00
+6803,6,9,Thai Fried Rice,2025-04-14,20:55:29,Pending,384.00
+6804,28,40,Cheese Burger,2025-02-28,23:27:35,Pending,318.00
+6805,23,15,Cheese Burger,2025-02-24,07:36:31,Pending,280.00
+6806,33,18,Pizza Margherita,2025-04-29,18:02:02,Completed,574.00
+6807,8,38,Cappuccino,2025-03-30,09:09:46,Completed,221.00
+6808,30,34,Masala Dosa,2025-03-08,09:15:30,Completed,199.00
+6809,20,40,Mutton Biryani,2025-04-26,17:34:49,Completed,496.00
+6810,33,31,BBQ Chicken Platter,2025-04-04,17:26:22,Cancelled,525.00
+6811,19,11,Mutton Biryani,2025-03-30,16:46:50,Completed,395.00
+6812,31,38,Cheese Burger,2025-03-15,08:42:18,Pending,379.00
+6813,2,19,Cappuccino,2025-01-11,11:32:04,Pending,221.00
+6814,17,9,Avocado Salad,2025-02-05,15:54:16,Completed,218.00
+6815,12,38,Seekh Kebab,2025-01-20,21:23:51,Completed,360.00
+6816,32,12,Chocolate Sundae,2025-04-21,08:21:05,Cancelled,272.00
+6817,10,32,Hakka Noodles,2025-02-22,19:15:42,Completed,262.00
+6818,14,37,Seekh Kebab,2025-04-18,18:03:41,Completed,329.00
+6819,4,11,Hot Pot Combo,2025-02-21,22:19:30,Completed,796.00
+6820,15,25,Donut Box,2025-04-01,19:30:16,Completed,321.00
+6821,1,19,Hot Pot Combo,2025-02-18,17:33:43,Cancelled,684.00
+6822,23,28,Avocado Salad,2025-04-28,15:21:17,Completed,215.00
+6823,17,42,BBQ Chicken Platter,2025-02-20,21:49:43,Completed,600.00
+6824,13,34,Ramen Bowl,2025-03-28,12:20:35,Completed,442.00
+6825,5,1,Pizza Margherita,2025-01-13,23:06:43,Completed,536.00
+6826,19,17,Grilled Steak,2025-01-05,07:39:05,Completed,762.00
+6827,14,39,Thai Fried Rice,2025-01-16,10:05:54,Completed,326.00
+6828,12,8,Butter Chicken,2025-01-24,15:18:29,Completed,369.00
+6829,30,18,Hakka Noodles,2025-02-24,17:16:10,Completed,290.00
+6830,4,25,Pasta Alfredo,2025-02-12,08:16:52,Completed,392.00
+6831,5,32,Grilled Steak,2025-03-20,19:11:41,Completed,646.00
+6832,28,14,Avocado Salad,2025-03-24,10:58:28,Completed,216.00
+6833,3,5,Masala Dosa,2025-03-15,15:49:28,Completed,307.00
+6834,10,42,Thai Fried Rice,2025-01-01,08:42:24,Completed,314.00
+6835,26,37,Chicken Biryani,2025-03-07,22:30:27,Completed,357.00
+6836,15,1,Pasta Alfredo,2025-03-30,22:07:36,Completed,371.00
+6837,22,44,Pad Thai,2025-02-21,08:40:41,Completed,436.00
+6838,22,6,Hot Pot Combo,2025-04-08,16:41:12,Completed,670.00
+6839,25,43,Grilled Steak,2025-02-08,19:57:06,Completed,701.00
+6840,32,6,Thai Fried Rice,2025-02-26,13:08:02,Completed,381.00
+6841,16,32,Pasta Alfredo,2025-01-09,16:31:34,Cancelled,395.00
+6842,2,3,Ramen Bowl,2025-01-08,17:50:46,Completed,470.00
+6843,14,42,Donut Box,2025-03-08,21:43:55,Pending,248.00
+6844,15,5,Mutton Biryani,2025-04-05,11:31:41,Completed,538.00
+6845,3,16,Butter Chicken,2025-03-25,11:00:11,Completed,428.00
+6846,7,30,Avocado Salad,2025-01-22,09:52:52,Completed,317.00
+6847,15,5,Grilled Steak,2025-02-24,17:51:53,Cancelled,712.00
+6848,21,8,Donut Box,2025-03-15,11:20:53,Cancelled,264.00
+6849,3,38,Cheese Burger,2025-02-12,09:07:17,Completed,326.00
+6850,11,45,Veg Chowmein,2025-03-12,12:28:15,Cancelled,220.00
+6851,9,7,Thai Fried Rice,2025-03-20,19:49:10,Completed,354.00
+6852,6,1,Chicken Biryani,2025-01-23,09:45:41,Completed,412.00
+6853,27,45,Hakka Noodles,2025-03-02,11:13:09,Completed,353.00
+6854,29,27,Fish Fry,2025-01-23,08:38:11,Completed,636.00
+6855,6,41,Pad Thai,2025-02-14,20:00:35,Completed,330.00
+6856,34,7,Avocado Salad,2025-02-16,23:14:29,Completed,243.00
+6857,18,4,Grilled Steak,2025-01-15,11:43:54,Cancelled,731.00
+6858,32,12,Cheese Burger,2025-03-27,08:03:41,Completed,273.00
+6859,28,17,Ramen Bowl,2025-03-20,21:02:06,Completed,577.00
+6860,12,11,Chicken Biryani,2025-03-04,23:07:04,Pending,453.00
+6861,21,27,Grilled Steak,2025-04-06,17:14:49,Completed,668.00
+6862,7,16,Seekh Kebab,2025-02-22,13:24:57,Completed,420.00
+6863,32,4,Pizza Margherita,2025-01-19,13:59:39,Completed,579.00
+6864,24,9,Hot Pot Combo,2025-04-03,13:40:22,Cancelled,711.00
+6865,22,9,Mutton Biryani,2025-03-30,08:17:08,Completed,499.00
+6866,30,27,Cheese Burger,2025-04-08,17:14:56,Completed,260.00
+6867,11,37,Falafel Wrap,2025-04-20,14:05:26,Pending,325.00
+6868,14,38,Cappuccino,2025-04-18,21:17:00,Completed,213.00
+6869,16,21,Pizza Margherita,2025-03-16,14:57:59,Completed,518.00
+6870,1,27,Mutton Biryani,2025-01-06,22:46:49,Completed,488.00
+6871,34,26,Cappuccino,2025-04-14,10:28:31,Completed,292.00
+6872,1,45,Seekh Kebab,2025-02-22,13:08:22,Completed,323.00
+6873,2,31,Donut Box,2025-02-09,12:45:29,Pending,359.00
+6874,2,30,Hot Pot Combo,2025-04-09,11:55:45,Completed,754.00
+6875,30,46,Thai Fried Rice,2025-01-01,09:24:57,Completed,365.00
+6876,3,19,Pizza Margherita,2025-04-07,15:44:39,Completed,533.00
+6877,6,40,Ramen Bowl,2025-04-05,08:32:58,Completed,453.00
+6878,8,25,Veg Chowmein,2025-03-01,08:23:23,Completed,353.00
+6879,5,36,Butter Chicken,2025-04-10,13:08:21,Completed,379.00
+6880,31,48,Hakka Noodles,2025-03-16,13:48:47,Completed,302.00
+6881,23,18,Chocolate Sundae,2025-03-29,20:17:03,Completed,208.00
+6882,29,32,Chocolate Sundae,2025-03-09,10:30:45,Completed,256.00
+6883,19,29,Avocado Salad,2025-02-17,09:12:57,Pending,212.00
+6884,6,26,Cheese Burger,2025-02-06,09:06:10,Completed,257.00
+6885,32,10,Grilled Steak,2025-03-08,07:18:26,Cancelled,748.00
+6886,9,31,Veg Chowmein,2025-02-23,21:47:41,Completed,258.00
+6887,5,2,Fish Fry,2025-04-17,23:41:21,Completed,567.00
+6888,21,32,BBQ Chicken Platter,2025-03-27,23:53:35,Completed,527.00
+6889,9,20,Cheese Burger,2025-04-12,15:14:30,Completed,293.00
+6890,4,10,Veg Chowmein,2025-02-06,21:10:39,Cancelled,347.00
+6891,19,12,Cheese Burger,2025-04-18,11:10:15,Completed,301.00
+6892,9,29,Chicken Momos,2025-02-17,12:13:35,Completed,281.00
+6893,23,10,Veg Chowmein,2025-02-27,12:34:19,Completed,216.00
+6894,26,32,Hakka Noodles,2025-01-19,21:59:20,Completed,359.00
+6895,33,22,Thai Fried Rice,2025-04-01,16:30:57,Completed,376.00
+6896,10,37,Seekh Kebab,2025-04-27,21:21:44,Completed,422.00
+6897,3,9,Donut Box,2025-03-12,10:19:01,Completed,266.00
+6898,29,23,Masala Dosa,2025-02-11,08:38:41,Completed,314.00
+6899,15,50,Chicken Momos,2025-01-26,07:05:34,Pending,222.00
+6900,33,26,Grilled Steak,2025-03-04,17:38:38,Completed,624.00
+6901,24,26,Chicken Shawarma,2025-04-02,20:23:24,Completed,302.00
+6902,23,23,Pad Thai,2025-02-27,09:13:46,Pending,406.00
+6903,29,19,Cheese Burger,2025-04-14,20:46:57,Completed,370.00
+6904,6,10,Grilled Steak,2025-02-08,22:55:33,Cancelled,626.00
+6905,25,6,Chicken Biryani,2025-02-22,15:26:11,Completed,485.00
+6906,9,13,Cheese Burger,2025-04-17,19:18:35,Completed,297.00
+6907,20,32,Falafel Wrap,2025-04-05,21:14:01,Completed,239.00
+6908,17,20,Thai Fried Rice,2025-04-17,22:07:41,Completed,303.00
+6909,27,12,Cappuccino,2025-04-27,14:01:07,Completed,276.00
+6910,5,39,Seekh Kebab,2025-02-16,22:36:27,Pending,460.00
+6911,31,45,Paneer Butter Masala,2025-02-17,23:46:36,Completed,356.00
+6912,11,38,Mutton Biryani,2025-01-19,17:29:56,Completed,471.00
+6913,11,4,Chicken Momos,2025-02-16,20:40:58,Cancelled,212.00
+6914,19,19,Chocolate Sundae,2025-03-23,09:32:12,Completed,166.00
+6915,7,39,Hakka Noodles,2025-01-22,17:55:20,Pending,297.00
+6916,18,44,Butter Chicken,2025-03-30,18:06:34,Completed,386.00
+6917,1,9,Chocolate Sundae,2025-02-06,18:49:31,Completed,161.00
+6918,7,14,Chicken Shawarma,2025-03-06,14:53:12,Completed,373.00
+6919,34,35,Butter Chicken,2025-03-12,10:26:29,Cancelled,379.00
+6920,9,2,Cappuccino,2025-02-14,16:44:23,Completed,263.00
+6921,34,49,Ramen Bowl,2025-01-23,16:01:47,Pending,496.00
+6922,9,45,Chicken Shawarma,2025-03-30,14:19:08,Completed,250.00
+6923,28,45,Hakka Noodles,2025-04-11,10:04:01,Completed,330.00
+6924,3,13,Paneer Butter Masala,2025-01-05,23:37:03,Completed,354.00
+6925,3,5,Pad Thai,2025-03-27,07:48:06,Completed,454.00
+6926,14,38,Grilled Steak,2025-01-24,18:01:05,Completed,681.00
+6927,23,23,Cheese Burger,2025-04-20,23:49:46,Completed,349.00
+6928,5,7,BBQ Chicken Platter,2025-04-08,07:33:13,Completed,522.00
+6929,11,49,Falafel Wrap,2025-01-01,10:59:13,Cancelled,321.00
+6930,24,45,BBQ Chicken Platter,2025-01-24,21:43:06,Completed,540.00
+6931,25,28,Grilled Steak,2025-03-07,14:26:07,Completed,690.00
+6932,8,30,Paneer Butter Masala,2025-03-08,11:31:48,Completed,363.00
+6933,3,6,Ramen Bowl,2025-03-05,10:24:18,Completed,519.00
+6934,29,15,Falafel Wrap,2025-02-22,16:54:27,Completed,217.00
+6935,31,44,Veg Chowmein,2025-01-23,07:43:31,Completed,311.00
+6936,29,34,Donut Box,2025-03-28,09:07:09,Completed,361.00
+6937,7,48,Cheese Burger,2025-01-09,18:12:21,Completed,323.00
+6938,8,15,Pizza Margherita,2025-04-03,22:17:48,Completed,628.00
+6939,18,49,Thai Fried Rice,2025-02-21,18:30:42,Completed,333.00
+6940,32,33,Chicken Momos,2025-01-19,21:06:07,Completed,327.00
+6941,15,41,Chicken Shawarma,2025-01-04,10:47:03,Pending,357.00
+6942,2,12,Pasta Alfredo,2025-03-19,17:09:19,Completed,304.00
+6943,5,43,Hakka Noodles,2025-03-08,22:50:29,Completed,347.00
+6944,32,33,Chicken Momos,2025-03-11,17:51:55,Completed,204.00
+6945,3,28,Paneer Butter Masala,2025-02-19,21:20:54,Completed,407.00
+6946,3,3,Cheese Burger,2025-03-13,16:56:45,Completed,330.00
+6947,9,20,Butter Chicken,2025-02-19,22:48:07,Completed,475.00
+6948,31,31,Falafel Wrap,2025-04-20,12:32:03,Completed,326.00
+6949,25,40,Donut Box,2025-02-15,16:20:03,Completed,221.00
+6950,9,24,Veg Chowmein,2025-04-14,07:48:57,Completed,307.00
+6951,7,28,Veg Chowmein,2025-02-15,20:22:03,Completed,273.00
+6952,16,42,Pad Thai,2025-03-17,09:58:44,Completed,378.00
+6953,8,22,Cheese Burger,2025-01-03,17:02:29,Completed,328.00
+6954,33,27,Chicken Momos,2025-01-03,22:37:01,Cancelled,296.00
+6955,25,21,BBQ Chicken Platter,2025-01-13,22:06:44,Completed,536.00
+6956,32,33,Hakka Noodles,2025-03-27,17:10:39,Completed,331.00
+6957,13,32,Thai Fried Rice,2025-04-19,09:53:54,Completed,303.00
+6958,17,4,Pad Thai,2025-03-15,19:51:14,Completed,323.00
+6959,7,38,Ramen Bowl,2025-02-04,09:36:51,Completed,549.00
+6960,14,23,Masala Dosa,2025-03-25,16:32:51,Completed,318.00
+6961,21,13,Pizza Margherita,2025-02-21,15:39:32,Completed,620.00
+6962,12,2,Thai Fried Rice,2025-04-01,23:55:11,Completed,284.00
+6963,30,18,Thai Fried Rice,2025-03-10,20:59:36,Completed,245.00
+6964,34,13,Veg Chowmein,2025-03-01,11:15:09,Completed,286.00
+6965,28,27,Ramen Bowl,2025-04-21,09:40:13,Pending,508.00
+6966,19,42,Cheese Burger,2025-02-02,14:25:15,Completed,269.00
+6967,2,16,Pad Thai,2025-03-01,22:35:27,Completed,309.00
+6968,13,11,Chicken Momos,2025-01-18,07:16:50,Pending,340.00
+6969,12,42,Mutton Biryani,2025-04-03,22:50:01,Completed,401.00
+6970,21,39,Pad Thai,2025-04-21,09:57:26,Pending,323.00
+6971,26,47,Chicken Shawarma,2025-01-31,10:36:47,Completed,260.00
+6972,34,43,BBQ Chicken Platter,2025-04-10,23:16:31,Pending,510.00
+6973,8,50,Ramen Bowl,2025-02-12,19:51:47,Completed,548.00
+6974,14,10,Paneer Butter Masala,2025-01-23,13:17:28,Completed,440.00
+6975,4,32,Falafel Wrap,2025-02-17,10:20:34,Completed,263.00
+6976,18,10,Veg Chowmein,2025-03-02,18:52:19,Completed,365.00
+6977,3,48,Donut Box,2025-04-13,08:44:58,Completed,271.00
+6978,17,36,Pasta Alfredo,2025-02-09,18:57:51,Completed,416.00
+6979,16,29,Pasta Alfredo,2025-01-02,19:59:58,Completed,303.00
+6980,16,20,Grilled Steak,2025-04-21,12:58:28,Completed,714.00
+6981,3,18,Masala Dosa,2025-04-16,22:30:47,Completed,265.00
+6982,28,7,Cheese Burger,2025-03-31,15:32:04,Completed,374.00
+6983,21,30,Butter Chicken,2025-01-04,08:41:41,Completed,463.00
+6984,9,1,Pasta Alfredo,2025-01-26,16:20:36,Completed,320.00
+6985,16,34,Butter Chicken,2025-04-09,11:54:38,Completed,431.00
+6986,29,31,Seekh Kebab,2025-01-18,15:11:43,Completed,383.00
+6987,19,13,Masala Dosa,2025-02-23,18:11:25,Pending,326.00
+6988,15,2,Chicken Biryani,2025-04-29,14:58:05,Cancelled,390.00
+6989,17,45,Cheese Burger,2025-01-07,19:39:27,Completed,258.00
+6990,6,24,Cheese Burger,2025-03-14,10:00:45,Completed,336.00
+6991,32,8,Fish Fry,2025-04-02,13:12:55,Pending,548.00
+6992,19,48,Cappuccino,2025-02-18,11:27:54,Completed,205.00
+6993,19,47,Donut Box,2025-01-25,20:11:26,Completed,217.00
+6994,19,17,Fish Fry,2025-03-21,21:58:15,Completed,597.00
+6995,6,1,Cappuccino,2025-01-18,17:44:25,Completed,248.00
+6996,28,48,Avocado Salad,2025-02-02,09:06:35,Completed,275.00
+6997,16,31,Veg Chowmein,2025-03-19,08:00:16,Completed,307.00
+6998,20,26,Donut Box,2025-02-17,11:57:35,Completed,255.00
+6999,17,11,Chocolate Sundae,2025-03-05,17:56:29,Completed,201.00
+7000,34,28,Chicken Shawarma,2025-02-03,10:20:02,Cancelled,357.00
+7001,18,48,Veg Chowmein,2025-04-29,20:18:57,Pending,366.00
+7002,17,34,Ramen Bowl,2025-02-25,12:20:47,Cancelled,478.00
+7003,29,4,Grilled Steak,2025-01-20,08:14:11,Completed,676.00
+7004,11,46,Hot Pot Combo,2025-02-25,10:57:59,Completed,773.00
+7005,23,46,Falafel Wrap,2025-03-04,21:31:07,Pending,237.00
+7006,8,23,Masala Dosa,2025-01-27,16:11:53,Completed,310.00
+7007,18,37,Donut Box,2025-03-16,13:37:00,Completed,356.00
+7008,12,27,Masala Dosa,2025-02-01,22:43:06,Pending,186.00
+7009,19,44,Donut Box,2025-01-16,19:23:37,Cancelled,237.00
+7010,21,10,Chicken Biryani,2025-01-11,21:53:45,Completed,456.00
+7011,18,39,Donut Box,2025-01-01,17:02:41,Completed,325.00
+7012,21,47,Seekh Kebab,2025-04-27,11:13:55,Completed,372.00
+7013,21,4,Seekh Kebab,2025-01-10,19:05:25,Completed,361.00
+7014,26,6,Chicken Biryani,2025-04-20,13:10:24,Completed,412.00
+7015,10,8,Pad Thai,2025-03-04,20:47:51,Cancelled,454.00
+7016,9,23,Donut Box,2025-01-13,18:32:12,Completed,309.00
+7017,31,18,BBQ Chicken Platter,2025-03-18,20:05:48,Completed,544.00
+7018,12,28,Thai Fried Rice,2025-02-24,09:02:32,Completed,348.00
+7019,15,42,Donut Box,2025-04-02,11:59:31,Completed,344.00
+7020,6,19,Hot Pot Combo,2025-02-25,09:58:51,Completed,698.00
+7021,9,44,Pad Thai,2025-04-18,14:33:27,Completed,312.00
+7022,5,3,Chocolate Sundae,2025-01-14,23:27:26,Completed,265.00
+7023,17,23,Chicken Momos,2025-03-16,09:49:32,Completed,318.00
+7024,12,12,Pasta Alfredo,2025-01-06,09:26:56,Completed,360.00
+7025,30,49,Donut Box,2025-02-27,15:21:58,Pending,257.00
+7026,14,12,Masala Dosa,2025-04-06,15:55:43,Completed,316.00
+7027,2,1,Pasta Alfredo,2025-01-15,07:10:41,Completed,383.00
+7028,32,20,Avocado Salad,2025-04-15,18:44:43,Cancelled,291.00
+7029,20,6,Chicken Shawarma,2025-01-18,07:12:07,Pending,278.00
+7030,2,14,Cappuccino,2025-03-25,11:41:15,Completed,310.00
+7031,13,6,Pad Thai,2025-04-09,21:09:30,Completed,329.00
+7032,11,10,Seekh Kebab,2025-03-31,21:31:30,Completed,415.00
+7033,16,13,Pad Thai,2025-03-14,19:03:21,Completed,410.00
+7034,27,32,Seekh Kebab,2025-03-16,16:02:31,Completed,431.00
+7035,32,15,Butter Chicken,2025-01-08,23:01:27,Completed,491.00
+7036,5,18,Thai Fried Rice,2025-02-23,22:07:31,Completed,318.00
+7037,29,45,Pizza Margherita,2025-01-03,12:18:46,Completed,568.00
+7038,29,15,Chocolate Sundae,2025-01-29,17:58:38,Pending,239.00
+7039,9,19,Seekh Kebab,2025-04-02,19:26:53,Cancelled,392.00
+7040,31,11,Avocado Salad,2025-01-27,16:44:47,Completed,313.00
+7041,9,12,Grilled Steak,2025-01-21,22:06:50,Completed,736.00
+7042,20,16,Grilled Steak,2025-03-13,08:01:22,Pending,701.00
+7043,11,12,Chocolate Sundae,2025-01-05,09:21:27,Completed,178.00
+7044,8,36,Fish Fry,2025-03-04,15:21:50,Completed,491.00
+7045,18,10,Butter Chicken,2025-04-22,23:38:42,Completed,362.00
+7046,29,30,Hakka Noodles,2025-01-15,10:50:39,Completed,246.00
+7047,3,33,Paneer Butter Masala,2025-01-22,10:55:13,Cancelled,330.00
+7048,19,46,Hot Pot Combo,2025-04-08,23:31:46,Pending,699.00
+7049,24,22,Chicken Shawarma,2025-01-16,13:28:26,Completed,231.00
+7050,16,31,Ramen Bowl,2025-02-06,23:10:05,Completed,546.00
+7051,24,41,Donut Box,2025-02-01,11:48:48,Completed,268.00
+7052,9,28,Pizza Margherita,2025-04-28,20:57:29,Cancelled,612.00
+7053,24,2,Hot Pot Combo,2025-01-19,07:45:51,Completed,677.00
+7054,6,22,Ramen Bowl,2025-02-21,12:27:03,Completed,449.00
+7055,10,37,Mutton Biryani,2025-03-22,23:18:26,Completed,521.00
+7056,20,47,Seekh Kebab,2025-02-10,18:00:52,Completed,435.00
+7057,10,45,Pasta Alfredo,2025-02-27,13:56:34,Completed,438.00
+7058,29,45,Veg Chowmein,2025-04-24,19:49:12,Pending,231.00
+7059,3,35,Ramen Bowl,2025-02-19,11:33:34,Completed,463.00
+7060,33,36,Pad Thai,2025-03-08,17:48:40,Completed,307.00
+7061,17,16,Hakka Noodles,2025-02-08,20:32:07,Completed,315.00
+7062,17,41,Chocolate Sundae,2025-02-15,10:03:48,Completed,151.00
+7063,29,20,BBQ Chicken Platter,2025-04-05,07:29:21,Cancelled,598.00
+7064,15,23,Pad Thai,2025-02-06,11:45:24,Completed,363.00
+7065,7,21,Chocolate Sundae,2025-03-16,13:52:49,Completed,145.00
+7066,10,46,Pizza Margherita,2025-04-17,20:05:05,Completed,513.00
+7067,31,14,Hot Pot Combo,2025-01-10,18:43:33,Completed,803.00
+7068,34,50,Pasta Alfredo,2025-04-22,15:37:31,Completed,392.00
+7069,32,47,Pizza Margherita,2025-04-16,12:09:32,Completed,597.00
+7070,9,46,Chocolate Sundae,2025-04-21,23:07:44,Completed,241.00
+7071,3,48,Cheese Burger,2025-03-13,18:58:07,Completed,324.00
+7072,8,8,Veg Chowmein,2025-03-15,16:02:33,Completed,305.00
+7073,20,24,Pad Thai,2025-02-07,22:01:50,Completed,450.00
+7074,27,4,Pad Thai,2025-04-24,16:13:11,Pending,425.00
+7075,1,8,Falafel Wrap,2025-02-14,09:55:02,Completed,346.00
+7076,20,37,Hot Pot Combo,2025-04-26,17:50:24,Completed,815.00
+7077,9,49,Chicken Shawarma,2025-03-06,21:48:28,Completed,268.00
+7078,21,6,Avocado Salad,2025-03-27,20:24:14,Cancelled,276.00
+7079,3,43,Hot Pot Combo,2025-04-05,15:41:05,Pending,666.00
+7080,20,36,Thai Fried Rice,2025-01-16,09:12:39,Completed,243.00
+7081,34,13,Hakka Noodles,2025-03-02,23:57:01,Completed,356.00
+7082,12,2,Chicken Momos,2025-04-11,13:15:53,Completed,348.00
+7083,29,6,Falafel Wrap,2025-03-19,17:25:37,Completed,205.00
+7084,22,28,Cheese Burger,2025-02-23,07:55:33,Completed,285.00
+7085,6,8,Paneer Butter Masala,2025-03-11,12:18:09,Completed,312.00
+7086,10,20,Pizza Margherita,2025-03-28,12:03:39,Cancelled,526.00
+7087,2,46,Mutton Biryani,2025-02-08,19:06:20,Completed,462.00
+7088,17,25,Paneer Butter Masala,2025-01-07,13:15:48,Completed,350.00
+7089,32,33,Hakka Noodles,2025-03-06,19:07:17,Completed,338.00
+7090,27,5,Cappuccino,2025-01-04,20:40:14,Cancelled,154.00
+7091,18,36,BBQ Chicken Platter,2025-03-28,10:15:48,Completed,482.00
+7092,20,37,Pizza Margherita,2025-02-27,09:54:40,Completed,516.00
+7093,24,35,Cheese Burger,2025-04-11,14:34:27,Cancelled,362.00
+7094,29,3,Chicken Biryani,2025-04-15,21:53:39,Completed,382.00
+7095,1,4,Cappuccino,2025-02-04,15:53:43,Completed,239.00
+7096,14,38,Chocolate Sundae,2025-02-06,08:10:47,Completed,137.00
+7097,20,6,Pasta Alfredo,2025-03-31,10:53:08,Completed,351.00
+7098,28,14,Avocado Salad,2025-03-06,17:56:43,Cancelled,256.00
+7099,29,18,Fish Fry,2025-03-26,17:21:13,Completed,633.00
+7100,22,2,Butter Chicken,2025-01-18,07:38:30,Completed,352.00
+7101,12,27,Falafel Wrap,2025-04-25,22:48:25,Completed,219.00
+7102,2,43,Hot Pot Combo,2025-03-28,10:22:52,Completed,813.00
+7103,23,25,Cheese Burger,2025-04-18,07:07:29,Completed,269.00
+7104,29,1,Fish Fry,2025-04-06,07:48:17,Completed,571.00
+7105,13,6,Avocado Salad,2025-03-22,16:51:45,Completed,316.00
+7106,24,3,Chicken Momos,2025-03-05,13:00:12,Cancelled,301.00
+7107,8,18,BBQ Chicken Platter,2025-03-06,22:10:35,Completed,594.00
+7108,12,5,BBQ Chicken Platter,2025-01-17,09:08:16,Cancelled,508.00
+7109,34,47,Chicken Momos,2025-01-25,07:44:43,Completed,264.00
+7110,30,1,Pizza Margherita,2025-03-24,08:54:20,Completed,584.00
+7111,18,8,Donut Box,2025-03-08,21:31:23,Completed,221.00
+7112,15,4,Chicken Momos,2025-04-28,20:34:28,Completed,300.00
+7113,13,22,Masala Dosa,2025-04-23,07:47:14,Cancelled,288.00
+7114,5,16,Grilled Steak,2025-01-22,17:19:04,Completed,634.00
+7115,2,31,Pizza Margherita,2025-04-14,07:37:51,Completed,565.00
+7116,17,16,Paneer Butter Masala,2025-03-02,14:21:53,Completed,375.00
+7117,34,16,Masala Dosa,2025-04-10,21:48:06,Completed,328.00
+7118,8,6,Mutton Biryani,2025-04-28,08:24:20,Pending,396.00
+7119,9,4,Hot Pot Combo,2025-01-08,16:39:40,Completed,686.00
+7120,4,36,Mutton Biryani,2025-02-07,19:25:06,Completed,485.00
+7121,15,39,Donut Box,2025-03-21,07:29:24,Completed,319.00
+7122,7,22,Thai Fried Rice,2025-03-28,07:29:33,Completed,279.00
+7123,7,7,Chicken Biryani,2025-03-18,09:37:50,Pending,486.00
+7124,9,41,Chocolate Sundae,2025-02-02,18:26:30,Completed,233.00
+7125,12,16,Chicken Shawarma,2025-04-13,08:03:08,Completed,341.00
+7126,33,42,Hakka Noodles,2025-02-15,16:37:56,Completed,257.00
+7127,10,31,Pad Thai,2025-03-19,17:18:23,Cancelled,432.00
+7128,10,4,Fish Fry,2025-03-06,08:27:22,Completed,531.00
+7129,13,5,Ramen Bowl,2025-01-25,22:44:44,Cancelled,593.00
+7130,22,38,BBQ Chicken Platter,2025-02-12,16:26:21,Completed,566.00
+7131,3,32,Fish Fry,2025-04-28,07:40:14,Completed,599.00
+7132,14,16,Cappuccino,2025-04-05,17:51:47,Completed,252.00
+7133,12,1,Veg Chowmein,2025-01-02,09:22:01,Completed,246.00
+7134,19,29,Grilled Steak,2025-03-22,18:02:01,Completed,682.00
+7135,12,15,Chicken Momos,2025-04-03,12:21:54,Completed,245.00
+7136,13,2,Cheese Burger,2025-04-18,15:58:06,Completed,255.00
+7137,25,42,Paneer Butter Masala,2025-02-13,13:19:29,Completed,385.00
+7138,11,34,Avocado Salad,2025-04-23,20:56:45,Completed,226.00
+7139,9,13,Grilled Steak,2025-03-10,19:44:23,Completed,719.00
+7140,16,3,Hakka Noodles,2025-03-20,13:54:34,Completed,258.00
+7141,21,16,Mutton Biryani,2025-03-22,15:55:08,Pending,529.00
+7142,32,14,Seekh Kebab,2025-01-11,22:50:42,Completed,342.00
+7143,33,25,Hakka Noodles,2025-04-23,23:23:31,Completed,265.00
+7144,21,46,Veg Chowmein,2025-03-09,22:45:31,Completed,358.00
+7145,26,41,BBQ Chicken Platter,2025-03-25,08:13:14,Pending,565.00
+7146,16,26,Grilled Steak,2025-02-09,20:56:24,Completed,705.00
+7147,17,36,Masala Dosa,2025-01-18,09:18:28,Completed,238.00
+7148,3,30,Chocolate Sundae,2025-03-21,17:27:28,Completed,224.00
+7149,24,32,Ramen Bowl,2025-02-04,19:01:11,Completed,507.00
+7150,5,23,Masala Dosa,2025-02-07,23:32:34,Completed,250.00
+7151,15,7,Paneer Butter Masala,2025-01-10,18:02:34,Completed,340.00
+7152,22,17,Pad Thai,2025-04-06,15:12:45,Completed,335.00
+7153,17,1,Hakka Noodles,2025-02-08,16:52:22,Completed,323.00
+7154,26,38,Hakka Noodles,2025-03-25,07:30:41,Completed,258.00
+7155,26,15,Fish Fry,2025-04-03,13:30:14,Completed,621.00
+7156,30,47,Hot Pot Combo,2025-02-13,09:20:54,Completed,766.00
+7157,14,29,Hot Pot Combo,2025-04-20,07:23:08,Completed,692.00
+7158,20,48,Chicken Biryani,2025-03-05,18:21:14,Completed,443.00
+7159,20,21,BBQ Chicken Platter,2025-01-03,08:59:08,Completed,534.00
+7160,26,25,Grilled Steak,2025-02-20,09:34:24,Completed,637.00
+7161,22,37,Hot Pot Combo,2025-03-23,16:05:10,Completed,801.00
+7162,12,3,Butter Chicken,2025-03-19,22:01:11,Completed,448.00
+7163,19,14,Fish Fry,2025-02-07,23:04:29,Completed,612.00
+7164,1,11,Ramen Bowl,2025-04-21,20:25:10,Cancelled,473.00
+7165,27,31,Seekh Kebab,2025-01-09,19:57:55,Completed,352.00
+7166,20,28,Butter Chicken,2025-03-27,22:10:38,Completed,429.00
+7167,13,33,Butter Chicken,2025-03-29,21:17:12,Completed,386.00
+7168,29,5,Pasta Alfredo,2025-03-19,14:33:21,Cancelled,405.00
+7169,30,30,BBQ Chicken Platter,2025-01-06,09:18:41,Pending,566.00
+7170,23,45,Butter Chicken,2025-04-12,16:25:39,Pending,394.00
+7171,27,16,Cheese Burger,2025-04-26,20:29:24,Cancelled,266.00
+7172,7,26,Butter Chicken,2025-01-06,14:56:55,Completed,510.00
+7173,19,43,Masala Dosa,2025-03-31,13:58:31,Completed,321.00
+7174,8,24,Masala Dosa,2025-04-07,10:32:49,Completed,284.00
+7175,29,11,Chicken Momos,2025-01-27,23:02:29,Completed,318.00
+7176,25,22,Seekh Kebab,2025-02-21,13:25:02,Completed,329.00
+7177,9,21,Donut Box,2025-04-06,21:31:29,Completed,350.00
+7178,16,46,Hot Pot Combo,2025-01-18,22:52:17,Pending,703.00
+7179,2,39,Paneer Butter Masala,2025-01-23,16:07:34,Completed,333.00
+7180,5,43,Hakka Noodles,2025-01-02,15:09:28,Completed,275.00
+7181,3,44,Falafel Wrap,2025-01-28,21:44:03,Pending,333.00
+7182,7,25,Butter Chicken,2025-02-09,21:03:38,Completed,446.00
+7183,13,16,Veg Chowmein,2025-04-27,14:12:05,Completed,217.00
+7184,1,22,Grilled Steak,2025-03-29,09:14:56,Completed,652.00
+7185,11,3,Pizza Margherita,2025-03-07,10:52:20,Completed,640.00
+7186,13,40,Grilled Steak,2025-04-30,19:27:07,Completed,637.00
+7187,23,21,Cheese Burger,2025-01-02,19:41:20,Completed,274.00
+7188,30,15,Masala Dosa,2025-03-26,15:41:39,Completed,197.00
+7189,14,27,Pad Thai,2025-04-09,22:06:45,Completed,445.00
+7190,11,17,Paneer Butter Masala,2025-03-18,17:40:44,Completed,324.00
+7191,22,12,Thai Fried Rice,2025-04-08,17:54:42,Completed,315.00
+7192,2,39,BBQ Chicken Platter,2025-02-27,19:32:40,Completed,578.00
+7193,1,15,Chicken Biryani,2025-03-20,10:19:15,Completed,402.00
+7194,6,4,Chicken Shawarma,2025-02-17,22:18:12,Completed,282.00
+7195,3,16,Seekh Kebab,2025-03-18,21:47:56,Completed,371.00
+7196,21,42,Hakka Noodles,2025-01-06,23:50:26,Completed,293.00
+7197,2,15,Seekh Kebab,2025-02-12,17:15:13,Completed,363.00
+7198,15,39,Pasta Alfredo,2025-03-08,17:11:28,Completed,296.00
+7199,32,5,Grilled Steak,2025-01-07,11:13:08,Completed,761.00
+7200,14,16,Chocolate Sundae,2025-01-11,20:46:29,Completed,170.00
+7201,16,28,Cheese Burger,2025-03-19,14:19:18,Completed,271.00
+7202,18,31,Masala Dosa,2025-02-16,19:24:10,Completed,288.00
+7203,33,40,Seekh Kebab,2025-02-25,11:52:50,Completed,397.00
+7204,28,6,Hakka Noodles,2025-04-27,16:38:34,Completed,264.00
+7205,17,25,Hot Pot Combo,2025-02-09,21:18:24,Completed,783.00
+7206,5,22,Chicken Shawarma,2025-04-02,22:12:09,Cancelled,231.00
+7207,1,33,Seekh Kebab,2025-04-03,18:31:25,Cancelled,401.00
+7208,24,25,Cappuccino,2025-02-09,09:26:56,Completed,181.00
+7209,25,37,Cheese Burger,2025-01-25,20:16:49,Cancelled,309.00
+7210,33,46,Cappuccino,2025-03-23,18:44:03,Completed,258.00
+7211,16,16,Cappuccino,2025-01-05,18:40:45,Completed,187.00
+7212,17,39,Hot Pot Combo,2025-03-29,11:16:15,Completed,701.00
+7213,1,8,Hakka Noodles,2025-01-12,19:25:45,Completed,240.00
+7214,34,13,Pizza Margherita,2025-01-22,20:16:44,Completed,616.00
+7215,25,38,Pad Thai,2025-04-04,20:48:56,Cancelled,322.00
+7216,7,41,BBQ Chicken Platter,2025-04-10,18:52:09,Completed,503.00
+7217,26,45,Pad Thai,2025-01-01,12:52:31,Completed,317.00
+7218,27,34,Pizza Margherita,2025-03-25,16:46:27,Completed,575.00
+7219,12,46,Chicken Shawarma,2025-01-26,22:11:32,Cancelled,345.00
+7220,14,12,Grilled Steak,2025-01-08,12:51:48,Completed,714.00
+7221,29,41,Avocado Salad,2025-01-14,12:05:18,Completed,221.00
+7222,18,5,Ramen Bowl,2025-01-04,14:30:31,Completed,465.00
+7223,1,4,Chicken Momos,2025-04-07,07:42:37,Completed,210.00
+7224,7,14,Chocolate Sundae,2025-04-12,07:24:38,Completed,188.00
+7225,32,31,Hakka Noodles,2025-02-13,20:21:23,Completed,307.00
+7226,21,16,Veg Chowmein,2025-03-27,19:24:39,Completed,301.00
+7227,22,7,Chicken Biryani,2025-02-28,19:46:53,Pending,375.00
+7228,2,39,Paneer Butter Masala,2025-04-22,23:17:44,Completed,353.00
+7229,24,29,Avocado Salad,2025-03-29,22:32:26,Completed,190.00
+7230,21,2,Thai Fried Rice,2025-02-16,08:51:47,Completed,343.00
+7231,15,39,Cappuccino,2025-02-21,09:22:27,Cancelled,271.00
+7232,7,47,Pasta Alfredo,2025-02-07,13:45:09,Pending,426.00
+7233,33,3,Chicken Shawarma,2025-03-05,09:19:53,Completed,370.00
+7234,30,11,Hot Pot Combo,2025-01-15,22:42:34,Completed,714.00
+7235,11,49,Donut Box,2025-03-31,09:06:27,Cancelled,217.00
+7236,11,21,Pasta Alfredo,2025-04-09,15:14:46,Completed,401.00
+7237,8,43,Chicken Shawarma,2025-04-29,22:05:50,Completed,287.00
+7238,5,42,Ramen Bowl,2025-02-18,19:41:41,Completed,551.00
+7239,15,15,Chicken Momos,2025-01-15,16:05:07,Completed,351.00
+7240,13,48,Paneer Butter Masala,2025-03-15,18:08:54,Completed,387.00
+7241,1,20,Mutton Biryani,2025-03-17,13:54:24,Cancelled,461.00
+7242,24,44,Chicken Shawarma,2025-03-08,14:06:25,Completed,347.00
+7243,21,10,Pad Thai,2025-04-18,14:31:43,Completed,453.00
+7244,19,10,Seekh Kebab,2025-03-27,08:38:20,Completed,331.00
+7245,18,46,BBQ Chicken Platter,2025-03-03,13:31:18,Completed,546.00
+7246,4,22,Chicken Shawarma,2025-04-16,13:54:46,Cancelled,287.00
+7247,4,50,Cheese Burger,2025-04-20,22:46:25,Completed,260.00
+7248,2,36,Pasta Alfredo,2025-02-13,20:43:30,Cancelled,380.00
+7249,26,5,Chocolate Sundae,2025-04-04,16:18:44,Cancelled,260.00
+7250,26,7,Chicken Shawarma,2025-02-11,08:54:59,Completed,347.00
+7251,11,37,Chicken Shawarma,2025-02-26,22:18:57,Completed,285.00
+7252,13,48,Thai Fried Rice,2025-01-02,18:46:54,Completed,267.00
+7253,25,28,Donut Box,2025-04-18,12:59:03,Completed,331.00
+7254,12,4,Paneer Butter Masala,2025-03-07,17:37:27,Cancelled,450.00
+7255,26,16,Mutton Biryani,2025-01-16,14:25:31,Completed,532.00
+7256,12,42,Seekh Kebab,2025-02-18,09:49:29,Pending,397.00
+7257,18,41,Thai Fried Rice,2025-02-26,18:00:07,Completed,261.00
+7258,32,42,Donut Box,2025-04-27,23:14:01,Completed,356.00
+7259,31,18,Butter Chicken,2025-04-06,10:50:37,Completed,473.00
+7260,28,20,BBQ Chicken Platter,2025-01-17,10:20:04,Completed,587.00
+7261,12,26,Butter Chicken,2025-01-03,19:35:52,Completed,485.00
+7262,32,5,Chocolate Sundae,2025-04-18,10:48:48,Completed,150.00
+7263,12,39,Butter Chicken,2025-01-24,07:35:28,Pending,381.00
+7264,3,9,BBQ Chicken Platter,2025-01-27,12:05:35,Completed,458.00
+7265,6,8,Chocolate Sundae,2025-02-08,18:34:10,Completed,120.00
+7266,16,20,Mutton Biryani,2025-03-08,16:42:34,Completed,527.00
+7267,32,45,Ramen Bowl,2025-03-08,18:38:34,Completed,465.00
+7268,3,16,Mutton Biryani,2025-01-25,11:19:54,Pending,414.00
+7269,14,38,Veg Chowmein,2025-02-05,11:46:39,Completed,350.00
+7270,17,17,Pasta Alfredo,2025-03-25,12:25:29,Completed,345.00
+7271,28,45,Chicken Shawarma,2025-03-10,13:04:40,Completed,279.00
+7272,24,37,Donut Box,2025-03-24,23:38:10,Completed,249.00
+7273,21,28,Pasta Alfredo,2025-01-04,14:04:17,Completed,308.00
+7274,27,5,Ramen Bowl,2025-03-23,09:23:58,Completed,509.00
+7275,10,15,Chicken Momos,2025-01-02,10:24:14,Completed,226.00
+7276,8,12,Chocolate Sundae,2025-04-04,16:37:52,Pending,144.00
+7277,34,23,Butter Chicken,2025-03-15,16:35:17,Completed,362.00
+7278,11,21,Hakka Noodles,2025-02-19,12:22:51,Completed,356.00
+7279,26,31,BBQ Chicken Platter,2025-01-17,15:00:43,Completed,489.00
+7280,9,10,Pasta Alfredo,2025-03-14,15:03:58,Completed,374.00
+7281,16,44,Avocado Salad,2025-02-23,21:11:28,Cancelled,309.00
+7282,33,19,Chicken Momos,2025-02-24,23:45:56,Cancelled,258.00
+7283,20,41,Masala Dosa,2025-02-09,20:49:20,Pending,200.00
+7284,5,47,Fish Fry,2025-01-12,12:36:03,Completed,553.00
+7285,32,1,Pizza Margherita,2025-03-28,23:59:46,Completed,607.00
+7286,33,44,Donut Box,2025-04-24,10:25:00,Completed,211.00
+7287,28,45,Falafel Wrap,2025-04-06,18:15:47,Completed,335.00
+7288,3,39,Hot Pot Combo,2025-01-22,23:57:14,Completed,753.00
+7289,9,33,Veg Chowmein,2025-01-07,20:31:24,Completed,238.00
+7290,22,44,Fish Fry,2025-04-17,10:18:19,Completed,547.00
+7291,14,1,Seekh Kebab,2025-03-22,19:13:59,Completed,431.00
+7292,3,30,Avocado Salad,2025-04-19,22:03:22,Completed,307.00
+7293,22,20,Veg Chowmein,2025-01-14,07:22:56,Completed,312.00
+7294,23,1,Paneer Butter Masala,2025-02-25,22:12:05,Completed,329.00
+7295,27,8,Cappuccino,2025-01-01,11:49:42,Completed,270.00
+7296,26,24,Pad Thai,2025-02-16,20:57:11,Completed,368.00
+7297,7,29,Donut Box,2025-04-18,21:10:08,Completed,321.00
+7298,1,23,Butter Chicken,2025-01-26,10:12:18,Completed,451.00
+7299,27,48,Ramen Bowl,2025-04-26,08:10:42,Completed,562.00
+7300,18,8,Pizza Margherita,2025-03-04,22:51:43,Completed,563.00
+7301,26,33,Seekh Kebab,2025-04-29,19:08:07,Cancelled,305.00
+7302,9,10,Veg Chowmein,2025-03-06,07:49:43,Completed,297.00
+7303,28,39,Seekh Kebab,2025-01-02,20:30:18,Completed,321.00
+7304,28,16,Avocado Salad,2025-01-20,23:11:15,Completed,219.00
+7305,17,45,Fish Fry,2025-03-27,20:12:30,Completed,506.00
+7306,33,40,Cheese Burger,2025-01-25,11:14:07,Completed,229.00
+7307,18,13,Chicken Shawarma,2025-02-24,07:39:12,Completed,243.00
+7308,25,27,Chocolate Sundae,2025-02-09,14:14:21,Completed,135.00
+7309,33,28,Thai Fried Rice,2025-01-07,16:07:17,Completed,319.00
+7310,27,16,Ramen Bowl,2025-04-25,08:11:02,Completed,522.00
+7311,14,19,Cappuccino,2025-02-05,10:27:11,Completed,275.00
+7312,24,22,Pad Thai,2025-01-15,10:42:00,Completed,333.00
+7313,22,24,Seekh Kebab,2025-04-14,18:47:49,Completed,454.00
+7314,24,16,Thai Fried Rice,2025-02-05,13:37:24,Completed,257.00
+7315,9,41,Seekh Kebab,2025-03-19,10:02:37,Cancelled,348.00
+7316,13,46,Hot Pot Combo,2025-04-29,10:04:34,Completed,737.00
+7317,31,49,Grilled Steak,2025-03-10,11:02:08,Completed,750.00
+7318,17,49,Falafel Wrap,2025-02-14,18:28:40,Completed,311.00
+7319,5,31,Pizza Margherita,2025-03-09,23:50:01,Completed,550.00
+7320,9,19,Mutton Biryani,2025-03-14,08:50:44,Completed,481.00
+7321,32,44,Falafel Wrap,2025-04-22,23:04:10,Completed,330.00
+7322,25,36,Hakka Noodles,2025-02-19,19:38:17,Completed,220.00
+7323,11,37,Grilled Steak,2025-03-17,07:56:59,Completed,726.00
+7324,33,46,Seekh Kebab,2025-03-09,15:19:54,Completed,368.00
+7325,8,11,Fish Fry,2025-01-06,14:18:02,Completed,551.00
+7326,9,18,Mutton Biryani,2025-03-24,14:52:13,Completed,380.00
+7327,23,41,Avocado Salad,2025-02-17,17:05:45,Pending,257.00
+7328,9,27,Avocado Salad,2025-02-07,17:03:40,Pending,281.00
+7329,15,47,Chicken Momos,2025-01-23,15:01:34,Completed,349.00
+7330,7,47,Seekh Kebab,2025-03-30,19:41:16,Pending,454.00
+7331,14,29,Fish Fry,2025-02-11,15:13:37,Completed,581.00
+7332,10,29,Fish Fry,2025-04-04,20:23:09,Cancelled,503.00
+7333,32,12,Hot Pot Combo,2025-01-24,12:12:36,Completed,706.00
+7334,19,2,Pad Thai,2025-01-21,12:52:25,Completed,348.00
+7335,5,10,Masala Dosa,2025-02-24,14:29:58,Completed,283.00
+7336,7,47,Chocolate Sundae,2025-01-18,07:38:06,Completed,125.00
+7337,8,1,Hakka Noodles,2025-04-17,08:08:15,Completed,288.00
+7338,10,41,Avocado Salad,2025-01-02,07:50:06,Completed,276.00
+7339,6,13,Chicken Shawarma,2025-03-03,21:52:10,Completed,352.00
+7340,10,16,Mutton Biryani,2025-03-11,15:40:34,Completed,391.00
+7341,7,35,Pad Thai,2025-01-14,23:56:53,Completed,300.00
+7342,15,2,Fish Fry,2025-02-24,19:09:22,Completed,537.00
+7343,25,44,Butter Chicken,2025-04-16,10:31:10,Cancelled,407.00
+7344,7,19,Veg Chowmein,2025-01-10,17:07:23,Cancelled,231.00
+7345,3,39,Chicken Shawarma,2025-01-23,20:33:21,Completed,338.00
+7346,10,43,Donut Box,2025-02-08,16:22:56,Completed,337.00
+7347,24,17,Butter Chicken,2025-04-13,09:50:00,Pending,388.00
+7348,10,21,Chicken Shawarma,2025-02-19,21:46:50,Completed,352.00
+7349,5,8,BBQ Chicken Platter,2025-02-24,15:09:05,Completed,482.00
+7350,12,50,Pasta Alfredo,2025-02-15,17:31:27,Completed,385.00
+7351,22,9,Thai Fried Rice,2025-04-28,14:24:26,Completed,367.00
+7352,32,35,Falafel Wrap,2025-04-16,14:24:05,Completed,307.00
+7353,34,37,Hakka Noodles,2025-03-30,14:44:05,Completed,220.00
+7354,14,2,Veg Chowmein,2025-03-13,22:08:58,Completed,299.00
+7355,24,50,Chicken Shawarma,2025-02-07,21:09:53,Pending,337.00
+7356,16,14,Fish Fry,2025-01-08,11:07:44,Completed,576.00
+7357,2,45,Pizza Margherita,2025-02-17,08:44:06,Completed,498.00
+7358,31,39,Cheese Burger,2025-01-04,11:23:09,Completed,239.00
+7359,1,37,Pizza Margherita,2025-01-20,12:30:47,Completed,615.00
+7360,20,31,Pizza Margherita,2025-04-03,17:28:50,Completed,483.00
+7361,19,8,Chicken Shawarma,2025-01-08,08:38:48,Completed,271.00
+7362,1,26,Pizza Margherita,2025-03-29,21:35:45,Pending,626.00
+7363,33,20,Butter Chicken,2025-01-30,20:59:10,Completed,373.00
+7364,34,25,Chicken Shawarma,2025-04-06,13:25:39,Completed,330.00
+7365,12,48,Falafel Wrap,2025-03-19,09:52:44,Completed,280.00
+7366,26,25,Cheese Burger,2025-01-07,18:41:27,Completed,247.00
+7367,7,5,Veg Chowmein,2025-03-19,17:01:15,Completed,348.00
+7368,7,5,Grilled Steak,2025-03-18,07:48:58,Completed,751.00
+7369,13,41,Mutton Biryani,2025-01-31,15:05:36,Completed,524.00
+7370,31,3,Mutton Biryani,2025-02-10,09:19:00,Cancelled,452.00
+7371,26,33,Grilled Steak,2025-02-10,19:46:22,Cancelled,634.00
+7372,22,27,Seekh Kebab,2025-03-06,10:32:51,Completed,306.00
+7373,25,31,BBQ Chicken Platter,2025-04-22,08:18:10,Completed,568.00
+7374,6,41,Masala Dosa,2025-04-02,14:56:13,Pending,216.00
+7375,11,33,Chocolate Sundae,2025-04-04,23:59:49,Completed,153.00
+7376,22,19,Veg Chowmein,2025-03-21,20:02:57,Completed,309.00
+7377,16,14,Avocado Salad,2025-03-19,09:09:36,Completed,317.00
+7378,7,1,Chicken Shawarma,2025-04-09,16:35:55,Cancelled,252.00
+7379,32,7,Hot Pot Combo,2025-02-10,12:59:18,Completed,731.00
+7380,24,23,Masala Dosa,2025-01-10,12:45:49,Completed,301.00
+7381,17,49,Hot Pot Combo,2025-03-25,11:07:36,Completed,753.00
+7382,19,26,Pizza Margherita,2025-04-20,11:28:23,Completed,639.00
+7383,21,24,Masala Dosa,2025-03-29,20:32:28,Completed,190.00
+7384,4,48,Fish Fry,2025-03-31,07:09:54,Completed,576.00
+7385,11,37,Pasta Alfredo,2025-04-20,09:14:24,Pending,303.00
+7386,23,30,Hot Pot Combo,2025-03-24,21:06:05,Completed,687.00
+7387,26,50,Pizza Margherita,2025-01-26,19:21:04,Completed,634.00
+7388,32,14,Butter Chicken,2025-04-05,22:07:17,Completed,489.00
+7389,10,31,Chicken Shawarma,2025-03-23,13:20:36,Completed,383.00
+7390,25,4,Veg Chowmein,2025-04-12,20:30:13,Completed,215.00
+7391,28,18,Chicken Momos,2025-03-23,12:05:09,Completed,303.00
+7392,6,20,Butter Chicken,2025-02-27,20:33:13,Completed,416.00
+7393,12,4,Masala Dosa,2025-04-25,20:21:48,Completed,230.00
+7394,23,27,Cappuccino,2025-03-02,12:44:27,Completed,296.00
+7395,25,1,Falafel Wrap,2025-04-11,13:04:46,Completed,357.00
+7396,10,21,Donut Box,2025-04-16,17:00:09,Pending,247.00
+7397,32,21,Paneer Butter Masala,2025-04-12,20:16:33,Completed,405.00
+7398,9,41,Hot Pot Combo,2025-03-23,10:02:13,Completed,708.00
+7399,27,45,Falafel Wrap,2025-04-10,12:38:24,Completed,253.00
+7400,13,44,BBQ Chicken Platter,2025-01-02,18:52:23,Completed,528.00
+7401,33,8,Butter Chicken,2025-03-05,21:26:26,Completed,488.00
+7402,28,34,Hakka Noodles,2025-02-12,10:59:11,Completed,315.00
+7403,12,36,Avocado Salad,2025-01-21,20:24:18,Pending,301.00
+7404,19,45,Avocado Salad,2025-04-29,10:05:51,Pending,212.00
+7405,2,40,Pizza Margherita,2025-01-14,22:47:48,Completed,619.00
+7406,7,41,Hot Pot Combo,2025-03-06,08:42:18,Pending,714.00
+7407,15,50,Hot Pot Combo,2025-03-12,19:07:12,Pending,691.00
+7408,23,30,Pizza Margherita,2025-04-27,19:00:23,Completed,609.00
+7409,19,18,Donut Box,2025-02-03,16:53:57,Completed,316.00
+7410,16,1,Pizza Margherita,2025-01-05,07:01:09,Completed,612.00
+7411,21,22,Cheese Burger,2025-03-15,20:15:35,Cancelled,269.00
+7412,26,4,BBQ Chicken Platter,2025-02-24,11:40:24,Cancelled,494.00
+7413,26,21,Chocolate Sundae,2025-01-21,20:14:06,Completed,152.00
+7414,33,8,Thai Fried Rice,2025-03-15,19:53:48,Completed,296.00
+7415,11,21,Grilled Steak,2025-01-12,09:01:27,Completed,761.00
+7416,10,2,Avocado Salad,2025-04-01,09:36:24,Completed,223.00
+7417,30,41,Thai Fried Rice,2025-04-10,18:11:15,Completed,286.00
+7418,20,13,Falafel Wrap,2025-04-18,14:46:49,Pending,296.00
+7419,17,43,Mutton Biryani,2025-02-05,09:59:09,Completed,528.00
+7420,7,8,Hot Pot Combo,2025-04-29,10:06:09,Completed,706.00
+7421,6,5,Cappuccino,2025-04-19,18:58:53,Completed,175.00
+7422,32,2,Pizza Margherita,2025-01-10,22:40:04,Completed,587.00
+7423,25,21,Thai Fried Rice,2025-04-27,21:51:10,Completed,232.00
+7424,12,43,BBQ Chicken Platter,2025-03-22,08:07:21,Cancelled,573.00
+7425,1,11,Chocolate Sundae,2025-04-05,15:59:07,Completed,127.00
+7426,2,34,Chocolate Sundae,2025-04-08,11:13:55,Completed,175.00
+7427,2,21,Chicken Shawarma,2025-01-29,09:46:44,Cancelled,298.00
+7428,18,31,Grilled Steak,2025-01-12,18:45:35,Completed,729.00
+7429,32,28,Chocolate Sundae,2025-02-21,13:16:11,Completed,191.00
+7430,26,7,BBQ Chicken Platter,2025-04-12,16:10:50,Completed,574.00
+7431,28,29,Pizza Margherita,2025-03-18,15:52:20,Completed,635.00
+7432,25,28,Grilled Steak,2025-03-14,18:23:57,Completed,626.00
+7433,29,11,Mutton Biryani,2025-03-07,15:37:26,Completed,515.00
+7434,23,26,Chicken Biryani,2025-01-15,12:51:20,Completed,387.00
+7435,23,16,Masala Dosa,2025-01-28,18:23:09,Completed,211.00
+7436,1,21,Butter Chicken,2025-01-02,17:13:29,Completed,432.00
+7437,15,36,Masala Dosa,2025-02-19,16:38:13,Completed,206.00
+7438,18,46,Avocado Salad,2025-04-24,09:36:57,Completed,301.00
+7439,21,21,Grilled Steak,2025-01-26,08:51:31,Completed,680.00
+7440,27,8,Paneer Butter Masala,2025-02-27,12:38:20,Completed,350.00
+7441,2,19,Chicken Biryani,2025-03-24,07:58:29,Completed,443.00
+7442,3,35,Chocolate Sundae,2025-01-06,17:41:01,Completed,144.00
+7443,27,47,Pad Thai,2025-02-05,17:48:22,Completed,442.00
+7444,21,32,Avocado Salad,2025-01-07,19:19:44,Cancelled,316.00
+7445,8,24,Avocado Salad,2025-01-14,07:14:03,Pending,225.00
+7446,7,21,Butter Chicken,2025-04-03,20:14:10,Completed,444.00
+7447,1,45,Mutton Biryani,2025-02-03,08:07:03,Cancelled,399.00
+7448,17,22,Butter Chicken,2025-03-20,19:17:44,Completed,385.00
+7449,30,8,Chicken Shawarma,2025-02-10,11:48:37,Pending,335.00
+7450,29,43,Paneer Butter Masala,2025-03-08,23:15:36,Completed,415.00
+7451,18,21,Hakka Noodles,2025-04-04,22:14:05,Completed,295.00
+7452,6,23,Falafel Wrap,2025-04-17,14:42:41,Completed,252.00
+7453,5,5,Cappuccino,2025-01-08,13:00:42,Completed,248.00
+7454,13,32,Paneer Butter Masala,2025-02-13,13:52:37,Completed,421.00
+7455,21,49,Pad Thai,2025-04-01,21:41:09,Pending,327.00
+7456,9,15,Veg Chowmein,2025-02-19,21:55:39,Completed,312.00
+7457,13,5,Chicken Momos,2025-02-24,12:43:19,Cancelled,347.00
+7458,7,10,Hot Pot Combo,2025-04-23,10:47:07,Completed,777.00
+7459,12,18,Chicken Biryani,2025-03-02,23:28:22,Completed,480.00
+7460,6,23,Pizza Margherita,2025-01-28,11:25:32,Completed,565.00
+7461,4,29,Chicken Momos,2025-02-17,10:03:41,Completed,308.00
+7462,13,19,Grilled Steak,2025-02-21,12:38:17,Completed,736.00
+7463,34,28,Paneer Butter Masala,2025-03-29,08:41:15,Cancelled,346.00
+7464,8,4,Mutton Biryani,2025-03-15,15:15:04,Completed,450.00
+7465,15,40,Butter Chicken,2025-04-02,19:25:25,Completed,418.00
+7466,32,14,Cheese Burger,2025-04-11,13:22:40,Completed,372.00
+7467,19,47,Chicken Biryani,2025-01-13,12:32:58,Completed,462.00
+7468,20,45,Fish Fry,2025-01-22,17:43:04,Completed,565.00
+7469,30,10,Chicken Biryani,2025-03-27,22:27:21,Completed,407.00
+7470,5,11,Donut Box,2025-04-08,07:38:22,Cancelled,359.00
+7471,1,32,Fish Fry,2025-03-02,10:02:52,Completed,554.00
+7472,15,34,Chocolate Sundae,2025-01-22,11:49:06,Completed,205.00
+7473,29,32,Seekh Kebab,2025-02-14,15:42:31,Completed,417.00
+7474,1,23,Pad Thai,2025-04-01,17:57:33,Completed,452.00
+7475,31,8,Chicken Momos,2025-03-29,23:46:40,Completed,305.00
+7476,15,43,Chicken Shawarma,2025-02-15,22:01:15,Completed,340.00
+7477,24,14,Seekh Kebab,2025-01-12,13:58:24,Completed,370.00
+7478,29,34,Cheese Burger,2025-02-03,18:56:21,Completed,326.00
+7479,18,20,Grilled Steak,2025-01-06,23:44:21,Pending,641.00
+7480,28,30,BBQ Chicken Platter,2025-04-12,18:18:07,Cancelled,577.00
+7481,10,30,Donut Box,2025-01-20,23:18:39,Completed,251.00
+7482,20,32,Pad Thai,2025-01-09,16:00:29,Completed,372.00
+7483,8,4,Cappuccino,2025-02-09,07:27:22,Completed,150.00
+7484,4,17,Chicken Shawarma,2025-02-14,16:50:54,Completed,373.00
+7485,10,6,Butter Chicken,2025-02-04,11:46:12,Completed,370.00
+7486,19,15,Mutton Biryani,2025-03-02,18:15:51,Completed,478.00
+7487,28,26,Paneer Butter Masala,2025-04-25,15:58:19,Completed,334.00
+7488,28,44,Ramen Bowl,2025-04-13,11:43:49,Completed,474.00
+7489,27,36,Grilled Steak,2025-02-08,16:05:19,Completed,770.00
+7490,30,35,Cheese Burger,2025-02-18,20:06:08,Completed,300.00
+7491,33,44,Butter Chicken,2025-02-15,21:22:27,Completed,455.00
+7492,30,2,Falafel Wrap,2025-01-04,20:05:48,Completed,277.00
+7493,16,38,Chocolate Sundae,2025-02-17,11:39:34,Pending,195.00
+7494,4,49,Pasta Alfredo,2025-01-17,19:42:00,Completed,412.00
+7495,30,4,Masala Dosa,2025-01-08,15:53:41,Completed,332.00
+7496,7,19,BBQ Chicken Platter,2025-03-03,17:55:03,Completed,599.00
+7497,33,48,Butter Chicken,2025-01-07,13:33:09,Completed,476.00
+7498,9,15,Donut Box,2025-03-23,11:19:40,Completed,211.00
+7499,32,40,Butter Chicken,2025-01-26,10:04:00,Completed,380.00
+7500,34,7,Fish Fry,2025-01-27,10:30:01,Pending,593.00
+7501,26,4,Paneer Butter Masala,2025-02-08,19:30:11,Pending,429.00
+7502,17,40,Donut Box,2025-02-26,10:27:09,Completed,257.00
+7503,10,48,Donut Box,2025-01-31,12:32:47,Completed,261.00
+7504,31,31,Pad Thai,2025-02-07,10:37:31,Completed,370.00
+7505,26,25,Butter Chicken,2025-04-13,10:29:26,Pending,387.00
+7506,2,19,Hot Pot Combo,2025-01-16,19:00:37,Completed,818.00
+7507,29,3,Veg Chowmein,2025-01-18,21:56:46,Completed,212.00
+7508,11,23,Chocolate Sundae,2025-04-20,23:13:22,Cancelled,254.00
+7509,25,33,Masala Dosa,2025-01-23,11:22:41,Completed,266.00
+7510,30,46,Chicken Shawarma,2025-02-05,16:59:25,Completed,353.00
+7511,25,31,Avocado Salad,2025-03-26,12:36:45,Cancelled,324.00
+7512,17,9,Butter Chicken,2025-02-11,18:37:39,Pending,367.00
+7513,3,2,Seekh Kebab,2025-01-21,14:06:42,Completed,421.00
+7514,21,49,Fish Fry,2025-04-09,14:06:57,Pending,578.00
+7515,27,5,Mutton Biryani,2025-03-20,15:07:02,Pending,398.00
+7516,29,49,Veg Chowmein,2025-03-19,07:59:11,Completed,325.00
+7517,25,9,Thai Fried Rice,2025-03-15,13:12:16,Completed,303.00
+7518,15,13,Seekh Kebab,2025-01-21,20:52:33,Pending,349.00
+7519,6,38,Chicken Biryani,2025-03-22,10:13:02,Pending,341.00
+7520,24,50,Pizza Margherita,2025-03-14,09:21:11,Completed,615.00
+7521,32,13,Grilled Steak,2025-03-15,22:32:22,Completed,753.00
+7522,9,5,Hot Pot Combo,2025-02-24,19:55:04,Completed,692.00
+7523,34,20,Paneer Butter Masala,2025-01-16,22:14:03,Completed,374.00
+7524,2,15,Pad Thai,2025-04-29,15:24:45,Completed,340.00
+7525,19,5,Falafel Wrap,2025-03-15,14:54:33,Cancelled,328.00
+7526,20,26,Avocado Salad,2025-01-08,10:37:30,Cancelled,257.00
+7527,2,3,Ramen Bowl,2025-02-23,15:12:21,Pending,455.00
+7528,9,14,Falafel Wrap,2025-04-15,17:59:48,Completed,215.00
+7529,16,32,Masala Dosa,2025-04-14,08:22:04,Cancelled,333.00
+7530,6,36,Cappuccino,2025-01-17,15:46:02,Completed,277.00
+7531,33,15,Thai Fried Rice,2025-02-14,20:30:19,Completed,288.00
+7532,2,4,Chicken Biryani,2025-04-10,13:34:38,Pending,344.00
+7533,31,4,Pasta Alfredo,2025-04-09,19:44:08,Completed,389.00
+7534,9,8,Hot Pot Combo,2025-01-16,18:22:12,Completed,674.00
+7535,16,15,Masala Dosa,2025-03-17,07:14:26,Completed,317.00
+7536,3,1,Seekh Kebab,2025-02-01,08:04:03,Completed,346.00
+7537,19,3,Ramen Bowl,2025-02-14,14:18:08,Completed,562.00
+7538,8,43,Masala Dosa,2025-01-10,15:34:13,Completed,271.00
+7539,15,29,Butter Chicken,2025-02-08,18:49:35,Completed,412.00
+7540,34,18,Ramen Bowl,2025-03-31,23:06:03,Completed,545.00
+7541,32,18,Masala Dosa,2025-01-27,11:53:33,Completed,321.00
+7542,14,8,Veg Chowmein,2025-04-03,11:02:15,Completed,326.00
+7543,8,2,Cappuccino,2025-04-18,08:17:17,Completed,226.00
+7544,6,4,Chicken Momos,2025-04-20,19:31:01,Pending,298.00
+7545,29,3,Fish Fry,2025-01-27,19:11:42,Completed,493.00
+7546,20,3,Falafel Wrap,2025-04-08,18:59:01,Cancelled,286.00
+7547,17,49,BBQ Chicken Platter,2025-01-28,07:21:46,Pending,561.00
+7548,28,47,Seekh Kebab,2025-04-07,08:51:06,Completed,373.00
+7549,30,28,BBQ Chicken Platter,2025-04-03,23:16:10,Cancelled,569.00
+7550,16,9,Chicken Biryani,2025-02-05,15:05:15,Completed,415.00
+7551,22,37,Pasta Alfredo,2025-01-05,15:23:17,Completed,435.00
+7552,1,8,Pad Thai,2025-03-14,17:53:16,Pending,413.00
+7553,30,2,Hot Pot Combo,2025-01-02,21:02:22,Completed,802.00
+7554,14,27,Mutton Biryani,2025-03-16,09:17:57,Completed,460.00
+7555,5,29,Cheese Burger,2025-02-03,15:16:55,Completed,278.00
+7556,12,10,Avocado Salad,2025-03-25,08:14:07,Completed,237.00
+7557,33,29,BBQ Chicken Platter,2025-02-10,08:35:45,Completed,516.00
+7558,17,2,Donut Box,2025-04-19,18:34:45,Completed,270.00
+7559,23,7,Masala Dosa,2025-03-06,21:07:32,Completed,232.00
+7560,21,37,Veg Chowmein,2025-04-17,20:04:41,Completed,282.00
+7561,10,2,Ramen Bowl,2025-03-19,18:21:26,Pending,535.00
+7562,31,19,Avocado Salad,2025-01-04,12:23:02,Completed,228.00
+7563,2,7,Avocado Salad,2025-01-28,17:32:45,Completed,320.00
+7564,23,14,Pasta Alfredo,2025-04-17,08:42:46,Completed,300.00
+7565,5,15,BBQ Chicken Platter,2025-03-06,20:34:46,Completed,585.00
+7566,4,39,Cappuccino,2025-03-26,23:33:28,Completed,199.00
+7567,19,16,Ramen Bowl,2025-02-01,18:14:29,Completed,469.00
+7568,16,29,Seekh Kebab,2025-04-23,20:23:05,Completed,429.00
+7569,5,24,Thai Fried Rice,2025-03-03,14:28:50,Completed,375.00
+7570,9,35,Fish Fry,2025-04-10,20:43:37,Completed,635.00
+7571,17,19,Ramen Bowl,2025-02-10,10:05:26,Completed,477.00
+7572,32,41,Hakka Noodles,2025-01-26,12:56:29,Completed,250.00
+7573,27,17,Hakka Noodles,2025-03-12,22:47:06,Completed,228.00
+7574,28,2,Butter Chicken,2025-01-22,09:08:32,Pending,449.00
+7575,28,23,Chicken Shawarma,2025-02-21,14:45:18,Completed,316.00
+7576,7,47,Mutton Biryani,2025-01-10,18:28:58,Completed,495.00
+7577,28,19,Hakka Noodles,2025-03-03,11:46:11,Completed,370.00
+7578,33,6,Chicken Shawarma,2025-04-25,07:37:37,Completed,346.00
+7579,25,21,Hot Pot Combo,2025-01-23,23:46:37,Completed,684.00
+7580,15,20,Cappuccino,2025-02-13,08:36:33,Pending,298.00
+7581,33,28,Pad Thai,2025-02-11,19:20:48,Completed,336.00
+7582,3,48,Seekh Kebab,2025-01-27,20:33:17,Completed,457.00
+7583,21,7,Veg Chowmein,2025-02-06,12:07:18,Completed,322.00
+7584,15,11,Pad Thai,2025-04-28,15:38:48,Completed,359.00
+7585,18,10,Paneer Butter Masala,2025-01-27,23:48:10,Completed,300.00
+7586,13,1,Cappuccino,2025-04-17,07:23:13,Completed,296.00
+7587,28,47,Hot Pot Combo,2025-03-08,11:53:29,Completed,688.00
+7588,8,29,Pizza Margherita,2025-03-05,15:05:55,Completed,551.00
+7589,8,23,Masala Dosa,2025-04-06,14:46:04,Completed,309.00
+7590,22,18,Hot Pot Combo,2025-03-22,23:43:49,Completed,740.00
+7591,3,28,Paneer Butter Masala,2025-04-30,23:20:12,Pending,450.00
+7592,3,41,Thai Fried Rice,2025-01-02,14:08:37,Completed,286.00
+7593,13,17,Cappuccino,2025-01-20,22:52:11,Completed,222.00
+7594,9,13,Thai Fried Rice,2025-04-23,09:33:54,Completed,284.00
+7595,1,28,Masala Dosa,2025-03-04,13:45:11,Completed,247.00
+7596,25,41,BBQ Chicken Platter,2025-01-31,18:30:33,Completed,496.00
+7597,20,15,Pad Thai,2025-03-27,22:31:50,Completed,453.00
+7598,23,35,Cappuccino,2025-02-07,10:14:07,Cancelled,223.00
+7599,27,29,Ramen Bowl,2025-02-01,20:07:11,Completed,521.00
+7600,8,23,Butter Chicken,2025-02-20,11:49:56,Completed,475.00
+7601,27,44,Fish Fry,2025-01-04,16:17:32,Completed,584.00
+7602,4,36,Hakka Noodles,2025-02-11,15:43:20,Completed,333.00
+7603,28,26,Chicken Momos,2025-04-27,08:17:31,Completed,286.00
+7604,3,20,Hot Pot Combo,2025-02-22,14:36:56,Completed,712.00
+7605,8,40,Avocado Salad,2025-02-12,11:38:34,Completed,195.00
+7606,25,6,Hakka Noodles,2025-04-01,17:58:22,Completed,361.00
+7607,5,42,Mutton Biryani,2025-03-08,13:23:34,Completed,420.00
+7608,26,46,Fish Fry,2025-02-07,12:58:23,Completed,535.00
+7609,16,1,Mutton Biryani,2025-04-19,07:48:33,Completed,481.00
+7610,32,3,Cheese Burger,2025-02-06,16:01:14,Completed,283.00
+7611,3,18,Seekh Kebab,2025-01-16,19:41:25,Completed,369.00
+7612,6,5,Masala Dosa,2025-03-06,20:01:00,Completed,318.00
+7613,10,7,Seekh Kebab,2025-03-17,19:12:53,Completed,379.00
+7614,21,28,Chocolate Sundae,2025-04-06,07:19:17,Completed,145.00
+7615,17,42,BBQ Chicken Platter,2025-03-02,19:18:27,Completed,554.00
+7616,18,31,Pad Thai,2025-04-27,23:15:24,Completed,427.00
+7617,26,24,Hakka Noodles,2025-03-11,10:28:14,Completed,226.00
+7618,26,50,Fish Fry,2025-02-27,18:30:36,Completed,559.00
+7619,22,10,Thai Fried Rice,2025-01-11,10:35:10,Completed,355.00
+7620,16,6,Chicken Shawarma,2025-02-21,22:33:46,Pending,289.00
+7621,4,50,Cappuccino,2025-02-02,20:19:47,Completed,188.00
+7622,3,21,Butter Chicken,2025-03-14,20:55:00,Completed,403.00
+7623,32,35,Cappuccino,2025-02-10,14:20:29,Completed,281.00
+7624,6,7,Pizza Margherita,2025-03-31,09:24:08,Completed,521.00
+7625,34,48,Paneer Butter Masala,2025-01-22,13:28:55,Cancelled,299.00
+7626,28,32,Cheese Burger,2025-03-22,23:31:08,Completed,360.00
+7627,27,26,Chicken Biryani,2025-02-07,10:27:18,Completed,409.00
+7628,34,21,Avocado Salad,2025-04-24,18:36:41,Completed,264.00
+7629,34,44,Grilled Steak,2025-04-13,18:33:38,Completed,728.00
+7630,14,22,Seekh Kebab,2025-04-03,11:10:33,Completed,421.00
+7631,1,21,Pizza Margherita,2025-01-23,11:30:04,Cancelled,481.00
+7632,20,45,Grilled Steak,2025-01-26,10:34:29,Completed,625.00
+7633,30,39,Cheese Burger,2025-01-09,18:40:35,Pending,308.00
+7634,1,13,Chicken Momos,2025-02-06,20:37:46,Completed,359.00
+7635,26,17,Falafel Wrap,2025-03-11,13:04:37,Completed,255.00
+7636,18,12,Chicken Momos,2025-03-14,10:08:51,Completed,298.00
+7637,22,37,Hakka Noodles,2025-04-20,15:51:47,Pending,341.00
+7638,14,11,Chicken Biryani,2025-04-11,14:13:05,Cancelled,497.00
+7639,10,10,Cheese Burger,2025-03-02,07:20:04,Pending,233.00
+7640,9,33,Hot Pot Combo,2025-02-24,22:20:19,Completed,690.00
+7641,16,36,Pasta Alfredo,2025-02-18,19:45:30,Completed,413.00
+7642,21,34,Masala Dosa,2025-04-24,13:10:40,Pending,216.00
+7643,28,36,Hot Pot Combo,2025-03-04,15:43:07,Completed,771.00
+7644,23,12,Chicken Biryani,2025-04-21,18:54:29,Completed,428.00
+7645,28,14,Avocado Salad,2025-03-13,13:24:23,Completed,192.00
+7646,13,29,Veg Chowmein,2025-03-09,13:00:37,Completed,234.00
+7647,24,17,Chocolate Sundae,2025-04-28,07:38:17,Completed,190.00
+7648,31,26,Mutton Biryani,2025-03-31,15:17:40,Completed,526.00
+7649,2,46,Cappuccino,2025-03-19,21:31:11,Completed,289.00
+7650,7,3,Veg Chowmein,2025-01-04,11:45:47,Completed,243.00
+7651,6,27,Paneer Butter Masala,2025-01-08,21:40:45,Completed,314.00
+7652,18,13,Thai Fried Rice,2025-03-20,07:21:53,Completed,311.00
+7653,11,38,Seekh Kebab,2025-02-16,23:00:42,Completed,315.00
+7654,5,13,Hakka Noodles,2025-03-06,11:46:17,Completed,333.00
+7655,3,18,Avocado Salad,2025-01-26,23:26:11,Completed,190.00
+7656,20,18,Falafel Wrap,2025-02-14,10:21:29,Completed,222.00
+7657,30,6,Paneer Butter Masala,2025-04-28,09:11:46,Completed,371.00
+7658,2,50,Cheese Burger,2025-04-11,07:13:40,Completed,240.00
+7659,16,20,Donut Box,2025-03-24,13:47:48,Completed,289.00
+7660,4,25,Butter Chicken,2025-02-06,12:17:08,Completed,455.00
+7661,15,13,Chicken Momos,2025-04-24,13:11:18,Completed,312.00
+7662,17,6,Cappuccino,2025-02-15,18:22:49,Completed,265.00
+7663,11,3,BBQ Chicken Platter,2025-02-19,11:34:36,Completed,561.00
+7664,23,42,Donut Box,2025-04-12,16:13:21,Completed,338.00
+7665,18,6,Chocolate Sundae,2025-04-09,13:16:13,Completed,128.00
+7666,8,34,Donut Box,2025-03-22,12:30:08,Completed,292.00
+7667,24,37,Pasta Alfredo,2025-03-26,08:20:44,Completed,371.00
+7668,1,11,Pizza Margherita,2025-03-02,17:21:41,Cancelled,527.00
+7669,23,20,Cheese Burger,2025-03-01,12:48:01,Completed,377.00
+7670,30,38,BBQ Chicken Platter,2025-03-30,20:46:25,Completed,512.00
+7671,17,47,Veg Chowmein,2025-03-18,17:30:43,Completed,220.00
+7672,15,49,Chocolate Sundae,2025-01-14,20:27:49,Completed,267.00
+7673,26,38,Chicken Biryani,2025-01-21,23:10:59,Completed,492.00
+7674,34,13,BBQ Chicken Platter,2025-04-07,11:08:42,Completed,463.00
+7675,6,20,Hakka Noodles,2025-01-19,18:29:25,Completed,220.00
+7676,10,13,Cheese Burger,2025-02-08,16:05:11,Completed,272.00
+7677,28,6,Seekh Kebab,2025-02-01,11:43:35,Pending,395.00
+7678,1,31,Cheese Burger,2025-02-14,10:30:35,Completed,274.00
+7679,31,43,Pasta Alfredo,2025-04-17,21:45:15,Completed,304.00
+7680,25,9,Ramen Bowl,2025-04-08,11:25:49,Completed,512.00
+7681,28,39,Pasta Alfredo,2025-03-10,09:22:31,Completed,430.00
+7682,2,15,Avocado Salad,2025-01-23,14:23:23,Completed,190.00
+7683,26,5,Thai Fried Rice,2025-01-30,11:31:12,Completed,307.00
+7684,28,6,Ramen Bowl,2025-02-19,12:27:09,Completed,539.00
+7685,31,3,Chicken Momos,2025-02-23,12:10:25,Completed,227.00
+7686,30,6,Veg Chowmein,2025-03-29,10:41:55,Completed,213.00
+7687,11,21,Chicken Shawarma,2025-03-15,23:24:43,Completed,354.00
+7688,26,28,Hakka Noodles,2025-01-07,16:27:16,Completed,249.00
+7689,29,33,Veg Chowmein,2025-04-10,22:45:21,Pending,303.00
+7690,8,12,Pizza Margherita,2025-03-10,19:55:43,Completed,481.00
+7691,22,46,BBQ Chicken Platter,2025-02-03,13:32:52,Completed,566.00
+7692,28,4,Hot Pot Combo,2025-02-06,08:07:55,Completed,753.00
+7693,4,39,Donut Box,2025-02-17,15:27:21,Completed,216.00
+7694,18,12,Pad Thai,2025-02-15,20:01:28,Completed,309.00
+7695,8,23,Seekh Kebab,2025-01-05,19:15:11,Completed,324.00
+7696,9,47,Chicken Shawarma,2025-03-23,22:27:57,Completed,347.00
+7697,16,47,Chocolate Sundae,2025-03-14,21:02:04,Completed,129.00
+7698,10,39,Seekh Kebab,2025-03-23,10:24:32,Cancelled,320.00
+7699,22,41,Seekh Kebab,2025-02-08,20:25:01,Completed,365.00
+7700,6,28,Paneer Butter Masala,2025-04-12,13:36:16,Cancelled,447.00
+7701,33,35,Fish Fry,2025-03-30,08:23:36,Completed,591.00
+7702,18,48,Butter Chicken,2025-04-10,12:17:32,Completed,504.00
+7703,26,12,Donut Box,2025-02-06,15:00:26,Completed,316.00
+7704,9,18,Chicken Momos,2025-03-01,17:06:14,Completed,283.00
+7705,15,5,Avocado Salad,2025-02-06,21:37:26,Completed,274.00
+7706,25,31,Falafel Wrap,2025-01-02,17:21:20,Completed,313.00
+7707,10,30,Seekh Kebab,2025-03-05,13:34:44,Completed,399.00
+7708,17,26,Mutton Biryani,2025-03-26,09:40:31,Completed,468.00
+7709,6,14,Seekh Kebab,2025-03-09,18:19:18,Completed,415.00
+7710,30,2,Chicken Shawarma,2025-03-21,12:39:22,Completed,336.00
+7711,2,49,Pad Thai,2025-03-13,22:15:24,Cancelled,333.00
+7712,25,39,Paneer Butter Masala,2025-01-13,19:13:13,Cancelled,436.00
+7713,19,12,Cheese Burger,2025-04-09,19:35:26,Completed,275.00
+7714,27,39,Chicken Momos,2025-02-10,18:40:06,Completed,281.00
+7715,33,35,Falafel Wrap,2025-02-20,14:54:25,Completed,318.00
+7716,19,29,Cheese Burger,2025-04-29,12:25:18,Completed,305.00
+7717,30,42,Cheese Burger,2025-03-29,10:24:37,Completed,327.00
+7718,27,13,Thai Fried Rice,2025-01-04,14:08:39,Completed,250.00
+7719,27,2,Ramen Bowl,2025-03-20,14:10:36,Completed,463.00
+7720,24,2,Seekh Kebab,2025-03-18,19:35:32,Pending,341.00
+7721,30,24,Seekh Kebab,2025-04-22,14:11:30,Cancelled,351.00
+7722,21,9,Pad Thai,2025-01-09,07:13:36,Completed,362.00
+7723,29,16,Cheese Burger,2025-03-01,23:41:07,Pending,304.00
+7724,11,16,Hot Pot Combo,2025-04-03,09:00:47,Completed,764.00
+7725,34,31,Pasta Alfredo,2025-01-10,20:16:56,Completed,310.00
+7726,2,29,Cappuccino,2025-04-16,08:18:51,Completed,160.00
+7727,24,26,Butter Chicken,2025-04-29,23:40:41,Completed,381.00
+7728,7,10,Chicken Momos,2025-04-08,10:46:10,Completed,286.00
+7729,10,16,Cappuccino,2025-01-27,15:06:21,Completed,168.00
+7730,30,46,Cappuccino,2025-04-07,14:48:16,Completed,263.00
+7731,22,29,Butter Chicken,2025-02-03,15:38:02,Completed,387.00
+7732,34,19,Chicken Biryani,2025-01-29,18:36:23,Completed,418.00
+7733,11,37,Thai Fried Rice,2025-02-09,22:45:28,Completed,269.00
+7734,9,10,Avocado Salad,2025-02-07,19:16:40,Completed,244.00
+7735,20,10,BBQ Chicken Platter,2025-01-02,15:23:46,Completed,582.00
+7736,26,31,Avocado Salad,2025-04-26,12:22:41,Completed,318.00
+7737,21,34,Veg Chowmein,2025-02-18,22:41:10,Pending,333.00
+7738,12,31,Pasta Alfredo,2025-01-02,09:21:14,Completed,337.00
+7739,10,18,Avocado Salad,2025-04-10,10:41:12,Completed,307.00
+7740,1,48,Chocolate Sundae,2025-04-25,14:47:12,Completed,128.00
+7741,26,41,Paneer Butter Masala,2025-02-12,23:04:17,Completed,426.00
+7742,6,4,Hot Pot Combo,2025-03-14,23:15:15,Completed,706.00
+7743,16,15,Butter Chicken,2025-04-02,21:11:02,Cancelled,418.00
+7744,18,6,Seekh Kebab,2025-01-25,09:57:57,Completed,377.00
+7745,4,14,Fish Fry,2025-02-01,22:29:06,Completed,493.00
+7746,21,41,Masala Dosa,2025-01-26,22:07:28,Completed,230.00
+7747,7,35,BBQ Chicken Platter,2025-01-28,22:19:36,Completed,560.00
+7748,8,47,Hot Pot Combo,2025-04-10,13:37:51,Completed,776.00
+7749,1,17,Hakka Noodles,2025-02-22,15:31:40,Completed,349.00
+7750,31,33,Pad Thai,2025-03-24,16:16:55,Completed,387.00
+7751,18,44,Falafel Wrap,2025-03-06,16:40:28,Completed,246.00
+7752,32,1,Ramen Bowl,2025-04-25,23:30:31,Completed,456.00
+7753,28,44,Pad Thai,2025-01-13,21:21:40,Completed,346.00
+7754,13,50,Paneer Butter Masala,2025-04-08,14:13:19,Completed,371.00
+7755,34,31,Paneer Butter Masala,2025-03-29,16:59:39,Completed,329.00
+7756,21,11,Grilled Steak,2025-04-09,19:50:10,Pending,766.00
+7757,11,21,Chocolate Sundae,2025-03-02,20:49:46,Completed,187.00
+7758,31,20,Veg Chowmein,2025-01-19,16:21:46,Completed,290.00
+7759,29,20,Pizza Margherita,2025-03-14,19:48:26,Completed,583.00
+7760,4,27,Veg Chowmein,2025-03-24,11:29:49,Completed,261.00
+7761,14,43,Butter Chicken,2025-02-02,16:53:23,Completed,459.00
+7762,25,21,Falafel Wrap,2025-03-13,13:51:13,Completed,312.00
+7763,18,7,Masala Dosa,2025-02-01,12:20:46,Completed,331.00
+7764,31,3,Hakka Noodles,2025-03-26,19:44:58,Completed,283.00
+7765,18,39,BBQ Chicken Platter,2025-02-18,08:06:03,Completed,520.00
+7766,24,29,Pad Thai,2025-01-15,22:08:56,Completed,383.00
+7767,27,10,Chicken Shawarma,2025-03-17,16:36:12,Completed,342.00
+7768,16,21,BBQ Chicken Platter,2025-03-11,15:35:33,Pending,455.00
+7769,9,50,Hakka Noodles,2025-01-09,17:54:23,Cancelled,334.00
+7770,14,12,Ramen Bowl,2025-03-01,14:29:23,Completed,506.00
+7771,17,39,Seekh Kebab,2025-04-30,07:08:07,Completed,409.00
+7772,26,32,Mutton Biryani,2025-04-17,23:03:58,Cancelled,475.00
+7773,2,37,Pizza Margherita,2025-01-05,23:55:51,Completed,617.00
+7774,32,19,BBQ Chicken Platter,2025-02-12,09:47:04,Completed,592.00
+7775,8,35,Cheese Burger,2025-04-13,23:54:54,Completed,339.00
+7776,13,49,Masala Dosa,2025-04-09,20:52:17,Completed,218.00
+7777,22,5,Cheese Burger,2025-03-24,17:29:33,Completed,330.00
+7778,2,26,BBQ Chicken Platter,2025-02-07,07:39:53,Completed,452.00
+7779,15,21,Pizza Margherita,2025-01-20,15:54:14,Completed,563.00
+7780,30,42,Donut Box,2025-01-26,18:57:56,Completed,357.00
+7781,10,13,Hakka Noodles,2025-01-19,13:19:11,Completed,356.00
+7782,3,50,Chicken Shawarma,2025-03-11,18:04:20,Pending,288.00
+7783,14,13,Pad Thai,2025-01-21,20:17:14,Cancelled,355.00
+7784,23,2,Chicken Shawarma,2025-04-23,21:07:53,Cancelled,236.00
+7785,29,48,Seekh Kebab,2025-01-27,19:03:28,Completed,350.00
+7786,14,50,Pasta Alfredo,2025-03-17,10:05:11,Completed,428.00
+7787,34,8,Cheese Burger,2025-04-07,13:07:31,Completed,311.00
+7788,21,27,Grilled Steak,2025-01-27,09:51:32,Completed,675.00
+7789,33,8,Hot Pot Combo,2025-01-03,07:24:51,Completed,685.00
+7790,23,24,Pad Thai,2025-04-18,09:27:54,Completed,358.00
+7791,6,42,Thai Fried Rice,2025-04-14,19:56:30,Completed,300.00
+7792,21,3,Chicken Shawarma,2025-04-19,14:11:36,Completed,362.00
+7793,10,9,Butter Chicken,2025-03-02,08:03:38,Pending,425.00
+7794,24,40,Pizza Margherita,2025-04-16,12:26:11,Completed,612.00
+7795,10,48,Donut Box,2025-01-24,18:56:59,Completed,251.00
+7796,2,32,Grilled Steak,2025-02-09,19:40:23,Cancelled,677.00
+7797,21,2,Chicken Biryani,2025-02-12,07:56:30,Completed,376.00
+7798,27,3,Falafel Wrap,2025-02-18,23:10:10,Completed,289.00
+7799,15,6,Pizza Margherita,2025-01-09,10:30:29,Cancelled,617.00
+7800,29,9,Avocado Salad,2025-04-14,07:19:30,Completed,255.00
+7801,9,21,Donut Box,2025-03-11,18:39:42,Completed,332.00
+7802,32,48,BBQ Chicken Platter,2025-01-26,11:14:32,Completed,486.00
+7803,15,43,Masala Dosa,2025-04-06,10:45:25,Completed,337.00
+7804,7,16,Fish Fry,2025-02-02,12:46:42,Completed,598.00
+7805,34,34,BBQ Chicken Platter,2025-04-24,15:48:57,Completed,558.00
+7806,24,43,Chicken Shawarma,2025-03-16,08:47:57,Completed,242.00
+7807,13,12,Chicken Biryani,2025-01-19,08:53:50,Completed,441.00
+7808,21,1,BBQ Chicken Platter,2025-03-03,22:54:22,Completed,597.00
+7809,26,29,Grilled Steak,2025-02-28,15:34:28,Completed,681.00
+7810,33,22,Ramen Bowl,2025-04-25,12:16:21,Pending,564.00
+7811,30,43,Paneer Butter Masala,2025-03-27,17:48:33,Completed,383.00
+7812,28,42,Chicken Biryani,2025-03-11,11:06:14,Cancelled,368.00
+7813,8,36,Butter Chicken,2025-02-07,11:55:22,Completed,461.00
+7814,6,33,Cheese Burger,2025-02-20,23:12:09,Pending,276.00
+7815,2,13,Seekh Kebab,2025-04-06,18:33:38,Completed,444.00
+7816,34,34,Mutton Biryani,2025-04-13,18:34:14,Completed,515.00
+7817,11,24,Cheese Burger,2025-01-13,12:40:40,Pending,277.00
+7818,10,35,Avocado Salad,2025-02-24,13:17:03,Cancelled,292.00
+7819,19,25,Chocolate Sundae,2025-02-23,22:29:20,Completed,196.00
+7820,1,5,Chicken Momos,2025-04-01,16:13:59,Completed,352.00
+7821,5,4,Hakka Noodles,2025-02-22,11:09:30,Pending,282.00
+7822,26,11,Thai Fried Rice,2025-02-23,19:37:12,Completed,319.00
+7823,5,15,Chicken Momos,2025-01-18,19:07:46,Completed,238.00
+7824,14,29,Chicken Shawarma,2025-03-28,15:48:20,Completed,260.00
+7825,34,20,Chocolate Sundae,2025-01-14,22:14:42,Completed,151.00
+7826,30,10,Masala Dosa,2025-04-23,17:56:17,Cancelled,190.00
+7827,25,17,Paneer Butter Masala,2025-03-22,21:27:37,Completed,414.00
+7828,19,15,Chocolate Sundae,2025-01-14,09:46:38,Cancelled,212.00
+7829,16,43,Cappuccino,2025-04-18,20:26:03,Completed,221.00
+7830,18,17,Thai Fried Rice,2025-03-07,17:26:42,Pending,321.00
+7831,6,1,Paneer Butter Masala,2025-04-02,22:15:37,Completed,441.00
+7832,28,43,Chicken Momos,2025-01-14,22:35:38,Pending,296.00
+7833,34,43,Pasta Alfredo,2025-01-06,10:37:53,Completed,305.00
+7834,7,8,Hakka Noodles,2025-01-31,18:37:43,Completed,374.00
+7835,27,26,Butter Chicken,2025-04-06,08:22:41,Completed,467.00
+7836,34,3,Pasta Alfredo,2025-04-15,20:42:58,Completed,425.00
+7837,12,2,Thai Fried Rice,2025-02-12,10:18:58,Completed,237.00
+7838,30,17,Veg Chowmein,2025-04-15,18:22:15,Completed,222.00
+7839,21,30,Butter Chicken,2025-03-23,15:49:50,Completed,492.00
+7840,21,48,Pasta Alfredo,2025-04-07,18:49:52,Completed,407.00
+7841,6,22,Veg Chowmein,2025-03-20,14:20:53,Completed,233.00
+7842,26,21,Avocado Salad,2025-03-05,12:48:24,Completed,314.00
+7843,23,22,Hot Pot Combo,2025-04-25,18:48:10,Cancelled,742.00
+7844,2,8,Grilled Steak,2025-03-16,16:58:32,Completed,753.00
+7845,19,49,Falafel Wrap,2025-03-10,12:25:39,Completed,250.00
+7846,6,6,Butter Chicken,2025-03-18,19:54:16,Completed,437.00
+7847,23,26,Chicken Shawarma,2025-04-28,19:06:54,Cancelled,305.00
+7848,6,21,Fish Fry,2025-02-26,08:15:35,Completed,550.00
+7849,2,32,Fish Fry,2025-04-17,14:15:56,Completed,535.00
+7850,10,1,Pad Thai,2025-02-01,07:54:39,Completed,412.00
+7851,27,36,Falafel Wrap,2025-03-14,13:26:11,Pending,348.00
+7852,26,41,BBQ Chicken Platter,2025-04-24,19:47:16,Completed,543.00
+7853,17,28,Veg Chowmein,2025-02-16,14:20:34,Completed,244.00
+7854,21,45,Fish Fry,2025-04-12,11:06:58,Completed,609.00
+7855,31,35,Ramen Bowl,2025-01-14,14:46:22,Completed,581.00
+7856,15,30,Chicken Momos,2025-03-15,08:29:39,Completed,351.00
+7857,28,5,Cheese Burger,2025-01-03,21:35:41,Completed,308.00
+7858,31,46,Chicken Shawarma,2025-01-09,18:04:46,Completed,294.00
+7859,2,46,Avocado Salad,2025-03-04,20:45:48,Cancelled,291.00
+7860,14,43,Hot Pot Combo,2025-02-09,16:21:14,Completed,790.00
+7861,27,10,Hakka Noodles,2025-03-11,17:55:00,Cancelled,233.00
+7862,23,38,Paneer Butter Masala,2025-04-10,09:39:04,Completed,331.00
+7863,13,16,Avocado Salad,2025-04-10,12:53:11,Completed,316.00
+7864,8,22,Masala Dosa,2025-01-13,19:36:44,Cancelled,279.00
+7865,27,25,Butter Chicken,2025-03-02,11:54:21,Completed,429.00
+7866,23,12,Butter Chicken,2025-02-25,15:31:05,Completed,452.00
+7867,13,15,Veg Chowmein,2025-03-24,09:21:28,Completed,344.00
+7868,17,2,Avocado Salad,2025-01-08,08:43:23,Completed,190.00
+7869,34,1,Chicken Biryani,2025-02-11,19:19:01,Pending,485.00
+7870,24,5,Cheese Burger,2025-01-25,22:11:34,Completed,308.00
+7871,7,44,Chicken Shawarma,2025-03-18,18:36:11,Pending,275.00
+7872,33,10,Hot Pot Combo,2025-01-04,08:59:34,Pending,690.00
+7873,20,19,Paneer Butter Masala,2025-02-14,12:37:33,Completed,315.00
+7874,32,13,Avocado Salad,2025-01-20,17:29:59,Completed,289.00
+7875,29,8,Donut Box,2025-03-12,09:21:15,Completed,271.00
+7876,32,13,Pasta Alfredo,2025-01-06,18:03:58,Cancelled,402.00
+7877,7,34,Masala Dosa,2025-03-26,17:58:33,Completed,316.00
+7878,34,26,Hakka Noodles,2025-03-11,13:18:20,Completed,270.00
+7879,19,41,Pizza Margherita,2025-02-21,20:24:05,Completed,605.00
+7880,7,21,Falafel Wrap,2025-03-03,19:19:31,Cancelled,273.00
+7881,4,34,Mutton Biryani,2025-01-25,09:19:57,Completed,526.00
+7882,12,42,Ramen Bowl,2025-04-05,08:34:01,Completed,517.00
+7883,25,13,Veg Chowmein,2025-03-10,08:52:52,Completed,321.00
+7884,33,34,Cheese Burger,2025-03-07,18:43:44,Completed,274.00
+7885,7,30,Cheese Burger,2025-04-25,14:45:20,Completed,272.00
+7886,32,14,BBQ Chicken Platter,2025-03-23,07:02:59,Completed,479.00
+7887,19,1,Fish Fry,2025-03-26,17:11:24,Pending,575.00
+7888,26,3,Chicken Shawarma,2025-01-19,14:39:42,Completed,338.00
+7889,20,14,Thai Fried Rice,2025-04-05,15:26:44,Completed,335.00
+7890,25,18,Grilled Steak,2025-04-15,22:16:38,Completed,711.00
+7891,3,45,Hakka Noodles,2025-02-27,11:42:44,Completed,249.00
+7892,8,11,Cappuccino,2025-01-09,12:34:20,Completed,215.00
+7893,26,19,Falafel Wrap,2025-02-06,16:54:36,Completed,230.00
+7894,26,13,Masala Dosa,2025-03-13,22:12:08,Completed,189.00
+7895,31,31,Paneer Butter Masala,2025-01-15,14:02:53,Completed,311.00
+7896,5,16,Pizza Margherita,2025-03-20,18:28:47,Completed,632.00
+7897,3,43,Chocolate Sundae,2025-04-09,13:49:13,Completed,131.00
+7898,1,10,Ramen Bowl,2025-04-21,15:58:11,Completed,491.00
+7899,4,26,Pasta Alfredo,2025-01-20,16:32:04,Completed,440.00
+7900,13,22,Donut Box,2025-04-03,21:01:55,Completed,272.00
+7901,34,19,Falafel Wrap,2025-01-21,11:35:20,Completed,216.00
+7902,27,34,Falafel Wrap,2025-01-03,12:46:59,Completed,209.00
+7903,10,7,Donut Box,2025-01-30,07:24:00,Completed,309.00
+7904,8,15,Hakka Noodles,2025-03-22,08:36:34,Completed,341.00
+7905,25,19,Donut Box,2025-03-20,19:28:58,Completed,335.00
+7906,17,23,Thai Fried Rice,2025-02-28,22:58:57,Completed,367.00
+7907,24,15,Chicken Shawarma,2025-02-06,12:24:16,Pending,324.00
+7908,2,28,Pad Thai,2025-01-19,08:29:26,Completed,438.00
+7909,15,26,Chicken Shawarma,2025-04-18,18:13:25,Completed,336.00
+7910,30,47,Hot Pot Combo,2025-02-26,19:29:23,Completed,762.00
+7911,9,47,Chocolate Sundae,2025-01-27,14:13:45,Completed,169.00
+7912,24,30,Falafel Wrap,2025-04-21,20:23:41,Completed,300.00
+7913,10,31,Paneer Butter Masala,2025-03-11,21:19:57,Pending,449.00
+7914,27,4,Grilled Steak,2025-01-28,17:35:56,Completed,708.00
+7915,34,28,Cheese Burger,2025-02-26,07:44:13,Completed,264.00
+7916,18,48,Donut Box,2025-03-14,11:41:25,Completed,260.00
+7917,10,27,Ramen Bowl,2025-03-01,14:55:47,Completed,564.00
+7918,21,40,Hakka Noodles,2025-03-20,23:47:40,Pending,244.00
+7919,5,6,Chicken Biryani,2025-01-02,08:21:54,Completed,431.00
+7920,13,48,Chicken Shawarma,2025-01-28,16:53:04,Completed,310.00
+7921,29,31,Ramen Bowl,2025-04-01,12:18:19,Completed,583.00
+7922,11,10,Cheese Burger,2025-02-23,10:34:58,Completed,260.00
+7923,31,45,Chicken Momos,2025-03-30,14:07:42,Cancelled,313.00
+7924,7,49,Mutton Biryani,2025-01-18,19:30:24,Completed,385.00
+7925,24,29,BBQ Chicken Platter,2025-03-15,12:28:57,Completed,575.00
+7926,23,22,Masala Dosa,2025-04-24,18:04:11,Completed,256.00
+7927,26,10,Paneer Butter Masala,2025-04-30,13:40:20,Completed,311.00
+7928,23,39,Cappuccino,2025-01-03,20:10:23,Pending,199.00
+7929,33,18,Chocolate Sundae,2025-04-26,07:31:20,Cancelled,133.00
+7930,16,45,Pad Thai,2025-02-03,21:27:21,Completed,417.00
+7931,6,22,Falafel Wrap,2025-01-05,11:55:59,Completed,346.00
+7932,2,20,Pasta Alfredo,2025-01-26,22:24:24,Completed,349.00
+7933,25,22,Veg Chowmein,2025-04-13,23:54:50,Completed,297.00
+7934,9,23,Seekh Kebab,2025-02-03,13:31:18,Completed,415.00
+7935,6,43,Ramen Bowl,2025-04-21,23:57:07,Completed,472.00
+7936,7,16,Masala Dosa,2025-01-23,18:04:09,Completed,240.00
+7937,6,5,Chicken Biryani,2025-04-03,07:47:51,Completed,498.00
+7938,5,10,BBQ Chicken Platter,2025-03-22,21:40:55,Completed,477.00
+7939,8,4,Butter Chicken,2025-01-18,13:58:47,Cancelled,397.00
+7940,6,46,Masala Dosa,2025-01-01,20:50:43,Completed,192.00
+7941,6,25,Ramen Bowl,2025-03-22,23:12:30,Pending,566.00
+7942,12,31,Pad Thai,2025-04-04,08:28:11,Completed,320.00
+7943,12,13,Chicken Momos,2025-01-19,13:44:07,Completed,219.00
+7944,13,12,Ramen Bowl,2025-04-07,14:10:25,Completed,591.00
+7945,19,39,Pizza Margherita,2025-03-06,16:13:27,Completed,568.00
+7946,16,34,Chicken Biryani,2025-03-25,15:18:48,Completed,355.00
+7947,5,32,Veg Chowmein,2025-04-26,08:39:48,Pending,230.00
+7948,29,1,Seekh Kebab,2025-03-28,09:20:37,Completed,392.00
+7949,5,37,Chicken Momos,2025-04-04,17:28:22,Completed,322.00
+7950,24,32,Pad Thai,2025-04-08,22:20:34,Cancelled,348.00
+7951,15,38,Cheese Burger,2025-01-06,18:26:29,Pending,303.00
+7952,26,30,Hot Pot Combo,2025-02-27,11:09:47,Completed,767.00
+7953,2,9,Ramen Bowl,2025-02-18,11:25:23,Completed,484.00
+7954,10,38,Cheese Burger,2025-01-28,10:01:25,Completed,289.00
+7955,22,13,Chicken Biryani,2025-03-05,19:10:19,Pending,480.00
+7956,18,15,Grilled Steak,2025-03-04,22:27:27,Cancelled,650.00
+7957,32,43,Mutton Biryani,2025-02-15,10:04:20,Completed,535.00
+7958,19,10,Fish Fry,2025-03-08,22:51:13,Completed,483.00
+7959,20,41,Cheese Burger,2025-02-13,16:43:39,Completed,251.00
+7960,9,34,Pad Thai,2025-02-13,18:51:44,Pending,394.00
+7961,31,5,Chicken Biryani,2025-02-27,18:26:15,Completed,423.00
+7962,15,21,Thai Fried Rice,2025-04-28,22:50:17,Completed,377.00
+7963,22,45,Grilled Steak,2025-04-26,11:20:50,Completed,668.00
+7964,16,16,Cappuccino,2025-03-14,22:56:01,Completed,174.00
+7965,25,49,Chicken Shawarma,2025-03-21,17:05:33,Completed,384.00
+7966,18,5,Hot Pot Combo,2025-02-19,13:50:49,Completed,696.00
+7967,24,50,Mutton Biryani,2025-03-02,14:14:40,Completed,471.00
+7968,31,36,Chicken Shawarma,2025-04-11,15:20:31,Cancelled,384.00
+7969,13,42,Grilled Steak,2025-04-29,10:18:46,Completed,659.00
+7970,34,33,Pad Thai,2025-02-01,19:27:44,Pending,302.00
+7971,20,17,Grilled Steak,2025-01-19,16:01:01,Completed,717.00
+7972,6,24,Hot Pot Combo,2025-04-10,11:28:40,Completed,700.00
+7973,29,49,Ramen Bowl,2025-01-14,15:29:17,Completed,595.00
+7974,30,19,Cheese Burger,2025-03-17,11:20:01,Completed,303.00
+7975,31,24,Chicken Shawarma,2025-02-10,19:35:01,Completed,312.00
+7976,26,12,Ramen Bowl,2025-03-20,08:41:18,Completed,585.00
+7977,3,33,Mutton Biryani,2025-04-03,11:31:04,Cancelled,415.00
+7978,10,7,Chocolate Sundae,2025-01-21,14:05:48,Completed,211.00
+7979,22,6,Pizza Margherita,2025-02-13,09:31:25,Completed,614.00
+7980,27,42,Pasta Alfredo,2025-03-30,11:35:52,Completed,333.00
+7981,29,11,Paneer Butter Masala,2025-04-08,15:14:15,Completed,432.00
+7982,2,4,Thai Fried Rice,2025-04-18,14:30:02,Completed,289.00
+7983,10,9,Chocolate Sundae,2025-02-10,17:24:48,Completed,221.00
+7984,2,33,Hakka Noodles,2025-02-07,22:01:42,Completed,326.00
+7985,5,3,Grilled Steak,2025-03-17,08:13:14,Completed,611.00
+7986,23,45,Masala Dosa,2025-03-16,18:32:57,Pending,281.00
+7987,14,10,Falafel Wrap,2025-01-01,16:17:35,Completed,299.00
+7988,11,13,Hakka Noodles,2025-03-19,15:21:12,Completed,286.00
+7989,26,8,Thai Fried Rice,2025-02-06,21:01:28,Completed,361.00
+7990,26,14,Cheese Burger,2025-01-15,08:24:51,Completed,272.00
+7991,13,49,BBQ Chicken Platter,2025-04-05,16:53:44,Completed,601.00
+7992,20,24,Hot Pot Combo,2025-01-07,14:36:56,Pending,724.00
+7993,14,33,Chicken Biryani,2025-02-09,07:13:53,Completed,425.00
+7994,14,32,Seekh Kebab,2025-02-19,17:29:25,Completed,342.00
+7995,32,31,Falafel Wrap,2025-03-18,16:50:42,Pending,263.00
+7996,5,40,Paneer Butter Masala,2025-04-24,07:54:01,Completed,292.00
+7997,18,1,Pad Thai,2025-02-26,19:46:36,Cancelled,324.00
+7998,4,24,Grilled Steak,2025-03-24,13:27:47,Pending,629.00
+7999,18,27,Thai Fried Rice,2025-01-03,16:49:02,Pending,307.00
+8000,10,17,Hot Pot Combo,2025-04-30,13:07:58,Completed,667.00

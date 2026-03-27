@@ -1,0 +1,51 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,Spice Route,Dhaka,10:00-22:00
+2,Biryani Boulevard,Chattogram,11:00-23:00
+3,Green Bowl,Sylhet,09:00-21:00
+4,Pasta Palace,Dhaka,12:00-23:30
+5,Kebab Kingdom,Khulna,10:30-22:30
+6,Dosa Corner,Rajshahi,08:00-20:00
+7,Burger Barn,Dhaka,11:00-00:00
+8,Curry Leaf,Barishal,10:00-22:00
+9,Chowmein Street,Chattogram,12:00-23:00
+10,Tandoor Express,Dhaka,11:30-23:30
+11,Sushi Spot,Dhaka,13:00-22:30
+12,Pizza Port,Sylhet,12:00-23:59
+13,Tea & Toast,Rajshahi,07:30-19:30
+14,Momo House,Dhaka,11:00-22:00
+15,Shawarma Shack,Chattogram,12:00-23:00
+16,BBQ Bay,Khulna,16:00-23:59
+17,Healthy Bites,Dhaka,09:00-21:00
+18,Deshi Delights,Sylhet,10:00-22:00
+19,Seafood Station,Chattogram,12:00-23:30
+20,Street Tacos,Dhaka,12:00-22:30
+21,Noodle Nest,Barishal,11:00-22:00
+22,Ice Cream Isle,Dhaka,14:00-23:00
+23,Cafe Cinnamon,Rajshahi,09:00-22:00
+24,Paneer Point,Dhaka,11:00-23:00
+25,Khichuri Kitchen,Khulna,10:00-21:30
+26,Halwa Heaven,Sylhet,08:00-20:00
+27,Thai Taste,Dhaka,12:30-23:30
+28,Wrap World,Chattogram,11:00-22:30
+29,Chaat Chat,Dhaka,10:00-22:00
+30,Grill Garden,Barishal,16:00-23:00
+31,Breakfast Bistro,Dhaka,07:00-15:00
+32,Donut Dock,Sylhet,10:00-22:00
+33,Steak Studio,Dhaka,13:00-23:59
+34,Bakery Bliss,Khulna,08:00-21:00
+35,Rangpur Rosti,Rangpur,10:00-22:00
+36,Mymen Chai House,Mymensingh,08:00-20:00
+37,Cumilla Kacchi,Cumilla,11:00-23:00
+38,Gazipur Grills,Gazipur,12:00-23:30
+39,Shahi Sweets,Dhaka,09:00-22:00
+40,Bangla Bento,Sylhet,10:00-21:30
+41,Urban Wok,Chattogram,12:00-23:59
+42,Paneer Plaza,Rajshahi,11:00-22:30
+43,Falafel Factory,Dhaka,10:30-22:30
+44,Sea Breeze Cafe,Coxs Bazar,10:00-23:00
+45,Hot Pot Hub,Dhaka,13:00-23:00
+46,Ramen Republic,Dhaka,12:00-22:30
+47,BBQ & Beyond,Khulna,16:00-23:59
+48,Veggie Vault,Sylhet,09:00-21:00
+49,Dessert Duniya,Chattogram,11:00-23:00
+50,Juice Junction,Barishal,08:00-20:00
