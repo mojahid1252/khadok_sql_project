@@ -1,11 +1,11 @@
-# 🍔 Khadok Food Delivery SQL Data Analysis Project
+# Khadok Food Delivery SQL Data Analysis Project
 
 ##  Project Overview
 **Khadok** is a food delivery platform (inspired by Foodpanda/Pathao Food) 
 built to demonstrate real-world SQL analytics skills.
 
-This project analyzes **end-to-end food delivery operations** — from customer ordering 
-behavior to restaurant performance, rider efficiency, and revenue growth — using 
+This project analyzes **end-to-end food delivery operations** from customer ordering 
+behavior to restaurant performance, rider efficiency, and revenue growth using 
 **advanced SQL techniques  like CTEs, window functions, and aggregation.** in PostgreSQL.
 
 ## Project Structure
