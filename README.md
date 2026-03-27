@@ -135,6 +135,7 @@ where rank<=5;
 ```
 ## 2.Popular Time Slots based on 2-hour intervals.
 **Approach 1**
+Objective: Identify the most popular ordering time slots using 2-hour intervals to understand demand peaks.
 ``` sql
 SELECT
 FLOOR (extract (hour from order_time)/2)*2 as start_time,
