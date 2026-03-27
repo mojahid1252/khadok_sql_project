@@ -568,7 +568,7 @@ GROUP BY 1;
 
 ##  Key Insights & Recommendations
 ```
-#	Insight	Business Recommendation
+
 1	Peak orders occur during lunch (12-2 PM) and dinner (7-9 PM) slots
   Recommendation: Increase rider availability during peak hours
 
