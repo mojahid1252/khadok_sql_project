@@ -197,8 +197,8 @@ Insight: Shows spending behavior of high-frequency customers, helping design loy
 ```
 **Q4. Find customers whose total spending is more than 25,000.**
 ```
-Objective: Calculate the average order value for customers who placed more than 60 orders to evaluate high-frequency customer value.
-```
+Objective: Identify customers whose total spending exceeds 25,000 to find premium/high-value customers.
+ ```
 ``` sql
 SELECT c.customer_name,COUNT(o.order_id) AS total_order,SUM(*) AS total_order_amount
 FROM customers AS c
@@ -231,7 +231,7 @@ Insight: Highlights restaurants/cities with delivery failures so operations can 
 ```
 **Q6. Rank restaurants by total revenue (last year) within each city.**
 ```
-Objective: Find restaurant-wise count of “Not Delivered” orders along with city to spot fulfillment issues.
+Objective: Rank restaurants by total revenue (last year) within each city to identify top performers. 
 ```
 ``` sql
 select city,restaurant_name,total_revenue,ranking from
@@ -390,7 +390,7 @@ FROM customer_segmentation
 ; 
 ```
 ```
-Insight: Provides month-wise rider earnings for payroll planning and cost monitoring.
+Insight: Enables differentiated marketing—retain Gold customers and encourage Silver customers to increase spend. 
 ```
 **Q13. Calculate each rider’s monthly earnings (8% of order amount).**
 ```
