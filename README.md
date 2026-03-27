@@ -1,5 +1,6 @@
 # Khadok Food Delivery SQL Data Analysis Project
-<img width="820" height="434" alt="Dashboard" src="https://github.com/user-attachments/assets/59bfbab3-f1ef-487f-b2db-35bbc6633dc3" />
+<img Screenshot 2026-02-09 192256.png />
+
 
 
 ##  Project Overview
