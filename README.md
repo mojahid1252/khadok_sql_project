@@ -20,15 +20,12 @@ behavior to restaurant performance, rider efficiency, and revenue growth using
 ## 📊 Dataset Overview
 ```
 The project uses 5 interconnected tables simulating a complete food delivery ecosystem:
-Table: customers | Records: 34 | Description: Customer profiles including names and registration dates throughout 2024
 
+**Table: customers | Records: 34 | Description: Customer profiles including names and registration dates throughout 2024
 Table: restaurants | Records: 50 | Description: Detailed restaurant profiles including city locations across Bangladesh and operating hours
-
 Table: orders | Records: 2,000 | Description: Transactional records tracking order items, dates, times, completion status, and total amounts
-
 Table: riders | Records: 34 | Description: Profiles of delivery partners including their sign-up dates in 2024
-
-Table: deliveries | Records: 2,000 | Description: Logistical data tracking delivery status (Delivered, In Transit, Not Delivered) and completion times for every order
+Table: deliveries | Records: 2,000 | Description: Logistical data tracking delivery status (Delivered, In Transit, Not Delivered) and completion times for every order**
 ```
 
 
