@@ -566,21 +566,27 @@ GROUP BY 1;
 ```
 
 
-##📊 Key Insights & Recommendations
+##  Key Insights & Recommendations
 ```
 #	Insight	Business Recommendation
 1	Peak orders occur during lunch (12-2 PM) and dinner (7-9 PM) slots
   Recommendation: Increase rider availability during peak hours
+
 2	Some restaurants have high cancellation rates increasing MoM
 	Recommendation: Investigate food quality and prep time issues
+
 3	Gold segment customers contribute disproportionately high revenue
 Recommendation: Launch exclusive loyalty programs for Gold customers
+
 4	Some riders consistently deliver under 80 minutes (5-star)
 	Recommendation: Reward top riders; study their routes for best practices
+
 5	Certain cities generate significantly more revenue
   Recommendation: Increase marketing spend and restaurant onboarding in top cities
+
 6	Customer churn detected — active Q1 users dropping off in April
   Recommendation: Deploy automated win-back campaigns with discount codes
+
 7	Monthly growth rate shows seasonal patterns
   Recommendation: Plan promotional budgets aligned with seasonal demand
 ```
